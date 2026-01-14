@@ -13,8 +13,10 @@ from src.config import BASE_URL, GAME, HEADERS, REPLACE_WINS_DICT
 def get_matcher_per_player(player_name : str):
     player_url = f"{BASE_URL}/{GAME}/{player_name}/Matches"
     all_matches = get_tables_from_url(player_url)
+    time.sleep(np.random.uniform(30, 60))
 
     resp = requests.get(player_url, headers=HEADERS)
+    time.sleep(np.random.uniform(30, 60))
     soup = BeautifulSoup(resp.text, "html.parser")
     links = soup.find_all("a")
 
@@ -30,7 +32,7 @@ def get_matcher_per_player(player_name : str):
     for link in season_links:
         try:
             all_matches.extend(get_tables_from_url(link))
-            time.sleep(120 + np.random.uniform(0, 40))
+            time.sleep(150 + np.random.uniform(20, 60))
         except Exception as e:
             print("Error:", e)
         # end try
