@@ -30,7 +30,7 @@ def get_matcher_per_player(player_name : str):
     for link in season_links:
         try:
             all_matches.extend(get_tables_from_url(link))
-            time.sleep(60 + np.random.uniform(0, 25))
+            time.sleep(120 + np.random.uniform(0, 40))
         except Exception as e:
             print("Error:", e)
         # end try
