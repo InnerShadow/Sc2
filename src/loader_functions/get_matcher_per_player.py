@@ -3,6 +3,7 @@ from bs4 import BeautifulSoup
 import pandas as pd
 from urllib.parse import urljoin
 import time
+import numpy as np
 
 from src.loader_functions.get_tables_from_url import get_tables_from_url
 from src.loader_functions.parse_liquipedia_datetime import parse_liquipedia_datetime
@@ -29,7 +30,7 @@ def get_matcher_per_player(player_name : str):
     for link in season_links:
         try:
             all_matches.extend(get_tables_from_url(link))
-            time.sleep(30)
+            time.sleep(45 + np.random.uniform(0, 10))
         except Exception as e:
             print("Error:", e)
         # end try
