@@ -13,7 +13,7 @@ def _load_players() -> pd.DataFrame:
 def load_data():
     while True:
         df_players = _load_players()
-        df_players_filtered = df_players[df_players['is_loaded'] != True].reset_index(drop = True)
+        df_players_filtered = df_players[df_players['is_loaded'] != 1].reset_index(drop = True)
 
         if df_players_filtered.empty:
             print("All players are loaded. Exit.")
@@ -28,9 +28,10 @@ def load_data():
 
         csv_path = f'./data/{cur_player}.csv'
         df_curr.to_csv(csv_path, index = False, sep = ';')
-        df_players.loc[0, 'is_loaded'] = True
-        df_players.loc[0, 'path'] = csv_path
-        df_players.loc[0, 'race'] = race
+        mask = df_players['player'] == cur_player
+        df_players.loc[mask, 'is_loaded'] = 1
+        df_players.loc[mask, 'path'] = csv_path
+        df_players.loc[mask, 'race'] = race
 
         existing_players = set(df_players['player'])
 
@@ -46,12 +47,7 @@ def load_data():
             })
             df_players = pd.concat([df_players, df_new], ignore_index=True)
         # end if
-
-        mask = df_players['player'] == cur_player
-        df_players.loc[mask, 'is_loaded'] = True
-        df_players.loc[mask, 'path'] = csv_path
-        df_players.loc[mask, 'race'] = race
-
+        
         df_players.to_csv(PATH_TO_PLAYERS, sep = ';', index = False)
     # end while
 # end def
