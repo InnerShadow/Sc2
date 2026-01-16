@@ -1,0 +1,481 @@
+date;match;tournament;player;oponent;player_wins;oponent_wins;best_of;tournament_tier;target
+2026-01-10;A-Tier;Big Gabe Cup #3 - Main Bracket;Reynor;Clem;0;2;3;A;0
+2026-01-10;A-Tier;Big Gabe Cup #3 - Main Bracket;Reynor;Clem;3;2;5;A;1
+2026-01-10;A-Tier;Big Gabe Cup #3 - Main Bracket;Reynor;Lambo;2;0;3;A;1
+2026-01-10;A-Tier;Big Gabe Cup #3 - Main Bracket;Reynor;Clem;1;3;5;A;0
+2026-01-10;A-Tier;Big Gabe Cup #3 - Main Bracket;Reynor;Krystianer;2;1;3;A;1
+2026-01-10;A-Tier;Big Gabe Cup #3 - Main Bracket;Reynor;Harstem;2;0;3;A;1
+2026-01-10;A-Tier;Big Gabe Cup #3 - Main Bracket;Reynor;Timo;2;0;3;A;1
+2025-12-26;Showm. (B);Basilisk Big Brain Bouts #103 - The Basilisk One;Reynor;Scarlett;3;1;5;B;1
+2025-12-25;B-Tier;WardiTV Christmas Day Games 2025;Reynor;MaxPax;1;3;5;B;0
+2025-12-21;A-Tier;WardiTV 2025 - Championship Bracket;Reynor;Clem;2;3;5;A;0
+2025-12-21;A-Tier;WardiTV 2025 - Championship Bracket;Reynor;Solar;3;2;5;A;1
+2025-12-20;A-Tier;WardiTV 2025 - Championship Bracket;Reynor;Cure;3;1;5;A;1
+2025-12-20;A-Tier;WardiTV 2025 - Championship Bracket;Reynor;MaxPax;0;3;5;A;0
+2025-12-16;A-Tier;WardiTV 2025 - Championship Bracket;Reynor;Clem;3;2;5;A;1
+2025-12-16;A-Tier;WardiTV 2025 - Championship Bracket;Reynor;Scarlett;3;1;5;A;1
+2025-12-14;A-Tier;RSL Offline Finals - Grand Final Bracket;Reynor;Zoun;4;3;5;A;1
+2025-12-14;A-Tier;RSL Offline Finals - Grand Final Bracket;Reynor;Classic;1;4;5;A;0
+2025-12-13;A-Tier;RSL Offline Finals - Open Bracket Stage;Reynor;Maru;4;2;5;A;1
+2025-12-13;A-Tier;RSL Offline Finals - Open Bracket Stage;Reynor;Solar;3;2;5;A;1
+2025-12-13;A-Tier;RSL Offline Finals - Open Bracket Stage;Reynor;Percival;3;0;5;A;1
+2025-12-13;A-Tier;RSL Offline Finals - Open Bracket Stage;Reynor;Jumy;3;1;5;A;1
+2025-12-09;A-Tier;WardiTV 2025 - Group Stage;Reynor;Nicoract;2;0;3;A;1
+2025-12-09;A-Tier;WardiTV 2025 - Group Stage;Reynor;Gerald;2;0;3;A;1
+2025-12-09;A-Tier;WardiTV 2025 - Group Stage;Reynor;sOs;2;1;3;A;1
+2025-12-09;A-Tier;WardiTV 2025 - Group Stage;Reynor;Spirit;2;1;3;A;1
+2025-12-08;Week. (B);WardiTV Mondays #64;Reynor;Clem;0;2;3;B;0
+2025-12-08;Week. (B);WardiTV Mondays #64;Reynor;Creator;2;1;3;B;1
+2025-12-08;Week. (B);WardiTV Mondays #64;Reynor;Harstem;2;0;3;B;1
+2025-12-03;Qual. (A);WardiTV 2025 Q4;Reynor;Bunny;2;0;3;A;1
+2025-12-03;Qual. (A);WardiTV 2025 Q4;Reynor;Gerald;2;0;3;A;1
+2025-12-03;Qual. (A);WardiTV 2025 Q4;Reynor;LetaleX;2;0;3;A;1
+2025-12-01;Week. (B);WardiTV Mondays #63;Reynor;Solar;0;2;3;B;0
+2025-12-01;Week. (B);WardiTV Mondays #63;Reynor;MaNa;2;1;3;B;1
+2025-12-01;Week. (B);WardiTV Mondays #63;Reynor;Shameless;2;1;3;B;1
+2025-11-30;B-Tier;WardiTV Korean Royale S4 - Playoffs;Reynor;SHIN;2;3;5;B;0
+2025-11-24;Week. (B);WardiTV Mondays #62;Reynor;Nicoract;1;2;3;B;0
+2025-11-24;Week. (B);WardiTV Mondays #62;Reynor;SHIN;2;0;3;B;1
+2025-11-22;A-Tier;RSL Revival: Season 3 - Playoffs;Reynor;SHIN;2;3;5;A;0
+2025-11-21;A-Tier;RSL Revival: Season 3 - Playoffs;Reynor;herO;0;3;5;A;0
+2025-11-20;A-Tier;RSL Revival: Season 3 - Playoffs;Reynor;Classic;3;2;5;A;1
+2025-11-18;B-Tier;WardiTV Korean Royale S4 - GS Group A;Reynor;NightMare;2;0;3;B;1
+2025-11-18;B-Tier;WardiTV Korean Royale S4 - GS Group A;Reynor;Zoun;1;2;3;B;0
+2025-11-18;B-Tier;WardiTV Korean Royale S4 - GS Group A;Reynor;Percival;1;2;3;B;0
+2025-11-17;Week. (B);Monday Night Weeklies #30;Reynor;Fjant;1;2;3;B;0
+2025-11-17;Week. (B);WardiTV Mondays #61;Reynor;herO;1;2;3;B;0
+2025-11-17;Week. (B);WardiTV Mondays #61;Reynor;MaxPax;2;0;3;B;1
+2025-11-17;Week. (B);WardiTV Mondays #61;Reynor;Cure;2;1;3;B;1
+2025-11-16;B-Tier;Kung Fu Cup 2025 Monthly #3;Reynor;herO;4;2;5;B;1
+2025-11-16;A-Tier;RSL Revival: Season 3 - Group Stage;Reynor;Ryung;2;0;3;A;1
+2025-11-16;A-Tier;RSL Revival: Season 3 - Group Stage;Reynor;Maru;0;2;3;A;0
+2025-11-16;A-Tier;RSL Revival: Season 3 - Group Stage;Reynor;sOs;2;0;3;A;1
+2025-11-15;B-Tier;Kung Fu Cup 2025 Monthly #3;Reynor;Cure;4;0;5;B;1
+2025-11-13;B-Tier;Kung Fu Cup 2025 Monthly #3;Reynor;ShoWTimE;3;2;5;B;1
+2025-11-12;B-Tier;Kung Fu Cup 2025 Monthly #3;Reynor;GuMiho;2;0;3;B;1
+2025-11-09;B-Tier;WardiTV Korean Royale S4 - GS Group A;Reynor;Solar;0;2;3;B;0
+2025-11-09;B-Tier;WardiTV Korean Royale S4 - GS Group A;Reynor;Cure;2;1;3;B;1
+2025-11-09;B-Tier;WardiTV Korean Royale S4 - GS Group A;Reynor;Ryung;2;0;3;B;1
+2025-11-01;Showm. (B);LiuLi Cup #47;Reynor;herO;1;4;5;B;0
+2025-10-12;A-Tier;WardiTV TLMC #15 - Playoffs;Reynor;herO;1;3;5;A;0
+2025-10-11;A-Tier;WardiTV TLMC #15 - Playoffs;Reynor;Cure;3;2;5;A;1
+2025-10-10;A-Tier;WardiTV TLMC #15 - Group D;Reynor;Bunny;2;0;3;A;1
+2025-10-10;A-Tier;WardiTV TLMC #15 - Group D;Reynor;MaNa;2;1;3;A;1
+2025-10-10;A-Tier;WardiTV TLMC #15 - Group D;Reynor;Classic;1;2;3;A;0
+2025-10-10;A-Tier;WardiTV TLMC #15 - Group D;Reynor;Lambo;2;1;3;A;1
+2025-09-29;Week. (B);KSR #12;Reynor;SKillous;0;1;1;B;0
+2025-09-29;Week. (B);KSR #12;Reynor;ByuN;0;2;3;B;0
+2025-09-29;Week. (B);KSR #12;Reynor;Gerald;2;1;3;B;1
+2025-09-29;B-Tier;SCWC 2025 - Showmatch;Reynor;UedSoldier;3;1;5;B;1
+2025-09-27;A-Tier;Maestros of the Game - Playoffs;Reynor;Serral;1;4;5;A;0
+2025-09-27;A-Tier;Maestros of the Game - Playoffs;Reynor;Clem;2;4;5;A;0
+2025-09-20;A-Tier;RSL Revival: Season 2 - Playoffs;Reynor;Cure;2;3;5;A;0
+2025-09-18;A-Tier;RSL Revival: Season 2 - Playoffs;Reynor;Maru;3;2;5;A;1
+2025-09-13;A-Tier;Maestros of the Game - Playoffs;Reynor;Serral;3;0;5;A;1
+2025-09-13;A-Tier;Maestros of the Game - Playoffs;Reynor;Zoun;3;1;5;A;1
+2025-09-13;A-Tier;RSL Revival: Season 2 - Playoffs;Reynor;SHIN;3;0;5;A;1
+2025-09-11;A-Tier;RSL Revival: Season 2 - Playoffs;Reynor;Zoun;2;3;5;A;0
+2025-09-05;A-Tier;RSL Revival: Season 2 - Group B;Reynor;Classic;2;1;3;A;1
+2025-09-05;A-Tier;RSL Revival: Season 2 - Group B;Reynor;Astrea;2;0;3;A;1
+2025-09-04;A-Tier;Maestros of the Game - Group A;Reynor;trigger;3;0;5;A;1
+2025-09-04;A-Tier;Maestros of the Game - Group A;Reynor;SHIN;2;0;3;A;1
+2025-08-29;Showm. (B);Basilisk Big Brain Bouts #100 - Bouts;Reynor;Classic;0;3;5;B;0
+2025-08-25;B-Tier;Rotti's All Random Finals;Reynor;Lambo;3;2;5;B;1
+2025-08-25;B-Tier;Rotti's All Random Finals;Reynor;Jumy;2;1;3;B;1
+2025-08-25;B-Tier;Rotti's All Random Finals;Reynor;Mixu;2;0;3;B;1
+2025-08-25;B-Tier;Rotti's All Random Finals;Reynor;GgMaChine;2;1;3;B;1
+2025-08-25;B-Tier;Rotti's All Random Finals;Reynor;Greenert;2;1;3;B;1
+2025-08-18;B-Tier;Rotti's All Random #4;Reynor;GgMaChine;2;0;3;B;1
+2025-08-18;B-Tier;Rotti's All Random #4;Reynor;Shameless;2;0;3;B;1
+2025-08-18;B-Tier;Rotti's All Random #4;Reynor;Clem;2;1;3;B;1
+2025-08-18;B-Tier;Rotti's All Random #4;Reynor;GgMaChine;2;0;3;B;1
+2025-08-06;Showm. (B);LiuLi Cup #43;Reynor;Clem;4;3;5;B;1
+2025-07-27;A-Tier;FEL Cracow 2025;Reynor;Clem;3;4;5;A;0
+2025-07-27;A-Tier;FEL Cracow 2025;Reynor;Clem;3;0;5;A;1
+2025-07-27;A-Tier;FEL Cracow 2025;Reynor;Lambo;3;1;5;A;1
+2025-07-27;A-Tier;FEL Cracow 2025;Reynor;MaNa;2;1;3;A;1
+2025-07-24;S-Tier;Esports World Cup 2025 - Playoffs;Reynor;Serral;2;3;5;S;0
+2025-07-24;S-Tier;Esports World Cup 2025 - Group A;Reynor;Zoun;3;2;5;S;1
+2025-07-23;S-Tier;Esports World Cup 2025 - Group A;Reynor;Maru;2;3;5;S;0
+2025-07-22;S-Tier;Esports World Cup 2025 - Group A;Reynor;SHIN;2;0;3;S;1
+2025-07-14;Week. (B);WardiTV Mondays #44;Reynor;Clem;0;2;3;B;0
+2025-07-14;Week. (B);WardiTV Mondays #44;Reynor;Classic;2;0;3;B;1
+2025-07-10;A-Tier;RSL Revival: Season 1 - Playoffs;Reynor;Clem;1;3;5;A;0
+2025-07-07;Week. (B);WardiTV Mondays #43;Reynor;ByuN;1;2;3;B;0
+2025-07-07;Week. (B);WardiTV Mondays #43;Reynor;Harstem;2;0;3;B;1
+2025-07-05;A-Tier;RSL Revival: Season 1 - Playoffs;Reynor;herO;3;0;5;A;1
+2025-07-05;Biw. (B);Korean Starcraft League #77;Reynor;Classic;0;3;5;B;0
+2025-07-05;Biw. (B);Korean Starcraft League #77;Reynor;ByuN;2;0;3;B;1
+2025-07-05;Biw. (B);Korean Starcraft League #77;Reynor;Lemon;2;0;3;B;1
+2025-07-04;A-Tier;RSL Revival: Season 1 - Playoffs;Reynor;Cure;1;3;5;A;0
+2025-06-30;Week. (B);Monday Night Weeklies #20;Reynor;ByuN;0;1;1;B;0
+2025-06-30;Week. (B);Monday Night Weeklies #20;Reynor;MaxPax;1;0;1;B;1
+2025-06-30;Week. (B);Monday Night Weeklies #20;Reynor;Jumy;1;0;1;B;1
+2025-06-30;Week. (B);Monday Night Weeklies #20;Reynor;ByuN;1;2;3;B;0
+2025-06-30;Week. (B);Monday Night Weeklies #20;Reynor;Iba;2;1;3;B;1
+2025-06-30;Week. (B);Monday Night Weeklies #20;Reynor;Matt;2;0;3;B;1
+2025-06-23;Week. (B);Monday Night Weeklies #19;Reynor;Clem;2;0;3;B;1
+2025-06-23;Week. (B);Monday Night Weeklies #19;Reynor;Clem;2;0;3;B;1
+2025-06-23;Week. (B);Monday Night Weeklies #19;Reynor;MaxPax;1;0;1;B;1
+2025-06-23;Week. (B);Monday Night Weeklies #19;Reynor;Solar;1;0;1;B;1
+2025-06-23;Week. (B);Monday Night Weeklies #19;Reynor;Classic;1;0;1;B;1
+2025-06-23;Week. (B);Monday Night Weeklies #19;Reynor;HeRoMaRinE;1;0;1;B;1
+2025-06-23;Week. (B);Monday Night Weeklies #19;Reynor;Solar;0;2;3;B;0
+2025-06-23;Week. (B);Monday Night Weeklies #19;Reynor;HiGhDrA;1;0;1;B;1
+2025-06-23;Week. (B);Monday Night Weeklies #19;Reynor;Fjant;2;0;3;B;1
+2025-06-20;A-Tier;RSL Revival: Season 1 - Group Stage;Reynor;ShoWTimE;2;0;3;A;1
+2025-06-20;A-Tier;RSL Revival: Season 1 - Group Stage;Reynor;Classic;0;2;3;A;0
+2025-06-20;A-Tier;RSL Revival: Season 1 - Group Stage;Reynor;Scarlett;2;1;3;A;1
+2025-06-19;B-Tier;WardiTV !TR Inv;Reynor;Clem;0;3;5;B;0
+2025-06-19;B-Tier;WardiTV !TR Inv;Reynor;ByuN;2;1;3;B;1
+2025-06-19;B-Tier;WardiTV !TR Inv;Reynor;MaxPax;2;0;3;B;1
+2025-06-19;B-Tier;WardiTV !TR Inv;Reynor;ByuN;1;2;3;B;0
+2025-06-16;Week. (B);Monday Night Weeklies #18;Reynor;MaxPax;0;1;1;B;0
+2025-06-16;Week. (B);Monday Night Weeklies #18;Reynor;ShoWTimE;1;0;1;B;1
+2025-06-16;Week. (B);Monday Night Weeklies #18;Reynor;sebesdes;1;0;1;B;1
+2025-06-16;Week. (B);Monday Night Weeklies #18;Reynor;MaxPax;0;2;3;B;0
+2025-06-16;Week. (B);Monday Night Weeklies #18;Reynor;ShoWTimE;2;1;3;B;1
+2025-06-16;Week. (B);Monday Night Weeklies #18;Reynor;sebesdes;2;0;3;B;1
+2025-06-16;Week. (B);WardiTV Mondays #40;Reynor;Solar;1;2;3;B;0
+2025-06-16;Week. (B);WardiTV Mondays #40;Reynor;Nicoract;2;0;3;B;1
+2025-06-14;B-Tier;WardiTV June - Playoffs;Reynor;MaxPax;1;3;5;B;0
+2025-06-14;B-Tier;WardiTV June - Playoffs;Reynor;Gerald;3;1;5;B;1
+2025-06-14;B-Tier;WardiTV June - Playoffs;Reynor;Creator;3;0;5;B;1
+2025-06-13;B-Tier;WardiTV June - Group Stage;Reynor;MaNa;2;0;3;B;1
+2025-06-13;B-Tier;WardiTV June - Group Stage;Reynor;Nicoract;2;0;3;B;1
+2025-06-13;B-Tier;WardiTV June - Group Stage;Reynor;HiGhDrA;2;0;3;B;1
+2025-06-07;A-Tier;BGE Stara Zagora 2025;Reynor;ShoWTimE;1;2;3;A;0
+2025-06-06;A-Tier;BGE Stara Zagora 2025;Reynor;Clem;1;2;3;A;0
+2025-06-05;A-Tier;BGE Stara Zagora 2025;Reynor;SKillous;2;0;3;A;1
+2025-06-04;A-Tier;BGE Stara Zagora 2025;Reynor;Future;2;0;3;A;1
+2025-06-01;Qual. (S);EWC 2025 Europe Quali - Bracket;Reynor;ShoWTimE;4;3;5;S;1
+2025-06-01;Qual. (S);EWC 2025 Europe Quali - Bracket;Reynor;Serral;1;4;5;S;0
+2025-05-31;Qual. (S);EWC 2025 Europe Quali - Bracket;Reynor;ShoWTimE;3;0;5;S;1
+2025-05-31;Qual. (S);EWC 2025 Europe Quali - Bracket;Reynor;Lambo;3;1;5;S;1
+2025-05-31;Qual. (S);EWC 2025 Europe Quali - Bracket;Reynor;YoungYakov;3;0;5;S;1
+2025-05-28;Qual. (S);EWC 2025 Europe Quali - Bracket;Reynor;YoungYakov;3;0;5;S;1
+2025-05-28;Qual. (S);EWC 2025 Europe Quali - Bracket;Reynor;Nihed;2;0;3;S;1
+2025-05-25;S-Tier;DreamHack Dallas 2025 - Final Playoffs;Reynor;Solar;2;3;5;S;0
+2025-05-24;S-Tier;DreamHack Dallas 2025 - Bracket B;Reynor;herO;3;0;5;S;1
+2025-05-24;S-Tier;DreamHack Dallas 2025 - Bracket B;Reynor;MaNa;2;0;3;S;1
+2025-05-23;S-Tier;DreamHack Dallas 2025 - Bracket B;Reynor;Gerald;2;1;3;S;1
+2025-05-23;S-Tier;DreamHack Dallas 2025 - Bracket B;Reynor;BigDaddy;2;0;3;S;1
+2025-05-15;S-Tier;2025 GSL S1 - Group Stage 2;Reynor;GuMiho;0;2;3;S;0
+2025-05-15;S-Tier;2025 GSL S1 - Group Stage 2;Reynor;Maru;2;1;3;S;1
+2025-05-15;S-Tier;2025 GSL S1 - Group Stage 2;Reynor;Classic;1;2;3;S;0
+2025-05-07;S-Tier;2025 GSL S1 - Group Stage 1;Reynor;Solar;2;1;3;S;1
+2025-05-07;S-Tier;2025 GSL S1 - Group Stage 1;Reynor;sOs;2;0;3;S;1
+2025-05-07;S-Tier;2025 GSL S1 - Group Stage 1;Reynor;Solar;1;2;3;S;0
+2025-05-01;A-Tier;PiG Sty Festival 6.0 - Group D;Reynor;Bunny;1;3;5;A;0
+2025-05-01;A-Tier;PiG Sty Festival 6.0 - Group D;Reynor;Dark;2;3;5;A;0
+2025-05-01;A-Tier;PiG Sty Festival 6.0 - Group D;Reynor;Bunny;2;0;3;A;1
+2025-04-26;Qual. (S);2025 GSL S1: Qualifier - Round 2 Winners;Reynor;herO;0;2;3;S;0
+2025-04-26;Qual. (S);2025 GSL S1: Qualifier - Round 2 Winners;Reynor;Cure;2;1;3;S;1
+2025-04-26;Qual. (S);2025 GSL S1: Qualifier - Round 2 Winners;Reynor;Classic;0;2;3;S;0
+2025-04-26;Qual. (S);2025 GSL S1: Qualifier - Round 1;Reynor;Zoun;2;0;3;S;1
+2025-04-26;Qual. (S);2025 GSL S1: Qualifier - Round 1;Reynor;Percival;2;1;3;S;1
+2025-04-26;Qual. (S);2025 GSL S1: Qualifier - Round 1;Reynor;Prome;2;0;3;S;1
+2025-04-11;Showm. (B);Basilisk Big Brain Bouts #93 - Main Event;Reynor;ByuN;2;3;5;B;0
+2025-02-07;Showm. (B);Basilisk Big Brain Bouts #84 - Main Event;Reynor;HeRoMaRinE;3;0;5;B;1
+2025-01-25;A-Tier;LiuLi Cup: 2024 Grand Finals - Playoffs;Reynor;MaxPax;1;3;5;A;0
+2025-01-24;A-Tier;LiuLi Cup: 2024 Grand Finals - Playoffs;Reynor;herO;3;2;5;A;1
+2025-01-23;A-Tier;LiuLi Cup: 2024 Grand Finals - Playoffs;Reynor;Dark;3;1;5;A;1
+2025-01-22;A-Tier;LiuLi Cup: 2024 Grand Finals - Playoffs;Reynor;Serral;1;3;5;A;0
+2025-01-18;A-Tier;Master's Coliseum 8 - Playoffs;Reynor;Serral;1;4;5;A;0
+2025-01-17;A-Tier;Master's Coliseum 8 - Playoffs;Reynor;Zoun;4;3;5;A;1
+2025-01-16;A-Tier;Master's Coliseum 8 - Playoffs;Reynor;herO;2;3;5;A;0
+2025-01-10;A-Tier;Master's Coliseum 8 - Playoffs;Reynor;Spirit;3;0;5;A;1
+2025-01-06;A-Tier;LiuLi Cup: 2024 Grand Finals - Group A;Reynor;GuMiho;2;1;3;A;1
+2025-01-06;A-Tier;LiuLi Cup: 2024 Grand Finals - Group A;Reynor;Oliveira;2;1;3;A;1
+2024-12-27;B-Tier;Basilisk BBB End of the Year Open;Reynor;HeRoMaRinE;0;2;3;B;0
+2024-12-27;B-Tier;Basilisk BBB End of the Year Open;Reynor;Jumy;2;0;3;B;1
+2024-12-27;B-Tier;Basilisk BBB End of the Year Open;Reynor;BabyMarine;2;0;3;B;1
+2024-12-27;B-Tier;Basilisk BBB End of the Year Open;Reynor;SKillous;0;2;3;B;0
+2024-12-27;B-Tier;Basilisk BBB End of the Year Open;Reynor;NightPhoenix;2;1;3;B;1
+2024-12-22;A-Tier;Master's Coliseum 8 - Group B;Reynor;Rogue;2;0;3;A;1
+2024-12-22;A-Tier;Master's Coliseum 8 - Group B;Reynor;SKillous;2;0;3;A;1
+2024-12-21;A-Tier;Master's Coliseum 8 - Group B;Reynor;MaxPax;2;1;3;A;1
+2024-12-20;Showm. (B);Basilisk Big Brain Bouts #79 - Main Event;Reynor;Spirit;3;1;5;B;1
+2024-11-30;A-Tier;HSC XXVI - Group C;Reynor;Clem;0;2;3;A;0
+2024-11-30;A-Tier;HSC XXVI - Group C;Reynor;Mixu;2;0;3;A;1
+2024-11-30;A-Tier;HSC XXVI - Group C;Reynor;MaNa;2;1;3;A;1
+2024-11-30;A-Tier;HSC XXVI - Group C;Reynor;DnS;2;0;3;A;1
+2024-11-30;A-Tier;HSC XXVI - Group C;Reynor;HeRoMaRinE;1;2;3;A;0
+2024-11-08;Showm. (B);Basilisk Big Brain Bouts #75 - Main Event;Reynor;MaxPax;1;3;5;B;0
+2024-11-04;Week. (B);KSR #10;Reynor;Iba;1;2;3;B;0
+2024-11-04;Week. (B);KSR #10;Reynor;Bulmyeolja;2;1;3;B;1
+2024-10-11;Showm. (B);Basilisk Big Brain Bouts #71 - Bouts;Reynor;Fjant;3;0;5;B;1
+2024-10-04;Showm. (B);Basilisk Big Brain Bouts #70 - Bouts;Reynor;Clem;3;2;5;B;1
+2024-09-23;Week. (B);KSR #4;Reynor;ByuN;0;2;3;B;0
+2024-09-23;Week. (B);KSR #4;Reynor;BattleB;2;1;3;B;1
+2024-09-23;Week. (B);KSR #4;Reynor;BabyMarine;2;1;3;B;1
+2024-09-23;Week. (B);KSR #4;Reynor;LetaleX;2;0;3;B;1
+2024-09-08;A-Tier;BGE Stara Zagora 2024;Reynor;Oliveira;0;3;5;A;0
+2024-09-08;A-Tier;BGE Stara Zagora 2024;Reynor;Clem;2;3;5;A;0
+2024-09-07;A-Tier;BGE Stara Zagora 2024;Reynor;ShoWTimE;2;1;3;A;1
+2024-09-06;A-Tier;BGE Stara Zagora 2024;Reynor;Lambo;2;1;3;A;1
+2024-09-05;A-Tier;BGE Stara Zagora 2024;Reynor;msrm;2;1;3;A;1
+2024-08-17;S-Tier;Esports World Cup 2024 - Knockout Bracket;Reynor;herO;0;2;3;S;0
+2024-08-17;S-Tier;Esports World Cup 2024 - Knockout Bracket;Reynor;Classic;2;0;3;S;1
+2024-08-17;S-Tier;Esports World Cup 2024 - Knockout Bracket;Reynor;HeRoMaRinE;2;0;3;S;1
+2024-08-16;S-Tier;Esports World Cup 2024 - Group B;Reynor;herO;0;3;5;S;0
+2024-08-16;S-Tier;Esports World Cup 2024 - Group B;Reynor;Solar;3;0;5;S;1
+2024-08-15;S-Tier;Esports World Cup 2024 - Group B;Reynor;Clem;2;3;5;S;0
+2024-08-14;S-Tier;Esports World Cup 2024 - Group B;Reynor;Cure;3;2;5;S;1
+2024-08-05;Week. (B);ESL Open Cup #239 Europe;Reynor;MaxPax;3;2;5;B;1
+2024-08-05;Week. (B);ESL Open Cup #239 Europe;Reynor;Krystianer;2;0;3;B;1
+2024-08-05;Week. (B);ESL Open Cup #239 Europe;Reynor;goblin;2;0;3;B;1
+2024-08-05;Week. (B);ESL Open Cup #239 Europe;Reynor;Azura;2;0;3;B;1
+2024-08-05;Week. (B);ESL Open Cup #239 Europe;Reynor;Greenert;2;0;3;B;1
+2024-08-02;Showm. (B);Basilisk Big Brain Bouts #66 - Main Event;Reynor;SKillous;3;2;5;B;1
+2024-07-31;Week. (B);KFC 2024 S1 #11;Reynor;Trap;1;2;3;B;0
+2024-07-29;Week. (B);ESL Open Cup #238 Europe;Reynor;SKillous;3;0;5;B;1
+2024-07-29;Week. (B);ESL Open Cup #238 Europe;Reynor;Spirit;2;0;3;B;1
+2024-07-29;Week. (B);ESL Open Cup #238 Europe;Reynor;Krystianer;2;0;3;B;1
+2024-07-29;Week. (B);ESL Open Cup #238 Europe;Reynor;Epic;2;0;3;B;1
+2024-07-29;Week. (B);ESL Open Cup #238 Europe;Reynor;Rostok;2;0;3;B;1
+2024-07-22;Week. (B);ESL Open Cup #237 Europe;Reynor;MaxPax;3;2;5;B;1
+2024-07-22;Week. (B);ESL Open Cup #237 Europe;Reynor;Spirit;2;0;3;B;1
+2024-07-22;Week. (B);ESL Open Cup #237 Europe;Reynor;NightPhoenix;2;0;3;B;1
+2024-07-22;Week. (B);ESL Open Cup #237 Europe;Reynor;Moja;2;0;3;B;1
+2024-07-22;Week. (B);ESL Open Cup #237 Europe;Reynor;Luolis;2;0;3;B;1
+2026-01-10;A-Tier;Big Gabe Cup #3 - Main Bracket;Clem;Reynor;2;0;3;A;1
+2026-01-10;A-Tier;Big Gabe Cup #3 - Main Bracket;Clem;Reynor;2;3;5;A;0
+2026-01-10;A-Tier;Big Gabe Cup #3 - Main Bracket;Lambo;Reynor;0;2;3;A;0
+2026-01-10;A-Tier;Big Gabe Cup #3 - Main Bracket;Clem;Reynor;3;1;5;A;1
+2026-01-10;A-Tier;Big Gabe Cup #3 - Main Bracket;Krystianer;Reynor;1;2;3;A;0
+2026-01-10;A-Tier;Big Gabe Cup #3 - Main Bracket;Harstem;Reynor;0;2;3;A;0
+2026-01-10;A-Tier;Big Gabe Cup #3 - Main Bracket;Timo;Reynor;0;2;3;A;0
+2025-12-26;Showm. (B);Basilisk Big Brain Bouts #103 - The Basilisk One;Scarlett;Reynor;1;3;5;B;0
+2025-12-25;B-Tier;WardiTV Christmas Day Games 2025;MaxPax;Reynor;3;1;5;B;1
+2025-12-21;A-Tier;WardiTV 2025 - Championship Bracket;Clem;Reynor;3;2;5;A;1
+2025-12-21;A-Tier;WardiTV 2025 - Championship Bracket;Solar;Reynor;2;3;5;A;0
+2025-12-20;A-Tier;WardiTV 2025 - Championship Bracket;Cure;Reynor;1;3;5;A;0
+2025-12-20;A-Tier;WardiTV 2025 - Championship Bracket;MaxPax;Reynor;3;0;5;A;1
+2025-12-16;A-Tier;WardiTV 2025 - Championship Bracket;Clem;Reynor;2;3;5;A;0
+2025-12-16;A-Tier;WardiTV 2025 - Championship Bracket;Scarlett;Reynor;1;3;5;A;0
+2025-12-14;A-Tier;RSL Offline Finals - Grand Final Bracket;Zoun;Reynor;3;4;5;A;0
+2025-12-14;A-Tier;RSL Offline Finals - Grand Final Bracket;Classic;Reynor;4;1;5;A;1
+2025-12-13;A-Tier;RSL Offline Finals - Open Bracket Stage;Maru;Reynor;2;4;5;A;0
+2025-12-13;A-Tier;RSL Offline Finals - Open Bracket Stage;Solar;Reynor;2;3;5;A;0
+2025-12-13;A-Tier;RSL Offline Finals - Open Bracket Stage;Percival;Reynor;0;3;5;A;0
+2025-12-13;A-Tier;RSL Offline Finals - Open Bracket Stage;Jumy;Reynor;1;3;5;A;0
+2025-12-09;A-Tier;WardiTV 2025 - Group Stage;Nicoract;Reynor;0;2;3;A;0
+2025-12-09;A-Tier;WardiTV 2025 - Group Stage;Gerald;Reynor;0;2;3;A;0
+2025-12-09;A-Tier;WardiTV 2025 - Group Stage;sOs;Reynor;1;2;3;A;0
+2025-12-09;A-Tier;WardiTV 2025 - Group Stage;Spirit;Reynor;1;2;3;A;0
+2025-12-08;Week. (B);WardiTV Mondays #64;Clem;Reynor;2;0;3;B;1
+2025-12-08;Week. (B);WardiTV Mondays #64;Creator;Reynor;1;2;3;B;0
+2025-12-08;Week. (B);WardiTV Mondays #64;Harstem;Reynor;0;2;3;B;0
+2025-12-03;Qual. (A);WardiTV 2025 Q4;Bunny;Reynor;0;2;3;A;0
+2025-12-03;Qual. (A);WardiTV 2025 Q4;Gerald;Reynor;0;2;3;A;0
+2025-12-03;Qual. (A);WardiTV 2025 Q4;LetaleX;Reynor;0;2;3;A;0
+2025-12-01;Week. (B);WardiTV Mondays #63;Solar;Reynor;2;0;3;B;1
+2025-12-01;Week. (B);WardiTV Mondays #63;MaNa;Reynor;1;2;3;B;0
+2025-12-01;Week. (B);WardiTV Mondays #63;Shameless;Reynor;1;2;3;B;0
+2025-11-30;B-Tier;WardiTV Korean Royale S4 - Playoffs;SHIN;Reynor;3;2;5;B;1
+2025-11-24;Week. (B);WardiTV Mondays #62;Nicoract;Reynor;2;1;3;B;1
+2025-11-24;Week. (B);WardiTV Mondays #62;SHIN;Reynor;0;2;3;B;0
+2025-11-22;A-Tier;RSL Revival: Season 3 - Playoffs;SHIN;Reynor;3;2;5;A;1
+2025-11-21;A-Tier;RSL Revival: Season 3 - Playoffs;herO;Reynor;3;0;5;A;1
+2025-11-20;A-Tier;RSL Revival: Season 3 - Playoffs;Classic;Reynor;2;3;5;A;0
+2025-11-18;B-Tier;WardiTV Korean Royale S4 - GS Group A;NightMare;Reynor;0;2;3;B;0
+2025-11-18;B-Tier;WardiTV Korean Royale S4 - GS Group A;Zoun;Reynor;2;1;3;B;1
+2025-11-18;B-Tier;WardiTV Korean Royale S4 - GS Group A;Percival;Reynor;2;1;3;B;1
+2025-11-17;Week. (B);Monday Night Weeklies #30;Fjant;Reynor;2;1;3;B;1
+2025-11-17;Week. (B);WardiTV Mondays #61;herO;Reynor;2;1;3;B;1
+2025-11-17;Week. (B);WardiTV Mondays #61;MaxPax;Reynor;0;2;3;B;0
+2025-11-17;Week. (B);WardiTV Mondays #61;Cure;Reynor;1;2;3;B;0
+2025-11-16;B-Tier;Kung Fu Cup 2025 Monthly #3;herO;Reynor;2;4;5;B;0
+2025-11-16;A-Tier;RSL Revival: Season 3 - Group Stage;Ryung;Reynor;0;2;3;A;0
+2025-11-16;A-Tier;RSL Revival: Season 3 - Group Stage;Maru;Reynor;2;0;3;A;1
+2025-11-16;A-Tier;RSL Revival: Season 3 - Group Stage;sOs;Reynor;0;2;3;A;0
+2025-11-15;B-Tier;Kung Fu Cup 2025 Monthly #3;Cure;Reynor;0;4;5;B;0
+2025-11-13;B-Tier;Kung Fu Cup 2025 Monthly #3;ShoWTimE;Reynor;2;3;5;B;0
+2025-11-12;B-Tier;Kung Fu Cup 2025 Monthly #3;GuMiho;Reynor;0;2;3;B;0
+2025-11-09;B-Tier;WardiTV Korean Royale S4 - GS Group A;Solar;Reynor;2;0;3;B;1
+2025-11-09;B-Tier;WardiTV Korean Royale S4 - GS Group A;Cure;Reynor;1;2;3;B;0
+2025-11-09;B-Tier;WardiTV Korean Royale S4 - GS Group A;Ryung;Reynor;0;2;3;B;0
+2025-11-01;Showm. (B);LiuLi Cup #47;herO;Reynor;4;1;5;B;1
+2025-10-12;A-Tier;WardiTV TLMC #15 - Playoffs;herO;Reynor;3;1;5;A;1
+2025-10-11;A-Tier;WardiTV TLMC #15 - Playoffs;Cure;Reynor;2;3;5;A;0
+2025-10-10;A-Tier;WardiTV TLMC #15 - Group D;Bunny;Reynor;0;2;3;A;0
+2025-10-10;A-Tier;WardiTV TLMC #15 - Group D;MaNa;Reynor;1;2;3;A;0
+2025-10-10;A-Tier;WardiTV TLMC #15 - Group D;Classic;Reynor;2;1;3;A;1
+2025-10-10;A-Tier;WardiTV TLMC #15 - Group D;Lambo;Reynor;1;2;3;A;0
+2025-09-29;Week. (B);KSR #12;SKillous;Reynor;1;0;1;B;1
+2025-09-29;Week. (B);KSR #12;ByuN;Reynor;2;0;3;B;1
+2025-09-29;Week. (B);KSR #12;Gerald;Reynor;1;2;3;B;0
+2025-09-29;B-Tier;SCWC 2025 - Showmatch;UedSoldier;Reynor;1;3;5;B;0
+2025-09-27;A-Tier;Maestros of the Game - Playoffs;Serral;Reynor;4;1;5;A;1
+2025-09-27;A-Tier;Maestros of the Game - Playoffs;Clem;Reynor;4;2;5;A;1
+2025-09-20;A-Tier;RSL Revival: Season 2 - Playoffs;Cure;Reynor;3;2;5;A;1
+2025-09-18;A-Tier;RSL Revival: Season 2 - Playoffs;Maru;Reynor;2;3;5;A;0
+2025-09-13;A-Tier;Maestros of the Game - Playoffs;Serral;Reynor;0;3;5;A;0
+2025-09-13;A-Tier;Maestros of the Game - Playoffs;Zoun;Reynor;1;3;5;A;0
+2025-09-13;A-Tier;RSL Revival: Season 2 - Playoffs;SHIN;Reynor;0;3;5;A;0
+2025-09-11;A-Tier;RSL Revival: Season 2 - Playoffs;Zoun;Reynor;3;2;5;A;1
+2025-09-05;A-Tier;RSL Revival: Season 2 - Group B;Classic;Reynor;1;2;3;A;0
+2025-09-05;A-Tier;RSL Revival: Season 2 - Group B;Astrea;Reynor;0;2;3;A;0
+2025-09-04;A-Tier;Maestros of the Game - Group A;trigger;Reynor;0;3;5;A;0
+2025-09-04;A-Tier;Maestros of the Game - Group A;SHIN;Reynor;0;2;3;A;0
+2025-08-29;Showm. (B);Basilisk Big Brain Bouts #100 - Bouts;Classic;Reynor;3;0;5;B;1
+2025-08-25;B-Tier;Rotti's All Random Finals;Lambo;Reynor;2;3;5;B;0
+2025-08-25;B-Tier;Rotti's All Random Finals;Jumy;Reynor;1;2;3;B;0
+2025-08-25;B-Tier;Rotti's All Random Finals;Mixu;Reynor;0;2;3;B;0
+2025-08-25;B-Tier;Rotti's All Random Finals;GgMaChine;Reynor;1;2;3;B;0
+2025-08-25;B-Tier;Rotti's All Random Finals;Greenert;Reynor;1;2;3;B;0
+2025-08-18;B-Tier;Rotti's All Random #4;GgMaChine;Reynor;0;2;3;B;0
+2025-08-18;B-Tier;Rotti's All Random #4;Shameless;Reynor;0;2;3;B;0
+2025-08-18;B-Tier;Rotti's All Random #4;Clem;Reynor;1;2;3;B;0
+2025-08-18;B-Tier;Rotti's All Random #4;GgMaChine;Reynor;0;2;3;B;0
+2025-08-06;Showm. (B);LiuLi Cup #43;Clem;Reynor;3;4;5;B;0
+2025-07-27;A-Tier;FEL Cracow 2025;Clem;Reynor;4;3;5;A;1
+2025-07-27;A-Tier;FEL Cracow 2025;Clem;Reynor;0;3;5;A;0
+2025-07-27;A-Tier;FEL Cracow 2025;Lambo;Reynor;1;3;5;A;0
+2025-07-27;A-Tier;FEL Cracow 2025;MaNa;Reynor;1;2;3;A;0
+2025-07-24;S-Tier;Esports World Cup 2025 - Playoffs;Serral;Reynor;3;2;5;S;1
+2025-07-24;S-Tier;Esports World Cup 2025 - Group A;Zoun;Reynor;2;3;5;S;0
+2025-07-23;S-Tier;Esports World Cup 2025 - Group A;Maru;Reynor;3;2;5;S;1
+2025-07-22;S-Tier;Esports World Cup 2025 - Group A;SHIN;Reynor;0;2;3;S;0
+2025-07-14;Week. (B);WardiTV Mondays #44;Clem;Reynor;2;0;3;B;1
+2025-07-14;Week. (B);WardiTV Mondays #44;Classic;Reynor;0;2;3;B;0
+2025-07-10;A-Tier;RSL Revival: Season 1 - Playoffs;Clem;Reynor;3;1;5;A;1
+2025-07-07;Week. (B);WardiTV Mondays #43;ByuN;Reynor;2;1;3;B;1
+2025-07-07;Week. (B);WardiTV Mondays #43;Harstem;Reynor;0;2;3;B;0
+2025-07-05;A-Tier;RSL Revival: Season 1 - Playoffs;herO;Reynor;0;3;5;A;0
+2025-07-05;Biw. (B);Korean Starcraft League #77;Classic;Reynor;3;0;5;B;1
+2025-07-05;Biw. (B);Korean Starcraft League #77;ByuN;Reynor;0;2;3;B;0
+2025-07-05;Biw. (B);Korean Starcraft League #77;Lemon;Reynor;0;2;3;B;0
+2025-07-04;A-Tier;RSL Revival: Season 1 - Playoffs;Cure;Reynor;3;1;5;A;1
+2025-06-30;Week. (B);Monday Night Weeklies #20;ByuN;Reynor;1;0;1;B;1
+2025-06-30;Week. (B);Monday Night Weeklies #20;MaxPax;Reynor;0;1;1;B;0
+2025-06-30;Week. (B);Monday Night Weeklies #20;Jumy;Reynor;0;1;1;B;0
+2025-06-30;Week. (B);Monday Night Weeklies #20;ByuN;Reynor;2;1;3;B;1
+2025-06-30;Week. (B);Monday Night Weeklies #20;Iba;Reynor;1;2;3;B;0
+2025-06-30;Week. (B);Monday Night Weeklies #20;Matt;Reynor;0;2;3;B;0
+2025-06-23;Week. (B);Monday Night Weeklies #19;Clem;Reynor;0;2;3;B;0
+2025-06-23;Week. (B);Monday Night Weeklies #19;Clem;Reynor;0;2;3;B;0
+2025-06-23;Week. (B);Monday Night Weeklies #19;MaxPax;Reynor;0;1;1;B;0
+2025-06-23;Week. (B);Monday Night Weeklies #19;Solar;Reynor;0;1;1;B;0
+2025-06-23;Week. (B);Monday Night Weeklies #19;Classic;Reynor;0;1;1;B;0
+2025-06-23;Week. (B);Monday Night Weeklies #19;HeRoMaRinE;Reynor;0;1;1;B;0
+2025-06-23;Week. (B);Monday Night Weeklies #19;Solar;Reynor;2;0;3;B;1
+2025-06-23;Week. (B);Monday Night Weeklies #19;HiGhDrA;Reynor;0;1;1;B;0
+2025-06-23;Week. (B);Monday Night Weeklies #19;Fjant;Reynor;0;2;3;B;0
+2025-06-20;A-Tier;RSL Revival: Season 1 - Group Stage;ShoWTimE;Reynor;0;2;3;A;0
+2025-06-20;A-Tier;RSL Revival: Season 1 - Group Stage;Classic;Reynor;2;0;3;A;1
+2025-06-20;A-Tier;RSL Revival: Season 1 - Group Stage;Scarlett;Reynor;1;2;3;A;0
+2025-06-19;B-Tier;WardiTV !TR Inv;Clem;Reynor;3;0;5;B;1
+2025-06-19;B-Tier;WardiTV !TR Inv;ByuN;Reynor;1;2;3;B;0
+2025-06-19;B-Tier;WardiTV !TR Inv;MaxPax;Reynor;0;2;3;B;0
+2025-06-19;B-Tier;WardiTV !TR Inv;ByuN;Reynor;2;1;3;B;1
+2025-06-16;Week. (B);Monday Night Weeklies #18;MaxPax;Reynor;1;0;1;B;1
+2025-06-16;Week. (B);Monday Night Weeklies #18;ShoWTimE;Reynor;0;1;1;B;0
+2025-06-16;Week. (B);Monday Night Weeklies #18;sebesdes;Reynor;0;1;1;B;0
+2025-06-16;Week. (B);Monday Night Weeklies #18;MaxPax;Reynor;2;0;3;B;1
+2025-06-16;Week. (B);Monday Night Weeklies #18;ShoWTimE;Reynor;1;2;3;B;0
+2025-06-16;Week. (B);Monday Night Weeklies #18;sebesdes;Reynor;0;2;3;B;0
+2025-06-16;Week. (B);WardiTV Mondays #40;Solar;Reynor;2;1;3;B;1
+2025-06-16;Week. (B);WardiTV Mondays #40;Nicoract;Reynor;0;2;3;B;0
+2025-06-14;B-Tier;WardiTV June - Playoffs;MaxPax;Reynor;3;1;5;B;1
+2025-06-14;B-Tier;WardiTV June - Playoffs;Gerald;Reynor;1;3;5;B;0
+2025-06-14;B-Tier;WardiTV June - Playoffs;Creator;Reynor;0;3;5;B;0
+2025-06-13;B-Tier;WardiTV June - Group Stage;MaNa;Reynor;0;2;3;B;0
+2025-06-13;B-Tier;WardiTV June - Group Stage;Nicoract;Reynor;0;2;3;B;0
+2025-06-13;B-Tier;WardiTV June - Group Stage;HiGhDrA;Reynor;0;2;3;B;0
+2025-06-07;A-Tier;BGE Stara Zagora 2025;ShoWTimE;Reynor;2;1;3;A;1
+2025-06-06;A-Tier;BGE Stara Zagora 2025;Clem;Reynor;2;1;3;A;1
+2025-06-05;A-Tier;BGE Stara Zagora 2025;SKillous;Reynor;0;2;3;A;0
+2025-06-04;A-Tier;BGE Stara Zagora 2025;Future;Reynor;0;2;3;A;0
+2025-06-01;Qual. (S);EWC 2025 Europe Quali - Bracket;ShoWTimE;Reynor;3;4;5;S;0
+2025-06-01;Qual. (S);EWC 2025 Europe Quali - Bracket;Serral;Reynor;4;1;5;S;1
+2025-05-31;Qual. (S);EWC 2025 Europe Quali - Bracket;ShoWTimE;Reynor;0;3;5;S;0
+2025-05-31;Qual. (S);EWC 2025 Europe Quali - Bracket;Lambo;Reynor;1;3;5;S;0
+2025-05-31;Qual. (S);EWC 2025 Europe Quali - Bracket;YoungYakov;Reynor;0;3;5;S;0
+2025-05-28;Qual. (S);EWC 2025 Europe Quali - Bracket;YoungYakov;Reynor;0;3;5;S;0
+2025-05-28;Qual. (S);EWC 2025 Europe Quali - Bracket;Nihed;Reynor;0;2;3;S;0
+2025-05-25;S-Tier;DreamHack Dallas 2025 - Final Playoffs;Solar;Reynor;3;2;5;S;1
+2025-05-24;S-Tier;DreamHack Dallas 2025 - Bracket B;herO;Reynor;0;3;5;S;0
+2025-05-24;S-Tier;DreamHack Dallas 2025 - Bracket B;MaNa;Reynor;0;2;3;S;0
+2025-05-23;S-Tier;DreamHack Dallas 2025 - Bracket B;Gerald;Reynor;1;2;3;S;0
+2025-05-23;S-Tier;DreamHack Dallas 2025 - Bracket B;BigDaddy;Reynor;0;2;3;S;0
+2025-05-15;S-Tier;2025 GSL S1 - Group Stage 2;GuMiho;Reynor;2;0;3;S;1
+2025-05-15;S-Tier;2025 GSL S1 - Group Stage 2;Maru;Reynor;1;2;3;S;0
+2025-05-15;S-Tier;2025 GSL S1 - Group Stage 2;Classic;Reynor;2;1;3;S;1
+2025-05-07;S-Tier;2025 GSL S1 - Group Stage 1;Solar;Reynor;1;2;3;S;0
+2025-05-07;S-Tier;2025 GSL S1 - Group Stage 1;sOs;Reynor;0;2;3;S;0
+2025-05-07;S-Tier;2025 GSL S1 - Group Stage 1;Solar;Reynor;2;1;3;S;1
+2025-05-01;A-Tier;PiG Sty Festival 6.0 - Group D;Bunny;Reynor;3;1;5;A;1
+2025-05-01;A-Tier;PiG Sty Festival 6.0 - Group D;Dark;Reynor;3;2;5;A;1
+2025-05-01;A-Tier;PiG Sty Festival 6.0 - Group D;Bunny;Reynor;0;2;3;A;0
+2025-04-26;Qual. (S);2025 GSL S1: Qualifier - Round 2 Winners;herO;Reynor;2;0;3;S;1
+2025-04-26;Qual. (S);2025 GSL S1: Qualifier - Round 2 Winners;Cure;Reynor;1;2;3;S;0
+2025-04-26;Qual. (S);2025 GSL S1: Qualifier - Round 2 Winners;Classic;Reynor;2;0;3;S;1
+2025-04-26;Qual. (S);2025 GSL S1: Qualifier - Round 1;Zoun;Reynor;0;2;3;S;0
+2025-04-26;Qual. (S);2025 GSL S1: Qualifier - Round 1;Percival;Reynor;1;2;3;S;0
+2025-04-26;Qual. (S);2025 GSL S1: Qualifier - Round 1;Prome;Reynor;0;2;3;S;0
+2025-04-11;Showm. (B);Basilisk Big Brain Bouts #93 - Main Event;ByuN;Reynor;3;2;5;B;1
+2025-02-07;Showm. (B);Basilisk Big Brain Bouts #84 - Main Event;HeRoMaRinE;Reynor;0;3;5;B;0
+2025-01-25;A-Tier;LiuLi Cup: 2024 Grand Finals - Playoffs;MaxPax;Reynor;3;1;5;A;1
+2025-01-24;A-Tier;LiuLi Cup: 2024 Grand Finals - Playoffs;herO;Reynor;2;3;5;A;0
+2025-01-23;A-Tier;LiuLi Cup: 2024 Grand Finals - Playoffs;Dark;Reynor;1;3;5;A;0
+2025-01-22;A-Tier;LiuLi Cup: 2024 Grand Finals - Playoffs;Serral;Reynor;3;1;5;A;1
+2025-01-18;A-Tier;Master's Coliseum 8 - Playoffs;Serral;Reynor;4;1;5;A;1
+2025-01-17;A-Tier;Master's Coliseum 8 - Playoffs;Zoun;Reynor;3;4;5;A;0
+2025-01-16;A-Tier;Master's Coliseum 8 - Playoffs;herO;Reynor;3;2;5;A;1
+2025-01-10;A-Tier;Master's Coliseum 8 - Playoffs;Spirit;Reynor;0;3;5;A;0
+2025-01-06;A-Tier;LiuLi Cup: 2024 Grand Finals - Group A;GuMiho;Reynor;1;2;3;A;0
+2025-01-06;A-Tier;LiuLi Cup: 2024 Grand Finals - Group A;Oliveira;Reynor;1;2;3;A;0
+2024-12-27;B-Tier;Basilisk BBB End of the Year Open;HeRoMaRinE;Reynor;2;0;3;B;1
+2024-12-27;B-Tier;Basilisk BBB End of the Year Open;Jumy;Reynor;0;2;3;B;0
+2024-12-27;B-Tier;Basilisk BBB End of the Year Open;BabyMarine;Reynor;0;2;3;B;0
+2024-12-27;B-Tier;Basilisk BBB End of the Year Open;SKillous;Reynor;2;0;3;B;1
+2024-12-27;B-Tier;Basilisk BBB End of the Year Open;NightPhoenix;Reynor;1;2;3;B;0
+2024-12-22;A-Tier;Master's Coliseum 8 - Group B;Rogue;Reynor;0;2;3;A;0
+2024-12-22;A-Tier;Master's Coliseum 8 - Group B;SKillous;Reynor;0;2;3;A;0
+2024-12-21;A-Tier;Master's Coliseum 8 - Group B;MaxPax;Reynor;1;2;3;A;0
+2024-12-20;Showm. (B);Basilisk Big Brain Bouts #79 - Main Event;Spirit;Reynor;1;3;5;B;0
+2024-11-30;A-Tier;HSC XXVI - Group C;Clem;Reynor;2;0;3;A;1
+2024-11-30;A-Tier;HSC XXVI - Group C;Mixu;Reynor;0;2;3;A;0
+2024-11-30;A-Tier;HSC XXVI - Group C;MaNa;Reynor;1;2;3;A;0
+2024-11-30;A-Tier;HSC XXVI - Group C;DnS;Reynor;0;2;3;A;0
+2024-11-30;A-Tier;HSC XXVI - Group C;HeRoMaRinE;Reynor;2;1;3;A;1
+2024-11-08;Showm. (B);Basilisk Big Brain Bouts #75 - Main Event;MaxPax;Reynor;3;1;5;B;1
+2024-11-04;Week. (B);KSR #10;Iba;Reynor;2;1;3;B;1
+2024-11-04;Week. (B);KSR #10;Bulmyeolja;Reynor;1;2;3;B;0
+2024-10-11;Showm. (B);Basilisk Big Brain Bouts #71 - Bouts;Fjant;Reynor;0;3;5;B;0
+2024-10-04;Showm. (B);Basilisk Big Brain Bouts #70 - Bouts;Clem;Reynor;2;3;5;B;0
+2024-09-23;Week. (B);KSR #4;ByuN;Reynor;2;0;3;B;1
+2024-09-23;Week. (B);KSR #4;BattleB;Reynor;1;2;3;B;0
+2024-09-23;Week. (B);KSR #4;BabyMarine;Reynor;1;2;3;B;0
+2024-09-23;Week. (B);KSR #4;LetaleX;Reynor;0;2;3;B;0
+2024-09-08;A-Tier;BGE Stara Zagora 2024;Oliveira;Reynor;3;0;5;A;1
+2024-09-08;A-Tier;BGE Stara Zagora 2024;Clem;Reynor;3;2;5;A;1
+2024-09-07;A-Tier;BGE Stara Zagora 2024;ShoWTimE;Reynor;1;2;3;A;0
+2024-09-06;A-Tier;BGE Stara Zagora 2024;Lambo;Reynor;1;2;3;A;0
+2024-09-05;A-Tier;BGE Stara Zagora 2024;msrm;Reynor;1;2;3;A;0
+2024-08-17;S-Tier;Esports World Cup 2024 - Knockout Bracket;herO;Reynor;2;0;3;S;1
+2024-08-17;S-Tier;Esports World Cup 2024 - Knockout Bracket;Classic;Reynor;0;2;3;S;0
+2024-08-17;S-Tier;Esports World Cup 2024 - Knockout Bracket;HeRoMaRinE;Reynor;0;2;3;S;0
+2024-08-16;S-Tier;Esports World Cup 2024 - Group B;herO;Reynor;3;0;5;S;1
+2024-08-16;S-Tier;Esports World Cup 2024 - Group B;Solar;Reynor;0;3;5;S;0
+2024-08-15;S-Tier;Esports World Cup 2024 - Group B;Clem;Reynor;3;2;5;S;1
+2024-08-14;S-Tier;Esports World Cup 2024 - Group B;Cure;Reynor;2;3;5;S;0
+2024-08-05;Week. (B);ESL Open Cup #239 Europe;MaxPax;Reynor;2;3;5;B;0
+2024-08-05;Week. (B);ESL Open Cup #239 Europe;Krystianer;Reynor;0;2;3;B;0
+2024-08-05;Week. (B);ESL Open Cup #239 Europe;goblin;Reynor;0;2;3;B;0
+2024-08-05;Week. (B);ESL Open Cup #239 Europe;Azura;Reynor;0;2;3;B;0
+2024-08-05;Week. (B);ESL Open Cup #239 Europe;Greenert;Reynor;0;2;3;B;0
+2024-08-02;Showm. (B);Basilisk Big Brain Bouts #66 - Main Event;SKillous;Reynor;2;3;5;B;0
+2024-07-31;Week. (B);KFC 2024 S1 #11;Trap;Reynor;2;1;3;B;1
+2024-07-29;Week. (B);ESL Open Cup #238 Europe;SKillous;Reynor;0;3;5;B;0
+2024-07-29;Week. (B);ESL Open Cup #238 Europe;Spirit;Reynor;0;2;3;B;0
+2024-07-29;Week. (B);ESL Open Cup #238 Europe;Krystianer;Reynor;0;2;3;B;0
+2024-07-29;Week. (B);ESL Open Cup #238 Europe;Epic;Reynor;0;2;3;B;0
+2024-07-29;Week. (B);ESL Open Cup #238 Europe;Rostok;Reynor;0;2;3;B;0
+2024-07-22;Week. (B);ESL Open Cup #237 Europe;MaxPax;Reynor;2;3;5;B;0
+2024-07-22;Week. (B);ESL Open Cup #237 Europe;Spirit;Reynor;0;2;3;B;0
+2024-07-22;Week. (B);ESL Open Cup #237 Europe;NightPhoenix;Reynor;0;2;3;B;0
+2024-07-22;Week. (B);ESL Open Cup #237 Europe;Moja;Reynor;0;2;3;B;0
+2024-07-22;Week. (B);ESL Open Cup #237 Europe;Luolis;Reynor;0;2;3;B;0

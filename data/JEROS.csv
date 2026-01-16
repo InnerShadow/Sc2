@@ -1,0 +1,265 @@
+date;match;tournament;player;oponent;player_wins;oponent_wins;best_of;tournament_tier;target
+2025-09-13;B-Tier;Ukrainian Fight - Playoffs;JEROS;HackErIsTop;0;1;1;B;0
+2025-09-13;B-Tier;Ukrainian Fight - Playoffs;JEROS;NightPhoenix;0;2;3;B;0
+2025-09-13;B-Tier;Ukrainian Fight - Playoffs;JEROS;Michnek;2;0;3;B;1
+2023-04-16;B-Tier;Ukrainian Cup - Playoffs;JEROS;SunSet;0;2;3;B;0
+2023-04-02;B-Tier;Ukrainian Cup - Playoffs;JEROS;UFO;2;0;3;B;1
+2023-03-25;B-Tier;Ukrainian Cup - Playoffs;JEROS;Kas;0;2;3;B;0
+2023-03-19;B-Tier;Ukrainian Cup - Playoffs;JEROS;Grets;2;0;3;B;1
+2023-03-12;B-Tier;Ukrainian Cup - Group D;JEROS;Nikolay;2;1;3;B;1
+2023-03-12;B-Tier;Ukrainian Cup - Group D;JEROS;LandGuardian;2;0;3;B;1
+2023-03-12;B-Tier;Ukrainian Cup - Group D;JEROS;DIMAGA;0;2;3;B;0
+2023-03-11;B-Tier;Ukrainian Cup - Group D;JEROS;Kisho;2;0;3;B;1
+2023-03-11;B-Tier;Ukrainian Cup - Group D;JEROS;UFO;2;0;3;B;1
+2023-03-08;B-Tier;Ukrainian Cup - Group D;JEROS;ChillAllDay;2;0;3;B;1
+2022-02-20;Mon. (B);King of CIS: February 2022;JEROS;Rattata;0;1;1;B;0
+2022-01-30;Mon. (B);King of CIS: January 2022;JEROS;Bee;0;1;1;B;0
+2022-01-29;Week. (C);CSO Cup #38;JEROS;MindelVK;0;1;1;C;0
+2022-01-29;Week. (C);CSO Cup #38;JEROS;AqueroN;0;2;3;C;0
+2021-07-08;Week. (C);Cock of the Walk #65;JEROS;Krystianer;0;2;3;C;0
+2021-06-27;Mon. (B);King of CIS: June 2021;JEROS;GeNieS;0;1;1;B;0
+2021-06-18;Week. (C);Asgard Cup #51;JEROS;Shameless;0;3;5;C;0
+2021-06-18;Week. (C);Asgard Cup #51;JEROS;ART;2;0;3;C;1
+2021-06-18;Week. (C);Asgard Cup #51;JEROS;CleverSwarm;2;0;3;C;1
+2021-06-17;Week. (C);Cock of the Walk #62;JEROS;Hopt;0;2;3;C;0
+2021-05-30;Mon. (B);King of CIS: May 2021;JEROS;Couguar;1;0;1;B;1
+2021-05-30;Mon. (B);King of CIS: May 2021;JEROS;DIMAGA;0;1;1;B;0
+2021-05-13;Week. (C);Cock of the Walk #57;JEROS;Krystianer;0;2;3;C;0
+2021-05-13;Week. (C);Cock of the Walk #57;JEROS;TerranHymen;2;0;3;C;1
+2021-05-09;B-Tier;hjp birthday cup #2;JEROS;Rail;1;2;3;B;0
+2021-05-09;B-Tier;hjp birthday cup #2;JEROS;Marsman;2;1;3;B;1
+2021-04-29;Week. (C);Cock of the Walk #56;JEROS;Strange;1;3;5;C;0
+2021-04-29;Week. (C);Cock of the Walk #56;JEROS;PAPI;2;0;3;C;1
+2021-04-29;Week. (C);Cock of the Walk #56;JEROS;ForJumy;2;1;3;C;1
+2021-04-29;Week. (C);Cock of the Walk #56;JEROS;Bekzhan;2;1;3;C;1
+2021-04-25;Mon. (B);King of CIS: April 2021;JEROS;Bee;0;1;1;B;0
+2021-04-22;Week. (C);Asgard Cup #48;JEROS;ART;1;2;3;C;0
+2021-04-18;B-Tier;BeAsT RTG Edition #6;JEROS;Bistork;0;1;1;B;0
+2021-04-18;B-Tier;JumyCup #2;JEROS;BattleB;2;3;5;B;0
+2021-04-17;B-Tier;JumyCup #2;JEROS;Adonminus;2;1;3;B;1
+2021-04-17;B-Tier;JumyCup #2;JEROS;Eiger;2;1;3;B;1
+2021-04-17;B-Tier;JumyCup #2;JEROS;Bioice;1;0;1;B;1
+2021-04-17;B-Tier;JumyCup #2;JEROS;PAPI;1;0;1;B;1
+2021-04-17;Biw. (C);CSO Cup #16;JEROS;Kas;0;2;3;C;0
+2021-04-17;B-Tier;JumyCup #2;JEROS;Maplez;0;2;3;B;0
+2021-03-21;Week. (C);PassionCraft Sunday Showdown #42;JEROS;Krystianer;1;2;3;C;0
+2021-02-15;Week. (B);ESL Open Cup #58 Europe;JEROS;DnS;0;2;3;B;0
+2021-02-14;C-Tier;DSL Pro Season 3 - Playoffs;JEROS;Mixu;1;3;5;C;0
+2021-02-14;C-Tier;DSL Pro Season 3 - Group C;JEROS;ProbeScout;2;0;3;C;1
+2021-02-14;C-Tier;DSL Pro Season 3 - Group C;JEROS;BattleB;0;2;3;C;0
+2021-02-14;C-Tier;DSL Pro Season 3 - Group C;JEROS;Jinioh;2;0;3;C;1
+2021-01-31;Mon. (B);King of CIS: January 2021;JEROS;Vanya;0;1;1;B;0
+2021-01-10;Week. (B);ESL Open Cup #52 Europe;JEROS;Elazer;0;2;3;B;0
+2021-01-10;B-Tier;DSL Pro Season 2 - Playoffs;JEROS;Nicoract;1;3;5;B;0
+2021-01-10;B-Tier;DSL Pro Season 2 - Playoffs;JEROS;BattleB;3;1;5;B;1
+2021-01-10;B-Tier;DSL Pro Season 2 - Group D;JEROS;StarDuck;2;0;3;B;1
+2021-01-10;B-Tier;DSL Pro Season 2 - Group D;JEROS;Arrogfire;1;0;1;B;1
+2021-01-10;B-Tier;DSL Pro Season 2 - Group D;JEROS;Percival;0;1;1;B;0
+2021-01-10;Week. (B);ESL Open Cup #52 Europe;JEROS;Ryan;2;0;3;B;1
+2021-01-08;C-Tier;Project Chaos Esports: Collateral Damage;JEROS;Gerald;1;3;5;C;0
+2021-01-08;C-Tier;Project Chaos Esports: Collateral Damage;JEROS;CoxtaOPhorte;2;0;3;C;1
+2021-01-08;C-Tier;Project Chaos Esports: Collateral Damage;JEROS;Gerald;1;2;3;C;0
+2021-01-08;C-Tier;Project Chaos Esports: Collateral Damage;JEROS;Killermonjas;2;0;3;C;1
+2020-12-27;Mon. (B);King of CIS: December 2020;JEROS;SKillous;0;1;1;B;0
+2020-12-22;B-Tier;GG of the Year 2020 - Group B;JEROS;DIMAGA;0;2;3;B;0
+2020-12-22;B-Tier;GG of the Year 2020 - Group B;JEROS;Hellraiser;0;2;3;B;0
+2020-12-19;Week. (C);REGENERATE Open Weekly Cup #103;JEROS;Vanya;0;1;1;C;0
+2020-12-17;Week. (C);Cock of the Walk #40;JEROS;YoungYakov;1;2;3;C;0
+2020-12-12;Week. (C);REGENERATE Open Weekly Cup #102;JEROS;Bly;0;2;3;C;0
+2020-12-07;Week. (B);ESL Open Cup #48 Europe;JEROS;Bly;0;2;3;B;0
+2020-12-06;Qual. (B);GG of the Year 2020: Qualifiers;JEROS;Marsman;2;0;3;B;1
+2020-12-06;Qual. (B);GG of the Year 2020: Qualifiers;JEROS;Ashbringer;2;0;3;B;1
+2020-12-03;Week. (C);Asgard Cup #37;JEROS;kiyj;0;2;3;C;0
+2020-11-21;Week. (C);REGENERATE Open Weekly Cup #99;JEROS;YoungYakov;0;1;1;C;0
+2020-11-19;Week. (C);Cock of the Walk #37;JEROS;Ziomek;0;2;3;C;0
+2020-11-16;C-Tier;DSL Pro: Season 1 - Playoffs;JEROS;Exostriker;1;3;5;C;0
+2020-11-13;Week. (C);IndyK Crew Weekly Cup #38;JEROS;PAPI;0;2;3;C;0
+2020-11-11;Week. (B);eXoN Cup Open #18;JEROS;Cham;0;2;3;B;0
+2020-11-08;Week. (C);PassionCraft Sunday Showdown #35;JEROS;Ziomek;0;2;3;C;0
+2020-11-08;Week. (C);PassionCraft Sunday Showdown #35;JEROS;Fjant;2;0;3;C;1
+2020-11-07;C-Tier;DSL Pro: Season 1 - Group A;JEROS;Ruiyichi;2;0;3;C;1
+2020-11-07;C-Tier;DSL Pro: Season 1 - Group A;JEROS;Ryan;2;0;3;C;1
+2020-10-25;Week. (C);SCR Cup #3;JEROS;MasterVasya;1;2;3;C;0
+2020-10-25;Week. (C);SCR Cup #3;JEROS;Bly;0;2;3;C;0
+2020-10-25;Week. (C);SCR Cup #3;JEROS;ZipperTheFly;2;0;3;C;1
+2020-10-25;Mon. (B);King of CIS: October 2020;JEROS;MindelVK;0;1;1;B;0
+2020-10-19;C-Tier;DSL Pro: Season 1 - Group F;JEROS;Endlessly;2;0;3;C;1
+2020-10-19;C-Tier;DSL Pro: Season 1 - Group F;JEROS;Argon;0;2;3;C;0
+2020-10-19;C-Tier;DSL Pro: Season 1 - Group F;JEROS;HondaCivic;2;0;3;C;1
+2020-10-16;C-Tier;Project Chaos Esports: October Invasion;JEROS;Marsman;1;3;5;C;0
+2020-10-16;C-Tier;Project Chaos Esports: October Invasion;JEROS;Killermonjas;2;0;3;C;1
+2020-10-16;C-Tier;Project Chaos Esports: October Invasion;JEROS;Marsman;1;2;3;C;0
+2020-10-16;C-Tier;Project Chaos Esports: October Invasion;JEROS;Faith;2;0;3;C;1
+2020-10-16;C-Tier;Project Chaos Esports: October Invasion;JEROS;GUMGUMRuFFy;2;0;3;C;1
+2020-10-15;B-Tier;Forty Cup;JEROS;DeeDan;0;1;1;B;0
+2020-10-14;Qual. (S);DH SC2 Masters 2020 Fall: Europe Qualifiers - Bracket;JEROS;Spatz;0;2;3;S;0
+2020-10-11;Week. (C);PassionCraft Sunday Showdown #32;JEROS;SlyCrab;1;2;3;C;0
+2020-10-10;Week. (C);REGENERATE Open Weekly Cup #93;JEROS;Nicoract;1;2;3;C;0
+2020-10-08;Week. (C);Cock of the Walk #31;JEROS;SpaceMarine;0;2;3;C;0
+2020-10-08;Week. (C);Cock of the Walk #31;JEROS;Ziomek;2;1;3;C;1
+2020-09-26;Week. (C);REGENERATE Open Weekly Cup #91;JEROS;Neon;0;1;1;C;0
+2020-09-26;Mon. (B);King of CIS: September 2020;JEROS;Kas;0;1;1;B;0
+2020-09-25;Week. (C);IndyK Crew Weekly Cup #32;JEROS;SpellSinger;1;2;3;C;0
+2020-09-24;Week. (C);Cock of the Walk #29;JEROS;Cham;0;2;3;C;0
+2020-09-17;Week. (C);Cock of the Walk #28;JEROS;kiyj;0;2;3;C;0
+2020-09-17;Week. (C);Cock of the Walk #28;JEROS;Krystianer;2;1;3;C;1
+2020-09-11;C-Tier;Project Chaos Esports: September 2020 Challenge - Bracket;JEROS;Killermonjas;3;2;5;C;1
+2020-09-11;C-Tier;Project Chaos Esports: September 2020 Challenge - Bracket;JEROS;Faith;2;0;3;C;1
+2020-09-11;C-Tier;Project Chaos Esports: September 2020 Challenge - Bracket;JEROS;HiGhDrA;1;0;1;C;1
+2020-09-06;Week. (C);SCR Cup #2;JEROS;Nerazim;0;2;3;C;0
+2020-09-03;Week. (C);Asgard Cup #29;JEROS;GeNieS;0;2;3;C;0
+2020-08-29;Week. (C);REGENERATE Open Weekly Cup #88;JEROS;Pieta;0;2;3;C;0
+2020-08-29;Week. (C);REGENERATE Open Weekly Cup #88;JEROS;GeNieS;2;0;3;C;1
+2020-08-21;Qual. (S);DH SC2 Masters 2020 Fall: Europe Qualifiers - Bracket;JEROS;Arctur;0;3;5;S;0
+2020-08-21;Qual. (S);DH SC2 Masters 2020 Fall: Europe Qualifiers - Bracket;JEROS;Nerchio;2;0;3;S;1
+2020-08-21;Qual. (S);DH SC2 Masters 2020 Fall: Europe Qualifiers - Bracket;JEROS;Spatz;2;1;3;S;1
+2020-08-15;Week. (C);REGENERATE Open Weekly Cup #86;JEROS;GeNieS;0;2;3;C;0
+2020-08-15;Week. (C);REGENERATE Open Weekly Cup #86;JEROS;BTWINikich;2;0;3;C;1
+2020-08-15;Week. (C);REGENERATE Open Weekly Cup #86;JEROS;Vavin;1;0;1;C;1
+2020-08-01;Week. (C);REGENERATE Open Weekly Cup #84;JEROS;ZipperTheFly;0;1;1;C;0
+2020-07-11;Qual. (B);Reyden-X Cup 1: Qualifiers - Bracket;JEROS;EnigmA;0;2;3;B;0
+2020-06-20;B-Tier;Ukrainian Stars - Group B;JEROS;LandGuardian;0;1;1;B;0
+2020-06-20;B-Tier;Ukrainian Stars - Group B;JEROS;Minatoeh;0;1;1;B;0
+2020-04-11;Week. (C);REGENERATE Open Weekly Cup #70;JEROS;Exostriker;0;2;3;C;0
+2020-03-30;Qual. (B);StarLine Junior League Season 3: Qualifiers - Bracket;JEROS;removeprotos;1;2;3;B;0
+2020-03-30;Qual. (B);StarLine Junior League Season 3: Qualifiers - Bracket;JEROS;Exostriker;1;2;3;B;0
+2020-02-22;B-Tier;StarLine Junior League Season 2 - Group D;JEROS;waidmannshei;1;2;3;B;0
+2020-02-22;B-Tier;StarLine Junior League Season 2 - Group D;JEROS;Solarian;2;0;3;B;1
+2020-02-22;B-Tier;StarLine Junior League Season 2 - Group D;JEROS;waidmannshei;0;1;1;B;0
+2020-02-21;C-Tier;StarLine Junior League Season 2: Juniors Cup;JEROS;Exostriker;1;2;3;C;0
+2020-02-09;B-Tier;StarLine Junior League Season 2 - Bracket;JEROS;WannaBeByuN;0;2;3;B;0
+2020-02-09;B-Tier;StarLine Junior League Season 2 - Bracket;JEROS;removeprotos;2;1;3;B;1
+2020-02-08;B-Tier;StarLine Junior League Season 2 - Bracket;JEROS;SaLemandr;1;2;3;B;0
+2020-02-08;B-Tier;StarLine Junior League Season 2 - Bracket;JEROS;YoungYakov;0;2;3;B;0
+2025-09-13;B-Tier;Ukrainian Fight - Playoffs;HackErIsTop;JEROS;1;0;1;B;1
+2025-09-13;B-Tier;Ukrainian Fight - Playoffs;NightPhoenix;JEROS;2;0;3;B;1
+2025-09-13;B-Tier;Ukrainian Fight - Playoffs;Michnek;JEROS;0;2;3;B;0
+2023-04-16;B-Tier;Ukrainian Cup - Playoffs;SunSet;JEROS;2;0;3;B;1
+2023-04-02;B-Tier;Ukrainian Cup - Playoffs;UFO;JEROS;0;2;3;B;0
+2023-03-25;B-Tier;Ukrainian Cup - Playoffs;Kas;JEROS;2;0;3;B;1
+2023-03-19;B-Tier;Ukrainian Cup - Playoffs;Grets;JEROS;0;2;3;B;0
+2023-03-12;B-Tier;Ukrainian Cup - Group D;Nikolay;JEROS;1;2;3;B;0
+2023-03-12;B-Tier;Ukrainian Cup - Group D;LandGuardian;JEROS;0;2;3;B;0
+2023-03-12;B-Tier;Ukrainian Cup - Group D;DIMAGA;JEROS;2;0;3;B;1
+2023-03-11;B-Tier;Ukrainian Cup - Group D;Kisho;JEROS;0;2;3;B;0
+2023-03-11;B-Tier;Ukrainian Cup - Group D;UFO;JEROS;0;2;3;B;0
+2023-03-08;B-Tier;Ukrainian Cup - Group D;ChillAllDay;JEROS;0;2;3;B;0
+2022-02-20;Mon. (B);King of CIS: February 2022;Rattata;JEROS;1;0;1;B;1
+2022-01-30;Mon. (B);King of CIS: January 2022;Bee;JEROS;1;0;1;B;1
+2022-01-29;Week. (C);CSO Cup #38;MindelVK;JEROS;1;0;1;C;1
+2022-01-29;Week. (C);CSO Cup #38;AqueroN;JEROS;2;0;3;C;1
+2021-07-08;Week. (C);Cock of the Walk #65;Krystianer;JEROS;2;0;3;C;1
+2021-06-27;Mon. (B);King of CIS: June 2021;GeNieS;JEROS;1;0;1;B;1
+2021-06-18;Week. (C);Asgard Cup #51;Shameless;JEROS;3;0;5;C;1
+2021-06-18;Week. (C);Asgard Cup #51;ART;JEROS;0;2;3;C;0
+2021-06-18;Week. (C);Asgard Cup #51;CleverSwarm;JEROS;0;2;3;C;0
+2021-06-17;Week. (C);Cock of the Walk #62;Hopt;JEROS;2;0;3;C;1
+2021-05-30;Mon. (B);King of CIS: May 2021;Couguar;JEROS;0;1;1;B;0
+2021-05-30;Mon. (B);King of CIS: May 2021;DIMAGA;JEROS;1;0;1;B;1
+2021-05-13;Week. (C);Cock of the Walk #57;Krystianer;JEROS;2;0;3;C;1
+2021-05-13;Week. (C);Cock of the Walk #57;TerranHymen;JEROS;0;2;3;C;0
+2021-05-09;B-Tier;hjp birthday cup #2;Rail;JEROS;2;1;3;B;1
+2021-05-09;B-Tier;hjp birthday cup #2;Marsman;JEROS;1;2;3;B;0
+2021-04-29;Week. (C);Cock of the Walk #56;Strange;JEROS;3;1;5;C;1
+2021-04-29;Week. (C);Cock of the Walk #56;PAPI;JEROS;0;2;3;C;0
+2021-04-29;Week. (C);Cock of the Walk #56;ForJumy;JEROS;1;2;3;C;0
+2021-04-29;Week. (C);Cock of the Walk #56;Bekzhan;JEROS;1;2;3;C;0
+2021-04-25;Mon. (B);King of CIS: April 2021;Bee;JEROS;1;0;1;B;1
+2021-04-22;Week. (C);Asgard Cup #48;ART;JEROS;2;1;3;C;1
+2021-04-18;B-Tier;BeAsT RTG Edition #6;Bistork;JEROS;1;0;1;B;1
+2021-04-18;B-Tier;JumyCup #2;BattleB;JEROS;3;2;5;B;1
+2021-04-17;B-Tier;JumyCup #2;Adonminus;JEROS;1;2;3;B;0
+2021-04-17;B-Tier;JumyCup #2;Eiger;JEROS;1;2;3;B;0
+2021-04-17;B-Tier;JumyCup #2;Bioice;JEROS;0;1;1;B;0
+2021-04-17;B-Tier;JumyCup #2;PAPI;JEROS;0;1;1;B;0
+2021-04-17;Biw. (C);CSO Cup #16;Kas;JEROS;2;0;3;C;1
+2021-04-17;B-Tier;JumyCup #2;Maplez;JEROS;2;0;3;B;1
+2021-03-21;Week. (C);PassionCraft Sunday Showdown #42;Krystianer;JEROS;2;1;3;C;1
+2021-02-15;Week. (B);ESL Open Cup #58 Europe;DnS;JEROS;2;0;3;B;1
+2021-02-14;C-Tier;DSL Pro Season 3 - Playoffs;Mixu;JEROS;3;1;5;C;1
+2021-02-14;C-Tier;DSL Pro Season 3 - Group C;ProbeScout;JEROS;0;2;3;C;0
+2021-02-14;C-Tier;DSL Pro Season 3 - Group C;BattleB;JEROS;2;0;3;C;1
+2021-02-14;C-Tier;DSL Pro Season 3 - Group C;Jinioh;JEROS;0;2;3;C;0
+2021-01-31;Mon. (B);King of CIS: January 2021;Vanya;JEROS;1;0;1;B;1
+2021-01-10;Week. (B);ESL Open Cup #52 Europe;Elazer;JEROS;2;0;3;B;1
+2021-01-10;B-Tier;DSL Pro Season 2 - Playoffs;Nicoract;JEROS;3;1;5;B;1
+2021-01-10;B-Tier;DSL Pro Season 2 - Playoffs;BattleB;JEROS;1;3;5;B;0
+2021-01-10;B-Tier;DSL Pro Season 2 - Group D;StarDuck;JEROS;0;2;3;B;0
+2021-01-10;B-Tier;DSL Pro Season 2 - Group D;Arrogfire;JEROS;0;1;1;B;0
+2021-01-10;B-Tier;DSL Pro Season 2 - Group D;Percival;JEROS;1;0;1;B;1
+2021-01-10;Week. (B);ESL Open Cup #52 Europe;Ryan;JEROS;0;2;3;B;0
+2021-01-08;C-Tier;Project Chaos Esports: Collateral Damage;Gerald;JEROS;3;1;5;C;1
+2021-01-08;C-Tier;Project Chaos Esports: Collateral Damage;CoxtaOPhorte;JEROS;0;2;3;C;0
+2021-01-08;C-Tier;Project Chaos Esports: Collateral Damage;Gerald;JEROS;2;1;3;C;1
+2021-01-08;C-Tier;Project Chaos Esports: Collateral Damage;Killermonjas;JEROS;0;2;3;C;0
+2020-12-27;Mon. (B);King of CIS: December 2020;SKillous;JEROS;1;0;1;B;1
+2020-12-22;B-Tier;GG of the Year 2020 - Group B;DIMAGA;JEROS;2;0;3;B;1
+2020-12-22;B-Tier;GG of the Year 2020 - Group B;Hellraiser;JEROS;2;0;3;B;1
+2020-12-19;Week. (C);REGENERATE Open Weekly Cup #103;Vanya;JEROS;1;0;1;C;1
+2020-12-17;Week. (C);Cock of the Walk #40;YoungYakov;JEROS;2;1;3;C;1
+2020-12-12;Week. (C);REGENERATE Open Weekly Cup #102;Bly;JEROS;2;0;3;C;1
+2020-12-07;Week. (B);ESL Open Cup #48 Europe;Bly;JEROS;2;0;3;B;1
+2020-12-06;Qual. (B);GG of the Year 2020: Qualifiers;Marsman;JEROS;0;2;3;B;0
+2020-12-06;Qual. (B);GG of the Year 2020: Qualifiers;Ashbringer;JEROS;0;2;3;B;0
+2020-12-03;Week. (C);Asgard Cup #37;kiyj;JEROS;2;0;3;C;1
+2020-11-21;Week. (C);REGENERATE Open Weekly Cup #99;YoungYakov;JEROS;1;0;1;C;1
+2020-11-19;Week. (C);Cock of the Walk #37;Ziomek;JEROS;2;0;3;C;1
+2020-11-16;C-Tier;DSL Pro: Season 1 - Playoffs;Exostriker;JEROS;3;1;5;C;1
+2020-11-13;Week. (C);IndyK Crew Weekly Cup #38;PAPI;JEROS;2;0;3;C;1
+2020-11-11;Week. (B);eXoN Cup Open #18;Cham;JEROS;2;0;3;B;1
+2020-11-08;Week. (C);PassionCraft Sunday Showdown #35;Ziomek;JEROS;2;0;3;C;1
+2020-11-08;Week. (C);PassionCraft Sunday Showdown #35;Fjant;JEROS;0;2;3;C;0
+2020-11-07;C-Tier;DSL Pro: Season 1 - Group A;Ruiyichi;JEROS;0;2;3;C;0
+2020-11-07;C-Tier;DSL Pro: Season 1 - Group A;Ryan;JEROS;0;2;3;C;0
+2020-10-25;Week. (C);SCR Cup #3;MasterVasya;JEROS;2;1;3;C;1
+2020-10-25;Week. (C);SCR Cup #3;Bly;JEROS;2;0;3;C;1
+2020-10-25;Week. (C);SCR Cup #3;ZipperTheFly;JEROS;0;2;3;C;0
+2020-10-25;Mon. (B);King of CIS: October 2020;MindelVK;JEROS;1;0;1;B;1
+2020-10-19;C-Tier;DSL Pro: Season 1 - Group F;Endlessly;JEROS;0;2;3;C;0
+2020-10-19;C-Tier;DSL Pro: Season 1 - Group F;Argon;JEROS;2;0;3;C;1
+2020-10-19;C-Tier;DSL Pro: Season 1 - Group F;HondaCivic;JEROS;0;2;3;C;0
+2020-10-16;C-Tier;Project Chaos Esports: October Invasion;Marsman;JEROS;3;1;5;C;1
+2020-10-16;C-Tier;Project Chaos Esports: October Invasion;Killermonjas;JEROS;0;2;3;C;0
+2020-10-16;C-Tier;Project Chaos Esports: October Invasion;Marsman;JEROS;2;1;3;C;1
+2020-10-16;C-Tier;Project Chaos Esports: October Invasion;Faith;JEROS;0;2;3;C;0
+2020-10-16;C-Tier;Project Chaos Esports: October Invasion;GUMGUMRuFFy;JEROS;0;2;3;C;0
+2020-10-15;B-Tier;Forty Cup;DeeDan;JEROS;1;0;1;B;1
+2020-10-14;Qual. (S);DH SC2 Masters 2020 Fall: Europe Qualifiers - Bracket;Spatz;JEROS;2;0;3;S;1
+2020-10-11;Week. (C);PassionCraft Sunday Showdown #32;SlyCrab;JEROS;2;1;3;C;1
+2020-10-10;Week. (C);REGENERATE Open Weekly Cup #93;Nicoract;JEROS;2;1;3;C;1
+2020-10-08;Week. (C);Cock of the Walk #31;SpaceMarine;JEROS;2;0;3;C;1
+2020-10-08;Week. (C);Cock of the Walk #31;Ziomek;JEROS;1;2;3;C;0
+2020-09-26;Week. (C);REGENERATE Open Weekly Cup #91;Neon;JEROS;1;0;1;C;1
+2020-09-26;Mon. (B);King of CIS: September 2020;Kas;JEROS;1;0;1;B;1
+2020-09-25;Week. (C);IndyK Crew Weekly Cup #32;SpellSinger;JEROS;2;1;3;C;1
+2020-09-24;Week. (C);Cock of the Walk #29;Cham;JEROS;2;0;3;C;1
+2020-09-17;Week. (C);Cock of the Walk #28;kiyj;JEROS;2;0;3;C;1
+2020-09-17;Week. (C);Cock of the Walk #28;Krystianer;JEROS;1;2;3;C;0
+2020-09-11;C-Tier;Project Chaos Esports: September 2020 Challenge - Bracket;Killermonjas;JEROS;2;3;5;C;0
+2020-09-11;C-Tier;Project Chaos Esports: September 2020 Challenge - Bracket;Faith;JEROS;0;2;3;C;0
+2020-09-11;C-Tier;Project Chaos Esports: September 2020 Challenge - Bracket;HiGhDrA;JEROS;0;1;1;C;0
+2020-09-06;Week. (C);SCR Cup #2;Nerazim;JEROS;2;0;3;C;1
+2020-09-03;Week. (C);Asgard Cup #29;GeNieS;JEROS;2;0;3;C;1
+2020-08-29;Week. (C);REGENERATE Open Weekly Cup #88;Pieta;JEROS;2;0;3;C;1
+2020-08-29;Week. (C);REGENERATE Open Weekly Cup #88;GeNieS;JEROS;0;2;3;C;0
+2020-08-21;Qual. (S);DH SC2 Masters 2020 Fall: Europe Qualifiers - Bracket;Arctur;JEROS;3;0;5;S;1
+2020-08-21;Qual. (S);DH SC2 Masters 2020 Fall: Europe Qualifiers - Bracket;Nerchio;JEROS;0;2;3;S;0
+2020-08-21;Qual. (S);DH SC2 Masters 2020 Fall: Europe Qualifiers - Bracket;Spatz;JEROS;1;2;3;S;0
+2020-08-15;Week. (C);REGENERATE Open Weekly Cup #86;GeNieS;JEROS;2;0;3;C;1
+2020-08-15;Week. (C);REGENERATE Open Weekly Cup #86;BTWINikich;JEROS;0;2;3;C;0
+2020-08-15;Week. (C);REGENERATE Open Weekly Cup #86;Vavin;JEROS;0;1;1;C;0
+2020-08-01;Week. (C);REGENERATE Open Weekly Cup #84;ZipperTheFly;JEROS;1;0;1;C;1
+2020-07-11;Qual. (B);Reyden-X Cup 1: Qualifiers - Bracket;EnigmA;JEROS;2;0;3;B;1
+2020-06-20;B-Tier;Ukrainian Stars - Group B;LandGuardian;JEROS;1;0;1;B;1
+2020-06-20;B-Tier;Ukrainian Stars - Group B;Minatoeh;JEROS;1;0;1;B;1
+2020-04-11;Week. (C);REGENERATE Open Weekly Cup #70;Exostriker;JEROS;2;0;3;C;1
+2020-03-30;Qual. (B);StarLine Junior League Season 3: Qualifiers - Bracket;removeprotos;JEROS;2;1;3;B;1
+2020-03-30;Qual. (B);StarLine Junior League Season 3: Qualifiers - Bracket;Exostriker;JEROS;2;1;3;B;1
+2020-02-22;B-Tier;StarLine Junior League Season 2 - Group D;waidmannshei;JEROS;2;1;3;B;1
+2020-02-22;B-Tier;StarLine Junior League Season 2 - Group D;Solarian;JEROS;0;2;3;B;0
+2020-02-22;B-Tier;StarLine Junior League Season 2 - Group D;waidmannshei;JEROS;1;0;1;B;1
+2020-02-21;C-Tier;StarLine Junior League Season 2: Juniors Cup;Exostriker;JEROS;2;1;3;C;1
+2020-02-09;B-Tier;StarLine Junior League Season 2 - Bracket;WannaBeByuN;JEROS;2;0;3;B;1
+2020-02-09;B-Tier;StarLine Junior League Season 2 - Bracket;removeprotos;JEROS;1;2;3;B;0
+2020-02-08;B-Tier;StarLine Junior League Season 2 - Bracket;SaLemandr;JEROS;2;1;3;B;1
+2020-02-08;B-Tier;StarLine Junior League Season 2 - Bracket;YoungYakov;JEROS;2;0;3;B;1

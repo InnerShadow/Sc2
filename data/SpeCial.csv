@@ -1,0 +1,933 @@
+date;match;tournament;player;oponent;player_wins;oponent_wins;best_of;tournament_tier;target
+2025-12-31;C-Tier;Rotti Stream Rumble #6;SpeCial;RotterdaM;3;0;5;C;1
+2025-10-19;B-Tier;SC2's Safe House #2 - Playoffs;SpeCial;Astrea;0;4;5;B;0
+2025-10-18;B-Tier;SC2's Safe House #2 - Group Stage;SpeCial;MasTeR;2;0;3;B;1
+2025-10-18;B-Tier;SC2's Safe House #2 - Group Stage;SpeCial;trigger;0;2;3;B;0
+2025-10-18;B-Tier;SC2's Safe House #2 - Group Stage;SpeCial;Dolan;2;0;3;B;1
+2025-10-18;B-Tier;SC2's Safe House #2 - Group Stage;SpeCial;Astrea;2;1;3;B;1
+2025-10-18;B-Tier;SC2's Safe House #2 - Group Stage;SpeCial;Cham;2;0;3;B;1
+2025-10-18;B-Tier;SC2's Safe House #2 - Group Stage;SpeCial;eGGz;2;0;3;B;1
+2025-10-18;B-Tier;SC2's Safe House #2 - Group Stage;SpeCial;FoxeR;2;0;3;B;1
+2025-10-13;Mon. (B);Code For Giants Cup LATAM #3;SpeCial;eGGz;3;0;5;B;1
+2025-10-12;Mon. (B);Code For Giants Cup LATAM #3;SpeCial;MasTeR;2;1;3;B;1
+2025-10-12;B-Tier;Patches' TLMC21 Bash #2;SpeCial;ART;0;1;1;B;0
+2025-10-12;B-Tier;Patches' TLMC21 Bash #2;SpeCial;SKillous;1;2;3;B;0
+2025-10-12;Mon. (B);Code For Giants Cup LATAM #3;SpeCial;KamiKaze;2;0;3;B;1
+2025-10-12;B-Tier;Patches' TLMC21 Bash #2;SpeCial;Kinpach;2;0;3;B;1
+2025-10-04;Qual. (B);SC2's Safe House #2: Qualifier #1;SpeCial;MasTeR;3;0;5;B;1
+2025-10-04;Qual. (B);SC2's Safe House #2: Qualifier #1;SpeCial;FoxeR;2;0;3;B;1
+2025-10-04;Qual. (B);SC2's Safe House #2: Qualifier #1;SpeCial;KamiKaze;2;0;3;B;1
+2025-10-03;C-Tier;Greenert's Mod Jam Open #1;SpeCial;Mixu;1;3;5;C;0
+2025-10-03;C-Tier;Greenert's Mod Jam Open #1;SpeCial;HonMonO;1;0;1;C;1
+2025-10-03;C-Tier;Greenert's Mod Jam Open #1;SpeCial;Patches;1;0;1;C;1
+2025-10-03;C-Tier;Greenert's Mod Jam Open #1;SpeCial;Tonsi;1;0;1;C;1
+2025-10-03;C-Tier;Greenert's Mod Jam Open #1;SpeCial;HonMonO;1;2;3;C;0
+2025-10-03;C-Tier;Greenert's Mod Jam Open #1;SpeCial;Ponyo;2;0;3;C;1
+2025-09-06;C-Tier;Greenert's Mod Jam Invitational;SpeCial;INexorable;3;1;5;C;1
+2025-09-06;C-Tier;Greenert's Mod Jam Invitational;SpeCial;MiniZergUA;2;3;5;C;0
+2025-09-06;C-Tier;Greenert's Mod Jam Invitational;SpeCial;acheron;2;0;3;C;1
+2025-08-31;Mon. (B);Code For Giants Cup LATAM #2;SpeCial;Mute;3;2;5;B;1
+2025-08-31;Mon. (B);Code For Giants Cup LATAM #2;SpeCial;EON;2;0;3;B;1
+2025-08-31;Mon. (B);Code For Giants Cup LATAM #2;SpeCial;Dorminhoco;2;0;3;B;1
+2025-08-17;B-Tier;Patches' Patch Clash #4;SpeCial;Gerald;0;2;3;B;0
+2025-08-17;B-Tier;Patches' Patch Clash #4;SpeCial;Mixu;1;2;3;B;0
+2025-08-17;B-Tier;Patches' Patch Clash #4;SpeCial;ArT;2;0;3;B;1
+2025-08-17;B-Tier;Patches' Patch Clash #4;SpeCial;LetaleX;2;1;3;B;1
+2025-08-10;B-Tier;Patches' Patch Clash #3;SpeCial;ART;3;2;5;B;1
+2025-08-10;B-Tier;Patches' Patch Clash #3;SpeCial;PAPI;2;0;3;B;1
+2025-08-10;B-Tier;Patches' Patch Clash #3;SpeCial;ART;2;0;3;B;1
+2025-08-10;B-Tier;Patches' Patch Clash #3;SpeCial;Greenert;2;0;3;B;1
+2025-08-04;Mon. (B);Code For Giants Cup LATAM #1;SpeCial;Mute;1;3;5;B;0
+2025-08-03;Mon. (B);Code For Giants Cup LATAM #1;SpeCial;MasTeR;2;1;3;B;1
+2025-08-03;Mon. (B);Code For Giants Cup LATAM #1;SpeCial;SlayersMvP;2;0;3;B;1
+2025-08-03;Mon. (B);Code For Giants Cup LATAM #1;SpeCial;Kimari;2;0;3;B;1
+2025-07-31;B-Tier;Kirktown Chat Brawl #7;SpeCial;Percival;2;3;5;B;0
+2025-07-30;B-Tier;Kirktown Chat Brawl #7;SpeCial;Reaper;2;1;3;B;1
+2025-07-30;B-Tier;Kirktown Chat Brawl #7;SpeCial;BYE;1;0;1;B;1
+2025-07-26;B-Tier;Patches' Patch Clash #1;SpeCial;Fjant;3;1;5;B;1
+2025-07-26;B-Tier;Patches' Patch Clash #1;SpeCial;Fjant;2;0;3;B;1
+2025-07-26;B-Tier;Patches' Patch Clash #1;SpeCial;Jason;2;0;3;B;1
+2025-07-26;B-Tier;Patches' Patch Clash #1;SpeCial;HonMonO;2;1;3;B;1
+2025-07-23;Week. (B);PiGosaur Cup #41;SpeCial;Gerald;0;2;3;B;0
+2025-07-22;Week. (B);PiGosaur Cup #41;SpeCial;Nicoract;2;1;3;B;1
+2025-07-22;Week. (B);PiGosaur Cup #41;SpeCial;RaGnaR;2;0;3;B;1
+2025-07-18;Showm. (B);Basilisk Big Brain Bouts #99 - Bouts;SpeCial;sebesdes;1;3;5;B;0
+2025-07-12;Showm. (B);Kirktown RR #3;SpeCial;starkiller;3;0;5;B;1
+2025-05-31;Qual. (S);EWC 2025 Americas Quali - Bracket;SpeCial;Cham;0;1;1;S;0
+2025-05-31;Qual. (S);EWC 2025 Americas Quali - Bracket;SpeCial;trigger;0;3;5;S;0
+2025-05-31;Qual. (S);EWC 2025 Americas Quali - Bracket;SpeCial;Future;3;1;5;S;1
+2025-05-29;Qual. (S);EWC 2025 Americas Quali - Bracket;SpeCial;MasTeR;3;1;5;S;1
+2025-05-28;Qual. (S);EWC 2025 Americas Quali - Bracket;SpeCial;EON;2;0;3;S;1
+2025-04-22;Week. (B);PiGosaur Monday #28;SpeCial;sOs;0;2;3;B;0
+2025-04-22;Week. (B);PiGosaur Monday #28;SpeCial;Greenert;2;1;3;B;1
+2025-04-20;B-Tier;Salt Cup #1;SpeCial;FoxeR;3;2;5;B;1
+2025-04-20;B-Tier;Salt Cup #1;SpeCial;FoxeR;2;1;3;B;1
+2025-04-20;B-Tier;Salt Cup #1;SpeCial;Moja;2;0;3;B;1
+2025-04-20;B-Tier;Salt Cup #1;SpeCial;BerryCrunch;2;1;3;B;1
+2025-04-13;B-Tier;Hispanic StarCraft 2 League - Playoffs;SpeCial;VortiX;3;2;5;B;1
+2025-04-13;B-Tier;Hispanic StarCraft 2 League - Playoffs;SpeCial;Mute;2;0;3;B;1
+2025-04-11;Showm. (B);Enki Pro Series #4;SpeCial;Cham;4;5;7;B;0
+2025-04-04;Showm. (B);Basilisk Big Brain Bouts #92 - Main Event;SpeCial;Scarlett;0;3;5;B;0
+2025-03-24;Week. (B);PiGosaur Monday #24;SpeCial;MaxPax;1;2;3;B;0
+2025-03-24;Week. (B);PiGosaur Monday #24;SpeCial;JMONEYMAGIC;2;0;3;B;1
+2025-03-21;Showm. (B);Basilisk Big Brain Bouts #90 - Bouts;SpeCial;Nikich;3;0;5;B;1
+2025-03-03;B-Tier;Hispanic StarCraft 2 League - Playoffs;SpeCial;eGGz;2;0;3;B;1
+2025-03-03;B-Tier;Hispanic StarCraft 2 League - Playoffs;SpeCial;RyoGin;2;0;3;B;1
+2025-03-03;B-Tier;Hispanic StarCraft 2 League - Group A;SpeCial;Luna;3;0;5;B;1
+2025-03-03;B-Tier;Hispanic StarCraft 2 League - Group A;SpeCial;KevinECU;3;0;5;B;1
+2025-03-03;B-Tier;Hispanic StarCraft 2 League - Group A;SpeCial;Galahad;3;0;5;B;1
+2025-03-03;B-Tier;Hispanic StarCraft 2 League - Group A;SpeCial;Fairespiter;3;0;5;B;1
+2025-02-28;Showm. (B);Basilisk Big Brain Bouts #87 - Bouts;SpeCial;HiGhDrA;3;0;5;B;1
+2025-02-06;B-Tier;UpACup Viewer Tournament;SpeCial;Krystianer;1;2;3;B;0
+2025-02-06;B-Tier;UpACup Viewer Tournament;SpeCial;Daniello;2;0;3;B;1
+2025-01-10;Showm. (B);Basilisk Big Brain Bouts #80 - Bouts;SpeCial;Cham;1;3;5;B;0
+2024-07-18;B-Tier;OSC 2024 MSP #1;SpeCial;Krystianer;0;1;1;B;0
+2024-07-05;Qual. (S);EWC 2024 AM Qualifier;SpeCial;Scarlett;0;2;3;S;0
+2024-07-05;Qual. (S);EWC 2024 AM Qualifier;SpeCial;Future;2;1;3;S;1
+2024-07-05;Qual. (S);EWC 2024 AM Qualifier;SpeCial;YanXII;2;0;3;S;1
+2024-06-03;Week. (B);ESL Open Cup #230 Americas;SpeCial;Gerald;0;2;3;B;0
+2024-06-03;Week. (B);ESL Open Cup #230 Americas;SpeCial;imData;2;0;3;B;1
+2024-05-18;B-Tier;OSC 2024 MSP #1;SpeCial;Gerald;0;1;1;B;0
+2024-05-17;Week. (B);OSC KotH Weekly #170;SpeCial;Wayne;1;0;1;B;1
+2024-05-09;Week. (B);OSC KotH Weekly #169;SpeCial;SKillous;0;1;1;B;0
+2024-04-26;Showm. (B);Basilisk Big Brain Bouts #58 - Main Event;SpeCial;YoungYakov;3;0;5;B;1
+2024-04-21;A-Tier;ESL Spring: Americas - R 5;SpeCial;Nina;1;2;3;A;0
+2024-04-20;A-Tier;ESL Spring: Americas - R 4;SpeCial;Future;1;2;3;A;0
+2024-04-18;A-Tier;ESL Spring: Americas - R 3;SpeCial;Maplez;2;0;3;A;1
+2024-04-14;A-Tier;ESL Spring: Americas - R 2;SpeCial;trigger;1;2;3;A;0
+2024-04-12;A-Tier;ESL Spring: Americas - R 1;SpeCial;Epic;2;1;3;A;1
+2024-04-11;Week. (B);OSC KotH Weekly #167;SpeCial;SKillous;0;1;1;B;0
+2024-04-11;Week. (B);OSC KotH Weekly #167;SpeCial;Gerald;1;0;1;B;1
+2024-02-25;B-Tier;ReaverMod Tournament;SpeCial;SKillous;0;2;3;B;0
+2024-02-25;B-Tier;ReaverMod Tournament;SpeCial;Krystianer;0;2;3;B;0
+2024-02-25;B-Tier;ReaverMod Tournament;SpeCial;Nicoract;2;1;3;B;1
+2024-01-17;A-Tier;WardiTV 2023 - Playoffs;SpeCial;Solar;0;3;5;A;0
+2024-01-17;A-Tier;WardiTV 2023 - Playoffs;SpeCial;Wayne;3;0;5;A;1
+2024-01-12;A-Tier;WardiTV 2023 - Playoffs;SpeCial;Oliveira;1;3;5;A;0
+2024-01-11;A-Tier;WardiTV 2023 - Playoffs;SpeCial;Spirit;3;0;5;A;1
+2024-01-08;A-Tier;WardiTV 2023 - GS Group A;SpeCial;ShoWTimE;1;2;3;A;0
+2024-01-08;A-Tier;WardiTV 2023 - GS Group A;SpeCial;MaNa;2;1;3;A;1
+2024-01-08;A-Tier;WardiTV 2023 - GS Group A;SpeCial;Harstem;2;0;3;A;1
+2024-01-08;A-Tier;WardiTV 2023 - GS Group A;SpeCial;Mixu;2;0;3;A;1
+2023-12-31;B-Tier;OSC 2023 MSP #2;SpeCial;MaxPax;0;4;5;B;0
+2023-12-31;B-Tier;OSC 2023 MSP #2;SpeCial;Spirit;3;2;5;B;1
+2023-12-25;Week. (B);ESL Open Cup #207 Americas;SpeCial;Hupsaiya;0;1;1;B;0
+2023-12-25;Week. (B);ESL Open Cup #207 Americas;SpeCial;Rescue;2;0;3;B;1
+2023-12-25;Qual. (S);Master's Coliseum 7: Americas Qualifier;SpeCial;Astrea;1;2;3;S;0
+2023-12-19;Week. (B);ESL Open Cup #206 Americas;SpeCial;Jieshi;3;1;5;B;1
+2023-12-19;Week. (B);ESL Open Cup #206 Americas;SpeCial;Jason;2;0;3;B;1
+2023-12-18;Week. (B);ESL Open Cup #206 Americas;SpeCial;uThermal;2;0;3;B;1
+2023-12-18;Week. (B);ESL Open Cup #206 Americas;SpeCial;zesty;2;0;3;B;1
+2023-12-18;Week. (B);ESL Open Cup #206 Americas;SpeCial;DontDefense;2;0;3;B;1
+2023-12-11;B-Tier;OSC 2023 MSP #2;SpeCial;MaxPax;1;3;5;B;0
+2023-12-11;Qual. (S);IEM Katowice 2024: AM Qualifier - Bracket;SpeCial;Scarlett;0;3;5;S;0
+2023-12-11;Qual. (S);IEM Katowice 2024: AM Qualifier - Bracket;SpeCial;Creator;2;0;3;S;1
+2023-12-11;Qual. (S);IEM Katowice 2024: AM Qualifier - Bracket;SpeCial;Bunny;0;2;3;S;0
+2023-12-07;Qual. (S);IEM Katowice 2024: EU Qualifier - Bracket;SpeCial;YoungYakov;0;2;3;S;0
+2023-11-17;A-Tier;ESL Winter: Americas - Playoffs;SpeCial;Kelazhur;0;3;5;A;0
+2023-11-12;A-Tier;ESL Winter: Americas - Playoffs;SpeCial;trigger;1;3;5;A;0
+2023-11-09;A-Tier;ESL Winter: Americas - Playoffs;SpeCial;Cham;3;1;5;A;1
+2023-11-06;Week. (B);ESL Open Cup #200 Americas;SpeCial;Reaper;0;1;1;B;0
+2023-11-01;A-Tier;ESL Winter: Americas - R 3;SpeCial;Kelazhur;2;0;3;A;1
+2023-10-28;A-Tier;ESL Winter: Americas - R 2;SpeCial;trigger;2;0;3;A;1
+2023-10-27;A-Tier;ESL Winter: Americas - R 1;SpeCial;Erik;2;0;3;A;1
+2023-10-16;Week. (B);ESL Open Cup #197 Europe;SpeCial;Mixu;1;2;3;B;0
+2023-09-30;B-Tier;SSL Cup #31;SpeCial;Arrogfire;3;0;5;B;1
+2023-09-30;B-Tier;SSL Cup #31;SpeCial;Matvey;2;0;3;B;1
+2023-09-30;B-Tier;SSL Cup #31;SpeCial;Krystianer;2;1;3;B;1
+2023-09-29;Showm. (B);Basilisk Big Brain Bouts #41 - Main Event;SpeCial;Elazer;3;2;5;B;1
+2023-09-27;Week. (B);KFC 2023 S2 #1;SpeCial;Cure;1;2;3;B;0
+2023-09-27;B-Tier;OSC 2023 MSP #2;SpeCial;Spirit;3;1;5;B;1
+2023-09-27;B-Tier;OSC 2023 MSP #2;SpeCial;Nice;2;1;3;B;1
+2023-09-26;B-Tier;WardiTV EU League 23 - GS 2 Group A;SpeCial;Wayne;0;2;3;B;0
+2023-09-26;B-Tier;WardiTV EU League 23 - GS 2 Group A;SpeCial;MaxPax;0;2;3;B;0
+2023-09-26;B-Tier;WardiTV EU League 23 - GS 2 Group A;SpeCial;Wayne;2;0;3;B;1
+2023-09-25;Week. (B);ESL Open Cup #194 Europe;SpeCial;Harstem;0;2;3;B;0
+2023-09-25;Week. (B);ESL Open Cup #194 Americas;SpeCial;Reaper;0;2;3;B;0
+2023-09-25;Week. (B);ESL Open Cup #194 Europe;SpeCial;DIMAGA;2;1;3;B;1
+2023-09-24;B-Tier;WardiTV September Open;SpeCial;Solar;1;2;3;B;0
+2023-09-24;Biw. (C);Tenacious Turtle Tussle #10;SpeCial;SpiffyBee;3;0;5;C;1
+2023-09-24;Biw. (C);Tenacious Turtle Tussle #10;SpeCial;Nice;2;0;3;C;1
+2023-09-24;Biw. (C);Tenacious Turtle Tussle #10;SpeCial;FoxeR;2;0;3;C;1
+2023-09-23;Week. (B);OSC KotH Weekly #149;SpeCial;MindelVK;0;1;1;B;0
+2023-09-23;Week. (B);OSC KotH Weekly #149;SpeCial;SKillous;1;0;1;B;1
+2023-09-21;B-Tier;WardiTV EU League 23 - GS 1 Group A;SpeCial;Mixu;2;0;3;B;1
+2023-09-21;B-Tier;WardiTV EU League 23 - GS 1 Group A;SpeCial;Gerald;1;2;3;B;0
+2023-09-21;B-Tier;WardiTV EU League 23 - GS 1 Group A;SpeCial;Mixu;2;0;3;B;1
+2023-09-19;Qual. (B);WardiTV EU League 23 Q2;SpeCial;Gerald;2;1;3;B;1
+2023-09-19;Qual. (B);WardiTV EU League 23 Q2;SpeCial;Wayne;1;0;1;B;1
+2023-09-19;Qual. (B);WardiTV EU League 23 Q2;SpeCial;BabyMarine;2;0;3;B;1
+2023-09-19;Qual. (B);WardiTV EU League 23 Q2;SpeCial;Ashbringer;2;1;3;B;1
+2023-09-18;Week. (B);ESL Open Cup #193 Europe;SpeCial;Clem;1;2;3;B;0
+2023-09-18;Week. (B);ESL Open Cup #193 Europe;SpeCial;DnS;2;0;3;B;1
+2023-09-18;Week. (B);ESL Open Cup #193 Americas;SpeCial;Creator;1;2;3;B;0
+2023-09-18;Week. (B);ESL Open Cup #193 Europe;SpeCial;MindelVK;2;0;3;B;1
+2023-09-18;Week. (B);ESL Open Cup #193 Americas;SpeCial;Steadfast;2;0;3;B;1
+2023-09-16;B-Tier;SSL Cup #30;SpeCial;HonMonO;2;3;5;B;0
+2023-09-16;B-Tier;SSL Cup #30;SpeCial;Gref;2;0;3;B;1
+2023-09-14;B-Tier;OSC 2023 MSP #2;SpeCial;DIMAGA;2;0;3;B;1
+2023-09-14;Week. (B);OSC KotH Weekly #147;SpeCial;Mixu;0;1;1;B;0
+2023-09-13;B-Tier;Migs Cup #9;SpeCial;Krystianer;3;1;5;B;1
+2023-09-13;B-Tier;Migs Cup #9;SpeCial;BattleB;2;1;3;B;1
+2023-09-13;B-Tier;Migs Cup #9;SpeCial;Mixu;2;1;3;B;1
+2023-09-13;B-Tier;Migs Cup #9;SpeCial;Dephy;2;0;3;B;1
+2023-09-12;Week. (B);ESL Open Cup #192 Americas;SpeCial;GuMiho;1;2;3;B;0
+2023-09-11;Week. (B);ESL Open Cup #192 Europe;SpeCial;Reynor;0;2;3;B;0
+2023-09-11;Week. (B);ESL Open Cup #192 Europe;SpeCial;Spatz;2;0;3;B;1
+2023-09-11;Week. (B);ESL Open Cup #192 Americas;SpeCial;SKillous;2;0;3;B;1
+2023-09-11;Week. (B);ESL Open Cup #192 Americas;SpeCial;Mixu;2;0;3;B;1
+2023-09-11;Week. (B);ESL Open Cup #192 Europe;SpeCial;Indy;2;0;3;B;1
+2023-09-11;Week. (B);ESL Open Cup #192 Americas;SpeCial;Eleven;2;0;3;B;1
+2023-08-30;Week. (B);OSC KotH Weekly #146;SpeCial;Wayne;1;0;1;B;1
+2023-08-25;Showm. (B);Basilisk Big Brain Bouts #37 - Main Event;SpeCial;MaNa;3;0;5;B;1
+2023-08-22;Week. (B);ESL Open Cup #189 Americas;SpeCial;Cure;0;2;3;B;0
+2023-08-21;Week. (B);ESL Open Cup #189 Americas;SpeCial;SKillous;2;0;3;B;1
+2023-08-21;Week. (B);ESL Open Cup #189 Americas;SpeCial;Nihed;2;0;3;B;1
+2023-08-21;Week. (B);ESL Open Cup #189 Americas;SpeCial;SpiffyBee;2;0;3;B;1
+2023-08-17;Week. (B);OSC KotH Weekly #145;SpeCial;Nicoract;1;0;1;B;1
+2023-08-10;Week. (B);OSC KotH Weekly #144;SpeCial;NightMare;0;1;1;B;0
+2023-08-10;Week. (B);OSC KotH Weekly #144;SpeCial;YoungYakov;1;0;1;B;1
+2023-08-07;Week. (B);ESL Open Cup #187 Europe;SpeCial;YoungYakov;1;2;3;B;0
+2023-08-07;Week. (B);ESL Open Cup #187 Europe;SpeCial;Spatz;2;1;3;B;1
+2023-08-07;Week. (B);ESL Open Cup #187 Europe;SpeCial;PPower;2;0;3;B;1
+2023-07-27;B-Tier;OSC 2023 MSP #1;SpeCial;Dark;0;3;5;B;0
+2023-07-22;Week. (B);Korean Starcraft League #20;SpeCial;GuMiho;0;2;3;B;0
+2023-07-15;Qual. (A);AfTV CC 2 KR Qualifiers - Bracket;SpeCial;DRG;0;1;1;A;0
+2023-07-15;Qual. (A);AfTV CC 2 KR Qualifiers - Bracket;SpeCial;GuMiho;1;2;3;A;0
+2023-07-15;Qual. (A);AfTV CC 2 KR Qualifiers - Bracket;SpeCial;NightMare;2;1;3;A;1
+2023-07-12;Week. (B);KFC2023#11;SpeCial;Solar;1;2;3;B;0
+2023-07-11;S-Tier;2023 GSL S2: Code S - GS 1 Group C;SpeCial;GuMiho;0;2;3;S;0
+2023-07-11;S-Tier;2023 GSL S2: Code S - GS 1 Group C;SpeCial;Dark;1;2;3;S;0
+2023-07-08;Qual. (A);AfTV CC 2 KR Qualifiers - Bracket;SpeCial;RagnaroK;0;2;3;A;0
+2023-07-08;Qual. (A);AfTV CC 2 KR Qualifiers - Bracket;SpeCial;Jieshi;0;1;1;A;0
+2023-07-01;Week. (B);Korean Starcraft League #17;SpeCial;Dark;0;1;1;B;0
+2023-07-01;Week. (B);Korean Starcraft League #17;SpeCial;triple;2;0;3;B;1
+2023-07-01;Week. (B);Korean Starcraft League #17;SpeCial;Black;2;0;3;B;1
+2023-06-29;B-Tier;OSC 2023 MSP #1;SpeCial;SKillous;1;2;3;B;0
+2023-06-22;Qual. (S);2023 GSL S2: Qualifier - Round 2;SpeCial;Scarlett;2;1;3;S;1
+2023-06-22;Qual. (S);2023 GSL S2: Qualifier - Round 2;SpeCial;Solar;0;2;3;S;0
+2023-06-22;Qual. (S);2023 GSL S2: Qualifier - Round 2;SpeCial;Nice;2;1;3;S;1
+2023-06-22;Qual. (S);2023 GSL S2: Qualifier - Round 1;SpeCial;Dark;0;2;3;S;0
+2023-06-22;Qual. (S);2023 GSL S2: Qualifier - Round 1;SpeCial;DRG;2;0;3;S;1
+2023-06-22;Qual. (S);2023 GSL S2: Qualifier - Round 1;SpeCial;영준농원;1;0;1;S;1
+2023-06-22;Qual. (S);2023 GSL S2: Qualifier - Round 1;SpeCial;Astrea;1;2;3;S;0
+2023-06-19;Week. (B);ESL Open Cup #180 Korea;SpeCial;FarmY;1;2;3;B;0
+2023-06-17;Week. (B);Korean Starcraft League #15;SpeCial;soO;0;3;5;B;0
+2023-06-17;Week. (B);Korean Starcraft League #15;SpeCial;Percival;2;0;3;B;1
+2023-06-17;Week. (B);Korean Starcraft League #15;SpeCial;HonMonO;2;0;3;B;1
+2023-06-17;Week. (B);Korean Starcraft League #15;SpeCial;Mondo;2;0;3;B;1
+2023-06-12;Week. (B);ESL Open Cup #179 Korea;SpeCial;Chance;0;1;1;B;0
+2023-06-12;Week. (B);ESL Open Cup #179 Korea;SpeCial;Poryphorion;2;0;3;B;1
+2023-06-06;B-Tier;OSC 2023 MSP #1;SpeCial;Erik;2;1;3;B;1
+2023-06-05;Week. (B);ESL Open Cup #178 Korea;SpeCial;RagnaroK;0;2;3;B;0
+2023-06-05;Week. (B);ESL Open Cup #178 Korea;SpeCial;Cyan;2;0;3;B;1
+2023-06-05;Week. (B);ESL Open Cup #178 Korea;SpeCial;DIMAGA;2;0;3;B;1
+2023-05-29;Week. (B);ESL Open Cup #177 Korea;SpeCial;GuMiho;0;2;3;B;0
+2023-05-24;Week. (B);KFC2023#6;SpeCial;Firefly;1;2;3;B;0
+2023-05-20;A-Tier;ESL Summer: Americas - Playoffs;SpeCial;Astrea;1;3;5;A;0
+2023-05-18;A-Tier;ESL Summer: Americas - Playoffs;SpeCial;Cham;3;0;5;A;1
+2020-12-31;Week. (B);Kung Fu Cup 2020 Weekly #31;SpeCial;Zest;0;2;3;B;0
+2020-12-31;Showm. (B);Alpha X Series #32;SpeCial;Zest;5;3;7;B;1
+2020-12-31;Week. (B);Kung Fu Cup 2020 Weekly #31;SpeCial;HonMonO;2;0;3;B;1
+2020-12-31;Week. (B);Kung Fu Cup 2020 Weekly #31;SpeCial;CHAO;2;0;3;B;1
+2020-12-28;Week. (B);ESL Open Cup #51 Korea;SpeCial;Patience;0;2;3;B;0
+2020-12-28;Week. (B);ESL Open Cup #51 Korea;SpeCial;Kim;2;1;3;B;1
+2020-12-23;B-Tier;Team eXoN Closed Cup;SpeCial;PartinG;1;4;5;B;0
+2020-12-23;B-Tier;Team eXoN Closed Cup;SpeCial;souL;3;0;5;B;1
+2020-12-23;B-Tier;Team eXoN Closed Cup;SpeCial;PartinG;0;3;5;B;0
+2020-12-23;B-Tier;Team eXoN Closed Cup;SpeCial;MaxPax;1;0;1;B;1
+2020-12-23;B-Tier;Team eXoN Closed Cup;SpeCial;Nina;2;0;3;B;1
+2020-12-23;B-Tier;Team eXoN Closed Cup;SpeCial;Ryan;2;0;3;B;1
+2020-12-21;Week. (B);ESL Open Cup #50 Korea;SpeCial;Zest;1;3;5;B;0
+2020-12-21;Week. (B);ESL Open Cup #50 Americas;SpeCial;nanO;1;2;3;B;0
+2020-12-21;Week. (B);ESL Open Cup #50 Americas;SpeCial;EGG;2;0;3;B;1
+2020-12-21;Week. (B);ESL Open Cup #50 Korea;SpeCial;Bunny;2;1;3;B;1
+2020-12-21;Week. (B);ESL Open Cup #50 Korea;SpeCial;Jinioh;2;0;3;B;1
+2020-12-18;Qual. (S);DH Masters: Last Chance 2021 AM - Bracket;SpeCial;Nina;0;1;1;S;0
+2020-12-18;Qual. (S);DH Masters: Last Chance 2021 AM - Bracket;SpeCial;MaxPax;0;2;3;S;0
+2020-12-17;Week. (B);Kung Fu Cup 2020 Weekly #30;SpeCial;Solar;0;2;3;B;0
+2020-12-17;Week. (B);Kung Fu Cup 2020 Weekly #30;SpeCial;Percival;2;0;3;B;1
+2020-12-17;Week. (B);Kung Fu Cup 2020 Weekly #30;SpeCial;ReWhite;2;0;3;B;1
+2020-12-13;Biw. (C);The Pizza Pie: Season 4 - Cup #10;SpeCial;Gerald;3;1;5;C;1
+2020-12-13;B-Tier;UA Expert Tournament;SpeCial;Kelazhur;4;0;5;B;1
+2020-12-13;B-Tier;UA Expert Tournament;SpeCial;TheZergLord;3;0;5;B;1
+2020-12-13;Biw. (C);The Pizza Pie: Season 4 - Cup #10;SpeCial;MaxPax;2;1;3;C;1
+2020-12-13;Biw. (C);The Pizza Pie: Season 4 - Cup #10;SpeCial;starkiller;2;0;3;C;1
+2020-12-12;Qual. (A);Cheeseadelphia Winter Championship 2021: Qualifier #3;SpeCial;ByuN;1;2;3;A;0
+2020-12-12;Qual. (A);Cheeseadelphia Winter Championship 2021: Qualifier #3;SpeCial;SKillous;2;0;3;A;1
+2020-12-11;B-Tier;OSC 2020 Super Series, Mid Season Playoffs #2;SpeCial;Solar;1;4;5;B;0
+2020-12-08;Week. (B);ESL Open Cup #48 Americas;SpeCial;ByuN;2;3;5;B;0
+2020-12-07;Week. (B);ESL Open Cup #48 Americas;SpeCial;Nina;2;0;3;B;1
+2020-12-07;Week. (B);ESL Open Cup #48 Americas;SpeCial;Jason;2;0;3;B;1
+2020-12-07;Week. (B);ESL Open Cup #48 Korea;SpeCial;sOs;0;2;3;B;0
+2020-12-07;Week. (B);ESL Open Cup #48 Americas;SpeCial;StephenCurry;2;0;3;B;1
+2020-12-07;Week. (B);ESL Open Cup #48 Korea;SpeCial;NightMare;2;1;3;B;1
+2020-12-06;S-Tier;TSL 6;SpeCial;Elazer;0;3;5;S;0
+2020-11-30;Week. (B);ESL Open Cup #47 Korea;SpeCial;Solar;1;2;3;B;0
+2020-11-30;Week. (B);ESL Open Cup #47 Korea;SpeCial;Rex;2;0;3;B;1
+2020-11-28;B-Tier;Taco Cup 6;SpeCial;uThermal;0;2;3;B;0
+2020-11-28;Week. (B);OSC King of the Hill Weekly #50;SpeCial;souL;0;1;1;B;0
+2020-11-27;B-Tier;Taco Cup 6;SpeCial;Pacomike;2;0;3;B;1
+2020-11-27;A-Tier;ASUS ROG Online 2020 - Group A;SpeCial;MaxPax;2;3;5;A;0
+2020-11-27;A-Tier;ASUS ROG Online 2020 - Group A;SpeCial;PartinG;1;3;5;A;0
+2020-11-26;Week. (B);Kung Fu Cup 2020 Weekly #28;SpeCial;F91;1;2;3;B;0
+2020-11-23;Week. (B);ESL Open Cup #46 Korea;SpeCial;Stats;0;3;5;B;0
+2020-11-23;Week. (B);ESL Open Cup #46 Americas;SpeCial;Zoun;0;2;3;B;0
+2020-11-23;Week. (B);ESL Open Cup #46 Americas;SpeCial;MaxPax;2;1;3;B;1
+2020-11-23;B-Tier;The Buckstar Invitational;SpeCial;RagnaroK;1;3;5;B;0
+2020-11-23;B-Tier;The Buckstar Invitational;SpeCial;JimRising;2;1;3;B;1
+2020-11-23;Week. (B);ESL Open Cup #46 Korea;SpeCial;DongRaeGu;2;1;3;B;1
+2020-11-23;B-Tier;The Buckstar Invitational;SpeCial;Patience;1;0;1;B;1
+2020-11-23;B-Tier;The Buckstar Invitational;SpeCial;BYE;1;0;1;B;1
+2020-11-23;Week. (B);ESL Open Cup #46 Korea;SpeCial;Firefly;2;0;3;B;1
+2020-11-23;B-Tier;The Buckstar Invitational;SpeCial;Bly;0;2;3;B;0
+2020-11-23;Week. (B);ESL Open Cup #46 Americas;SpeCial;Dasian;2;0;3;B;1
+2020-11-22;Qual. (S);2020 AfreecaTV GSL Super Tournament 2: Qualifier;SpeCial;Bunny;1;2;3;S;0
+2020-11-22;Qual. (S);2020 AfreecaTV GSL Super Tournament 2: Qualifier;SpeCial;Prince;2;1;3;S;1
+2020-11-22;Qual. (S);2020 AfreecaTV GSL Super Tournament 2: Qualifier;SpeCial;StephenCurry;2;0;3;S;1
+2020-11-22;Qual. (S);2020 AfreecaTV GSL Super Tournament 2: Qualifier;SpeCial;Bunny;1;2;3;S;0
+2020-11-22;Qual. (S);2020 AfreecaTV GSL Super Tournament 2: Qualifier;SpeCial;싸와디캅;2;0;3;S;1
+2020-11-20;Showm. (B);ITaX Super Series #37;SpeCial;Solar;0;3;5;B;0
+2020-11-20;Week. (B);OSC King of the Hill Weekly #49;SpeCial;souL;0;1;1;B;0
+2020-11-20;Week. (B);OSC King of the Hill Weekly #49;SpeCial;Creator;1;0;1;B;1
+2020-11-19;B-Tier;OSC 2020 Super Series, Mid Season Playoffs #2;SpeCial;Solar;3;1;5;B;1
+2020-11-16;Week. (B);ESL Open Cup #45 Korea;SpeCial;TIME;0;2;3;B;0
+2020-11-16;Week. (B);ESL Open Cup #45 Korea;SpeCial;MacSed;2;0;3;B;1
+2020-11-16;Week. (B);ESL Open Cup #45 Korea;SpeCial;BYE;1;0;1;B;1
+2020-11-13;B-Tier;WardiTV Invitational 11 - Group C;SpeCial;Patience;0;2;3;B;0
+2020-11-13;B-Tier;WardiTV Invitational 11 - Group C;SpeCial;Creator;0;2;3;B;0
+2020-11-11;Week. (B);eXoN Cup Open #18;SpeCial;Vanya;2;3;5;B;0
+2020-11-11;Week. (B);eXoN Cup Open #18;SpeCial;Cham;2;0;3;B;1
+2020-11-11;S-Tier;DH Masters Winter: Finals - Group B;SpeCial;TIME;1;2;3;S;0
+2020-11-11;S-Tier;DH Masters Winter: Finals - Group B;SpeCial;INnoVation;0;2;3;S;0
+2020-11-11;B-Tier;OSC 2020 Super Series, Mid Season Playoffs #2;SpeCial;starkiller;3;0;5;B;1
+2020-11-11;Week. (B);eXoN Cup Open #18;SpeCial;sigh;2;0;3;B;1
+2020-11-09;Week. (B);ESL Open Cup #44 Korea;SpeCial;ByuN;0;2;3;B;0
+2020-11-09;Week. (B);ESL Open Cup #44 Korea;SpeCial;Firefly;2;0;3;B;1
+2020-11-09;Week. (B);ESL Open Cup #44 Korea;SpeCial;BYE;1;0;1;B;1
+2020-11-07;B-Tier;Legion Invitational: Uranus;SpeCial;Nina;3;1;5;B;1
+2020-11-07;B-Tier;Legion Invitational: Uranus;SpeCial;starkiller;2;0;3;B;1
+2020-11-05;Week. (C);Shyrshadi Open #37;SpeCial;Nina;3;1;5;C;1
+2020-11-06;B-Tier;Legion Invitational: Uranus;SpeCial;Mackintac;2;0;3;B;1
+2020-11-06;B-Tier;Legion Invitational: Uranus;SpeCial;nikwelik;2;0;3;B;1
+2020-11-05;B-Tier;OSC 2020 Super Series, Mid Season Playoffs #2;SpeCial;MaNa;2;0;3;B;1
+2020-11-04;Week. (C);eXoN Cup Open #17;SpeCial;sigh;3;2;5;C;1
+2020-11-04;Week. (C);eXoN Cup Open #17;SpeCial;Vanya;2;0;3;C;1
+2020-11-05;Week. (C);Cascadia Cup Weekly #2;SpeCial;starkiller;4;0;5;C;1
+2020-11-05;Week. (C);Shyrshadi Open #37;SpeCial;Ruiyichi;1;0;1;C;1
+2020-11-05;Week. (C);Cascadia Cup Weekly #2;SpeCial;Ruiyichi;2;0;3;C;1
+2020-11-05;Week. (C);Cascadia Cup Weekly #2;SpeCial;Gerald;2;0;3;C;1
+2020-11-05;Week. (C);Shyrshadi Open #37;SpeCial;starkiller;1;0;1;C;1
+2020-11-04;Week. (C);eXoN Cup Open #17;SpeCial;Ashbringer;2;0;3;C;1
+2020-11-02;B-Tier;OSC 2020 Super Series, Mid Season Playoffs #2;SpeCial;Krystianer;2;0;3;B;1
+2020-11-02;Week. (B);ESL Open Cup #43 Korea;SpeCial;Stats;0;3;5;B;0
+2020-11-02;Week. (B);ESL Open Cup #43 Korea;SpeCial;RagnaroK;3;2;5;B;1
+2020-11-02;Week. (B);ESL Open Cup #43 Korea;SpeCial;Bunny;2;0;3;B;1
+2020-11-02;Week. (B);ESL Open Cup #43 Korea;SpeCial;hyperion;2;0;3;B;1
+2020-11-02;Week. (B);ESL Open Cup #43 Americas;SpeCial;Bly;1;2;3;B;0
+2020-11-02;Week. (B);ESL Open Cup #43 Americas;SpeCial;Ryan;2;0;3;B;1
+2020-11-02;Week. (B);ESL Open Cup #43 Americas;SpeCial;Shoes;2;0;3;B;1
+2020-11-01;B-Tier;UA Expert Tournament;SpeCial;SouLeer;2;0;3;B;1
+2020-10-31;Week. (B);OSC King of the Hill Weekly #46;SpeCial;Snoxtar;0;1;1;B;0
+2020-10-30;B-Tier;Afreeca World 65;SpeCial;Rogue;1;4;5;B;0
+2020-10-30;B-Tier;Afreeca World 65;SpeCial;Creator;1;0;1;B;1
+2020-10-28;Week. (B);eXoN Cup Open #16;SpeCial;Hellraiser;3;1;5;B;1
+2020-10-28;Week. (B);eXoN Cup Open #16;SpeCial;Silky;2;1;3;B;1
+2020-10-28;Week. (C);Shyrshadi Open #36;SpeCial;Cham;1;2;3;C;0
+2020-10-29;Week. (C);Shyrshadi Open #36;SpeCial;Nina;2;1;3;C;1
+2020-10-29;Week. (C);Shyrshadi Open #36;SpeCial;Vanya;2;0;3;C;1
+2020-10-29;Week. (C);Shyrshadi Open #36;SpeCial;Darkblade;2;0;3;C;1
+2020-10-28;Week. (B);eXoN Cup Open #16;SpeCial;sigh;2;0;3;B;1
+2020-10-28;Week. (B);eXoN Cup Open #16;SpeCial;woodooo;2;0;3;B;1
+2020-10-27;Week. (B);ESL Open Cup #42 Americas;SpeCial;Armani;0;3;5;B;0
+2020-10-26;Week. (B);ESL Open Cup #42 Korea;SpeCial;MacSed;0;2;3;B;0
+2020-10-26;Week. (B);ESL Open Cup #42 Americas;SpeCial;Namshar;2;0;3;B;1
+2020-10-26;Week. (B);ESL Open Cup #42 Americas;SpeCial;Jason;2;0;3;B;1
+2020-10-26;Week. (B);ESL Open Cup #42 Americas;SpeCial;Eurystheus;2;0;3;B;1
+2020-10-25;A-Tier;DH Masters Winter: LatAm - Playoffs;SpeCial;Kelazhur;4;1;5;A;1
+2020-10-24;Week. (C);Battle of the Americas #34;SpeCial;Semper;2;3;5;C;0
+2020-10-24;Week. (C);Battle of the Americas #34;SpeCial;Puzzle;2;0;3;C;1
+2020-10-24;A-Tier;DH Masters Winter: LatAm - Playoffs;SpeCial;Kelazhur;3;0;5;A;1
+2020-10-24;Week. (B);OSC King of the Hill Weekly #45;SpeCial;Kelazhur;0;1;1;B;0
+2020-10-24;Week. (B);OSC King of the Hill Weekly #45;SpeCial;MeomaikA;1;0;1;B;1
+2020-10-23;B-Tier;Dave Testa's Open #2;SpeCial;Vanya;3;2;5;B;1
+2020-10-24;Week. (C);Battle of the Americas #34;SpeCial;Elegacy;2;0;3;C;1
+2020-10-24;Week. (C);Battle of the Americas #34;SpeCial;MimeronVex;2;1;3;C;1
+2020-10-23;A-Tier;DH Masters Winter: LatAm - Playoffs;SpeCial;Cham;3;1;5;A;1
+2020-10-22;A-Tier;DH Masters Winter: LatAm - Group B;SpeCial;JimRising;2;0;3;A;1
+2020-10-21;A-Tier;DH Masters Winter: LatAm - Group B;SpeCial;eGGz;2;0;3;A;1
+2020-10-19;Week. (B);ESL Open Cup #41 Korea;SpeCial;Dark;0;3;5;B;0
+2020-10-19;Week. (B);ESL Open Cup #41 Korea;SpeCial;Creator;2;1;3;B;1
+2020-10-19;Week. (B);ESL Open Cup #41 Korea;SpeCial;gyulzzing;2;0;3;B;1
+2020-10-18;Qual. (A);Cheeseadelphia Winter Championship 2021: Qualifier #1;SpeCial;Vindicta;0;2;3;A;0
+2020-10-17;B-Tier;UA Expert Tournament;SpeCial;RoRrO;2;0;3;B;1
+2020-10-17;Week. (B);OSC King of the Hill Weekly #44;SpeCial;MeomaikA;0;1;1;B;0
+2020-10-17;Week. (B);OSC King of the Hill Weekly #44;SpeCial;Bee;1;0;1;B;1
+2020-10-17;Week. (B);OSC King of the Hill Weekly #44;SpeCial;Lillekanin;1;0;1;B;1
+2020-10-17;Week. (B);OSC King of the Hill Weekly #44;SpeCial;Krystianer;1;0;1;B;1
+2020-10-17;Week. (B);OSC King of the Hill Weekly #44;SpeCial;Ryan;1;0;1;B;1
+2020-10-17;Week. (B);OSC King of the Hill Weekly #44;SpeCial;Bly;1;0;1;B;1
+2020-10-17;Week. (B);OSC King of the Hill Weekly #44;SpeCial;Marsman;1;0;1;B;1
+2020-10-17;Week. (B);OSC King of the Hill Weekly #44;SpeCial;Snoxtar;1;0;1;B;1
+2020-10-17;Week. (B);OSC King of the Hill Weekly #44;SpeCial;MaxPax;1;0;1;B;1
+2020-10-12;Week. (B);ESL Open Cup #40 Korea;SpeCial;Bunny;1;2;3;B;0
+2020-10-12;Week. (B);ESL Open Cup #40 Korea;SpeCial;Rex;2;1;3;B;1
+2020-10-12;Week. (B);ESL Open Cup #40 Korea;SpeCial;NrJinu;2;0;3;B;1
+2020-10-07;Week. (C);eXoN Cup Open #13;SpeCial;Vanya;3;1;5;C;1
+2020-10-07;Week. (C);eXoN Cup Open #13;SpeCial;Nerazim;2;0;3;C;1
+2020-10-07;Week. (B);OSC King of the Hill Weekly #43;SpeCial;Bly;0;1;1;B;0
+2020-10-07;Week. (C);eXoN Cup Open #13;SpeCial;NasisNazty;2;0;3;C;1
+2020-10-07;Week. (C);eXoN Cup Open #13;SpeCial;Green;2;0;3;C;1
+2020-10-06;B-Tier;Alpha X Series Special #12;SpeCial;Creator;1;3;5;B;0
+2020-10-05;Week. (B);ESL Open Cup #39 Korea;SpeCial;Solar;1;3;5;B;0
+2020-10-05;Week. (B);ESL Open Cup #39 Korea;SpeCial;MacSed;2;0;3;B;1
+2020-10-05;Week. (B);ESL Open Cup #39 Korea;SpeCial;fork;2;0;3;B;1
+2020-10-05;Week. (B);ESL Open Cup #39 Americas;SpeCial;MaxPax;1;2;3;B;0
+2020-10-05;Week. (B);ESL Open Cup #39 Americas;SpeCial;Djorjx;2;0;3;B;1
+2020-10-03;B-Tier;UA Expert Tournament;SpeCial;TurkeyDano;2;1;3;B;1
+2020-10-03;Week. (B);OSC King of the Hill Weekly #42;SpeCial;Clem;1;0;1;B;1
+2020-10-01;Week. (B);Kung Fu Cup 2020 Weekly #24;SpeCial;TY;1;2;3;B;0
+2020-10-01;Week. (B);Kung Fu Cup 2020 Weekly #24;SpeCial;TIME;2;0;3;B;1
+2020-10-01;Week. (B);Kung Fu Cup 2020 Weekly #24;SpeCial;Hyperion;2;0;3;B;1
+2020-09-29;Week. (B);ESL Open Cup #38 Americas;SpeCial;goblin;3;1;5;B;1
+2020-09-29;Week. (B);ESL Open Cup #38 Americas;SpeCial;Silky;3;0;5;B;1
+2020-09-28;Week. (B);ESL Open Cup #38 Korea;SpeCial;DongRaeGu;0;3;5;B;0
+2020-09-28;Week. (B);ESL Open Cup #38 Korea;SpeCial;Nice;3;0;5;B;1
+2020-09-28;Week. (B);ESL Open Cup #38 Korea;SpeCial;MacSed;2;0;3;B;1
+2020-09-28;Week. (B);ESL Open Cup #38 Americas;SpeCial;Future;2;0;3;B;1
+2020-09-28;Week. (B);ESL Open Cup #38 Americas;SpeCial;PiLiPiLi;2;1;3;B;1
+2020-09-28;Week. (B);ESL Open Cup #38 Korea;SpeCial;Ruiyichi;2;0;3;B;1
+2020-09-28;Week. (B);ESL Open Cup #38 Americas;SpeCial;LordNate;2;0;3;B;1
+2020-09-27;Qual. (S);King of Battles: KB International Championship: Qualifiers - Bracket;SpeCial;Kelazhur;0;1;1;S;0
+2020-09-27;Qual. (S);King of Battles: KB International Championship: Qualifiers - Bracket;SpeCial;Gerald;1;2;3;S;0
+2020-09-27;Qual. (S);King of Battles: KB International Championship: Qualifiers - Bracket;SpeCial;SortOf;2;1;3;S;1
+2020-09-24;Week. (C);Shyrshadi Open #32;SpeCial;Vanya;3;2;5;C;1
+2020-09-24;Week. (C);Shyrshadi Open #32;SpeCial;Ruiyichi;2;0;3;C;1
+2020-09-23;Week. (C);eXoN Cup Open #11;SpeCial;Adonminus;3;2;5;C;1
+2020-09-23;Week. (C);eXoN Cup Open #11;SpeCial;Vanya;2;0;3;C;1
+2020-09-24;Week. (C);Shyrshadi Open #32;SpeCial;Gabslee;2;0;3;C;1
+2020-09-24;Week. (C);Shyrshadi Open #32;SpeCial;Hypno;2;0;3;C;1
+2020-09-23;Week. (C);eXoN Cup Open #11;SpeCial;Ashbringer;2;0;3;C;1
+2020-09-23;Week. (C);eXoN Cup Open #11;SpeCial;Decay;2;0;3;C;1
+2020-09-22;Showm. (B);Alpha X Series #22;SpeCial;Hurricane;5;1;7;B;1
+2020-09-22;Week. (B);ESL Open Cup #37 Americas;SpeCial;MaNa;3;0;5;B;1
+2020-09-22;Week. (B);ESL Open Cup #37 Americas;SpeCial;PtitDrogo;3;1;5;B;1
+2020-09-21;Week. (B);ESL Open Cup #37 Americas;SpeCial;Cham;2;0;3;B;1
+2020-09-21;Week. (B);ESL Open Cup #37 Americas;SpeCial;Vindicta;2;0;3;B;1
+2020-09-21;Week. (B);ESL Open Cup #37 Americas;SpeCial;NeosHagGy;2;0;3;B;1
+2020-09-19;Week. (B);OSC King of the Hill Weekly #40;SpeCial;Vanya;0;1;1;B;0
+2020-09-19;Week. (B);OSC King of the Hill Weekly #40;SpeCial;goblin;1;0;1;B;1
+2020-09-19;Week. (B);OSC King of the Hill Weekly #40;SpeCial;Mixu;1;0;1;B;1
+2020-09-19;Week. (B);OSC King of the Hill Weekly #40;SpeCial;Ziomek;1;0;1;B;1
+2020-09-19;Week. (B);OSC King of the Hill Weekly #40;SpeCial;Krystianer;1;0;1;B;1
+2020-09-18;B-Tier;ITaX Super Series #23;SpeCial;Trap;2;3;5;B;0
+2020-09-17;S-Tier;DH Masters Fall: Finals - GS 1 Group C;SpeCial;Clem;0;2;3;S;0
+2020-09-17;S-Tier;DH Masters Fall: Finals - GS 1 Group C;SpeCial;Rogue;0;2;3;S;0
+2020-09-17;S-Tier;DH Masters Fall: Finals - GS 1 Group C;SpeCial;Clem;2;1;3;S;1
+2020-09-16;Week. (C);eXoN Cup Open #10;SpeCial;sigh;0;1;1;C;0
+2020-09-16;Week. (C);eXoN Cup Open #10;SpeCial;Taldan;1;0;1;C;1
+2020-09-14;Week. (B);ESL Open Cup #36 Korea;SpeCial;Trap;1;3;5;B;0
+2020-09-14;Week. (B);ESL Open Cup #36 Korea;SpeCial;Zoun;2;1;3;B;1
+2020-09-14;Week. (B);ESL Open Cup #36 Korea;SpeCial;universe;2;0;3;B;1
+2020-09-12;Week. (B);OSC King of the Hill Weekly #39;SpeCial;Cham;0;1;1;B;0
+2020-09-12;Week. (B);OSC King of the Hill Weekly #39;SpeCial;Krystianer;1;0;1;B;1
+2020-09-12;Week. (B);OSC King of the Hill Weekly #39;SpeCial;Vanya;1;0;1;B;1
+2020-09-10;Week. (B);Kung Fu Cup 2020 Weekly #23;SpeCial;Solar;0;2;3;B;0
+2020-09-10;Week. (B);Kung Fu Cup 2020 Weekly #23;SpeCial;gyulzzing;2;0;3;B;1
+2020-09-07;Week. (B);ESL Open Cup #35 Korea;SpeCial;Zest;0;3;5;B;0
+2020-09-07;Week. (B);ESL Open Cup #35 Americas;SpeCial;Namshar;1;2;3;B;0
+2020-09-07;Week. (B);ESL Open Cup #35 Americas;SpeCial;PiG;2;0;3;B;1
+2020-09-07;Week. (B);ESL Open Cup #35 Americas;SpeCial;Dasian;2;0;3;B;1
+2020-09-07;Week. (B);ESL Open Cup #35 Korea;SpeCial;DongRaeGu;2;0;3;B;1
+2020-09-07;Week. (B);ESL Open Cup #35 Korea;SpeCial;James;2;0;3;B;1
+2020-09-06;Showm. (B);Alpha Pro Series: 2020 Show Matches - Premier;SpeCial;RagnaroK;1;5;7;B;0
+2020-09-06;Biw. (C);The Pizza Pie: Season 4 - Cup #3;SpeCial;Cham;1;2;3;C;0
+2020-09-06;Biw. (C);The Pizza Pie: Season 4 - Cup #3;SpeCial;sigh;2;0;3;C;1
+2020-09-06;Biw. (C);The Pizza Pie: Season 4 - Cup #3;SpeCial;Eurystheus;2;0;3;C;1
+2020-09-05;Week. (B);OSC King of the Hill Weekly #38;SpeCial;MaxPax;0;1;1;B;0
+2020-09-05;Week. (B);OSC King of the Hill Weekly #38;SpeCial;Bly;1;0;1;B;1
+2020-09-05;B-Tier;Afreeca World 62;SpeCial;Patience;4;1;5;B;1
+2020-09-05;B-Tier;Afreeca World 62;SpeCial;Hurricane;3;0;5;B;1
+2020-09-02;Week. (C);eXoN Cup Open #8;SpeCial;PartinG;0;3;5;C;0
+2020-09-02;Week. (C);eXoN Cup Open #8;SpeCial;sigh;2;0;3;C;1
+2020-09-02;Week. (C);eXoN Cup Open #8;SpeCial;kiwian;2;1;3;C;1
+2020-09-02;Week. (C);eXoN Cup Open #8;SpeCial;ReaLiTy;2;0;3;C;1
+2020-09-01;Week. (B);ESL Open Cup #34 Americas;SpeCial;Neeb;1;3;5;B;0
+2020-08-31;Week. (B);ESL Open Cup #34 Americas;SpeCial;eGGz;2;0;3;B;1
+2020-08-31;Week. (B);ESL Open Cup #34 Americas;SpeCial;Golden;2;0;3;B;1
+2020-08-31;Week. (B);ESL Open Cup #34 Americas;SpeCial;Hupsaiya;2;0;3;B;1
+2020-08-31;Week. (B);ESL Open Cup #34 Korea;SpeCial;DongRaeGu;1;2;3;B;0
+2020-08-31;Week. (B);ESL Open Cup #34 Korea;SpeCial;Firefly;2;0;3;B;1
+2020-08-31;A-Tier;DH Masters Fall: LatAm - Playoffs;SpeCial;Cham;4;3;5;A;1
+2020-08-30;A-Tier;DH Masters Fall: LatAm - Playoffs;SpeCial;Kelazhur;3;1;5;A;1
+2020-08-29;A-Tier;DH Masters Fall: LatAm - Playoffs;SpeCial;Cham;1;3;5;A;0
+2020-08-29;S-Tier;2020 GSL Season 3 - Group Stage #1 (Ro24);SpeCial;Spear;0;2;3;S;0
+2020-08-29;S-Tier;2020 GSL Season 3 - Group Stage #1 (Ro24);SpeCial;Solar;1;2;3;S;0
+2020-08-27;A-Tier;DH Masters Fall: LatAm - Playoffs;SpeCial;Kelazhur;3;0;5;A;1
+2020-08-27;A-Tier;DH Masters Fall: LatAm - Group B;SpeCial;Erik;2;1;3;A;1
+2025-12-31;C-Tier;Rotti Stream Rumble #6;RotterdaM;SpeCial;0;3;5;C;0
+2025-10-19;B-Tier;SC2's Safe House #2 - Playoffs;Astrea;SpeCial;4;0;5;B;1
+2025-10-18;B-Tier;SC2's Safe House #2 - Group Stage;MasTeR;SpeCial;0;2;3;B;0
+2025-10-18;B-Tier;SC2's Safe House #2 - Group Stage;trigger;SpeCial;2;0;3;B;1
+2025-10-18;B-Tier;SC2's Safe House #2 - Group Stage;Dolan;SpeCial;0;2;3;B;0
+2025-10-18;B-Tier;SC2's Safe House #2 - Group Stage;Astrea;SpeCial;1;2;3;B;0
+2025-10-18;B-Tier;SC2's Safe House #2 - Group Stage;Cham;SpeCial;0;2;3;B;0
+2025-10-18;B-Tier;SC2's Safe House #2 - Group Stage;eGGz;SpeCial;0;2;3;B;0
+2025-10-18;B-Tier;SC2's Safe House #2 - Group Stage;FoxeR;SpeCial;0;2;3;B;0
+2025-10-13;Mon. (B);Code For Giants Cup LATAM #3;eGGz;SpeCial;0;3;5;B;0
+2025-10-12;Mon. (B);Code For Giants Cup LATAM #3;MasTeR;SpeCial;1;2;3;B;0
+2025-10-12;B-Tier;Patches' TLMC21 Bash #2;ART;SpeCial;1;0;1;B;1
+2025-10-12;B-Tier;Patches' TLMC21 Bash #2;SKillous;SpeCial;2;1;3;B;1
+2025-10-12;Mon. (B);Code For Giants Cup LATAM #3;KamiKaze;SpeCial;0;2;3;B;0
+2025-10-12;B-Tier;Patches' TLMC21 Bash #2;Kinpach;SpeCial;0;2;3;B;0
+2025-10-04;Qual. (B);SC2's Safe House #2: Qualifier #1;MasTeR;SpeCial;0;3;5;B;0
+2025-10-04;Qual. (B);SC2's Safe House #2: Qualifier #1;FoxeR;SpeCial;0;2;3;B;0
+2025-10-04;Qual. (B);SC2's Safe House #2: Qualifier #1;KamiKaze;SpeCial;0;2;3;B;0
+2025-10-03;C-Tier;Greenert's Mod Jam Open #1;Mixu;SpeCial;3;1;5;C;1
+2025-10-03;C-Tier;Greenert's Mod Jam Open #1;HonMonO;SpeCial;0;1;1;C;0
+2025-10-03;C-Tier;Greenert's Mod Jam Open #1;Patches;SpeCial;0;1;1;C;0
+2025-10-03;C-Tier;Greenert's Mod Jam Open #1;Tonsi;SpeCial;0;1;1;C;0
+2025-10-03;C-Tier;Greenert's Mod Jam Open #1;HonMonO;SpeCial;2;1;3;C;1
+2025-10-03;C-Tier;Greenert's Mod Jam Open #1;Ponyo;SpeCial;0;2;3;C;0
+2025-09-06;C-Tier;Greenert's Mod Jam Invitational;INexorable;SpeCial;1;3;5;C;0
+2025-09-06;C-Tier;Greenert's Mod Jam Invitational;MiniZergUA;SpeCial;3;2;5;C;1
+2025-09-06;C-Tier;Greenert's Mod Jam Invitational;acheron;SpeCial;0;2;3;C;0
+2025-08-31;Mon. (B);Code For Giants Cup LATAM #2;Mute;SpeCial;2;3;5;B;0
+2025-08-31;Mon. (B);Code For Giants Cup LATAM #2;EON;SpeCial;0;2;3;B;0
+2025-08-31;Mon. (B);Code For Giants Cup LATAM #2;Dorminhoco;SpeCial;0;2;3;B;0
+2025-08-17;B-Tier;Patches' Patch Clash #4;Gerald;SpeCial;2;0;3;B;1
+2025-08-17;B-Tier;Patches' Patch Clash #4;Mixu;SpeCial;2;1;3;B;1
+2025-08-17;B-Tier;Patches' Patch Clash #4;ArT;SpeCial;0;2;3;B;0
+2025-08-17;B-Tier;Patches' Patch Clash #4;LetaleX;SpeCial;1;2;3;B;0
+2025-08-10;B-Tier;Patches' Patch Clash #3;ART;SpeCial;2;3;5;B;0
+2025-08-10;B-Tier;Patches' Patch Clash #3;PAPI;SpeCial;0;2;3;B;0
+2025-08-10;B-Tier;Patches' Patch Clash #3;ART;SpeCial;0;2;3;B;0
+2025-08-10;B-Tier;Patches' Patch Clash #3;Greenert;SpeCial;0;2;3;B;0
+2025-08-04;Mon. (B);Code For Giants Cup LATAM #1;Mute;SpeCial;3;1;5;B;1
+2025-08-03;Mon. (B);Code For Giants Cup LATAM #1;MasTeR;SpeCial;1;2;3;B;0
+2025-08-03;Mon. (B);Code For Giants Cup LATAM #1;SlayersMvP;SpeCial;0;2;3;B;0
+2025-08-03;Mon. (B);Code For Giants Cup LATAM #1;Kimari;SpeCial;0;2;3;B;0
+2025-07-31;B-Tier;Kirktown Chat Brawl #7;Percival;SpeCial;3;2;5;B;1
+2025-07-30;B-Tier;Kirktown Chat Brawl #7;Reaper;SpeCial;1;2;3;B;0
+2025-07-30;B-Tier;Kirktown Chat Brawl #7;BYE;SpeCial;0;1;1;B;0
+2025-07-26;B-Tier;Patches' Patch Clash #1;Fjant;SpeCial;1;3;5;B;0
+2025-07-26;B-Tier;Patches' Patch Clash #1;Fjant;SpeCial;0;2;3;B;0
+2025-07-26;B-Tier;Patches' Patch Clash #1;Jason;SpeCial;0;2;3;B;0
+2025-07-26;B-Tier;Patches' Patch Clash #1;HonMonO;SpeCial;1;2;3;B;0
+2025-07-23;Week. (B);PiGosaur Cup #41;Gerald;SpeCial;2;0;3;B;1
+2025-07-22;Week. (B);PiGosaur Cup #41;Nicoract;SpeCial;1;2;3;B;0
+2025-07-22;Week. (B);PiGosaur Cup #41;RaGnaR;SpeCial;0;2;3;B;0
+2025-07-18;Showm. (B);Basilisk Big Brain Bouts #99 - Bouts;sebesdes;SpeCial;3;1;5;B;1
+2025-07-12;Showm. (B);Kirktown RR #3;starkiller;SpeCial;0;3;5;B;0
+2025-05-31;Qual. (S);EWC 2025 Americas Quali - Bracket;Cham;SpeCial;1;0;1;S;1
+2025-05-31;Qual. (S);EWC 2025 Americas Quali - Bracket;trigger;SpeCial;3;0;5;S;1
+2025-05-31;Qual. (S);EWC 2025 Americas Quali - Bracket;Future;SpeCial;1;3;5;S;0
+2025-05-29;Qual. (S);EWC 2025 Americas Quali - Bracket;MasTeR;SpeCial;1;3;5;S;0
+2025-05-28;Qual. (S);EWC 2025 Americas Quali - Bracket;EON;SpeCial;0;2;3;S;0
+2025-04-22;Week. (B);PiGosaur Monday #28;sOs;SpeCial;2;0;3;B;1
+2025-04-22;Week. (B);PiGosaur Monday #28;Greenert;SpeCial;1;2;3;B;0
+2025-04-20;B-Tier;Salt Cup #1;FoxeR;SpeCial;2;3;5;B;0
+2025-04-20;B-Tier;Salt Cup #1;FoxeR;SpeCial;1;2;3;B;0
+2025-04-20;B-Tier;Salt Cup #1;Moja;SpeCial;0;2;3;B;0
+2025-04-20;B-Tier;Salt Cup #1;BerryCrunch;SpeCial;1;2;3;B;0
+2025-04-13;B-Tier;Hispanic StarCraft 2 League - Playoffs;VortiX;SpeCial;2;3;5;B;0
+2025-04-13;B-Tier;Hispanic StarCraft 2 League - Playoffs;Mute;SpeCial;0;2;3;B;0
+2025-04-11;Showm. (B);Enki Pro Series #4;Cham;SpeCial;5;4;7;B;1
+2025-04-04;Showm. (B);Basilisk Big Brain Bouts #92 - Main Event;Scarlett;SpeCial;3;0;5;B;1
+2025-03-24;Week. (B);PiGosaur Monday #24;MaxPax;SpeCial;2;1;3;B;1
+2025-03-24;Week. (B);PiGosaur Monday #24;JMONEYMAGIC;SpeCial;0;2;3;B;0
+2025-03-21;Showm. (B);Basilisk Big Brain Bouts #90 - Bouts;Nikich;SpeCial;0;3;5;B;0
+2025-03-03;B-Tier;Hispanic StarCraft 2 League - Playoffs;eGGz;SpeCial;0;2;3;B;0
+2025-03-03;B-Tier;Hispanic StarCraft 2 League - Playoffs;RyoGin;SpeCial;0;2;3;B;0
+2025-03-03;B-Tier;Hispanic StarCraft 2 League - Group A;Luna;SpeCial;0;3;5;B;0
+2025-03-03;B-Tier;Hispanic StarCraft 2 League - Group A;KevinECU;SpeCial;0;3;5;B;0
+2025-03-03;B-Tier;Hispanic StarCraft 2 League - Group A;Galahad;SpeCial;0;3;5;B;0
+2025-03-03;B-Tier;Hispanic StarCraft 2 League - Group A;Fairespiter;SpeCial;0;3;5;B;0
+2025-02-28;Showm. (B);Basilisk Big Brain Bouts #87 - Bouts;HiGhDrA;SpeCial;0;3;5;B;0
+2025-02-06;B-Tier;UpACup Viewer Tournament;Krystianer;SpeCial;2;1;3;B;1
+2025-02-06;B-Tier;UpACup Viewer Tournament;Daniello;SpeCial;0;2;3;B;0
+2025-01-10;Showm. (B);Basilisk Big Brain Bouts #80 - Bouts;Cham;SpeCial;3;1;5;B;1
+2024-07-18;B-Tier;OSC 2024 MSP #1;Krystianer;SpeCial;1;0;1;B;1
+2024-07-05;Qual. (S);EWC 2024 AM Qualifier;Scarlett;SpeCial;2;0;3;S;1
+2024-07-05;Qual. (S);EWC 2024 AM Qualifier;Future;SpeCial;1;2;3;S;0
+2024-07-05;Qual. (S);EWC 2024 AM Qualifier;YanXII;SpeCial;0;2;3;S;0
+2024-06-03;Week. (B);ESL Open Cup #230 Americas;Gerald;SpeCial;2;0;3;B;1
+2024-06-03;Week. (B);ESL Open Cup #230 Americas;imData;SpeCial;0;2;3;B;0
+2024-05-18;B-Tier;OSC 2024 MSP #1;Gerald;SpeCial;1;0;1;B;1
+2024-05-17;Week. (B);OSC KotH Weekly #170;Wayne;SpeCial;0;1;1;B;0
+2024-05-09;Week. (B);OSC KotH Weekly #169;SKillous;SpeCial;1;0;1;B;1
+2024-04-26;Showm. (B);Basilisk Big Brain Bouts #58 - Main Event;YoungYakov;SpeCial;0;3;5;B;0
+2024-04-21;A-Tier;ESL Spring: Americas - R 5;Nina;SpeCial;2;1;3;A;1
+2024-04-20;A-Tier;ESL Spring: Americas - R 4;Future;SpeCial;2;1;3;A;1
+2024-04-18;A-Tier;ESL Spring: Americas - R 3;Maplez;SpeCial;0;2;3;A;0
+2024-04-14;A-Tier;ESL Spring: Americas - R 2;trigger;SpeCial;2;1;3;A;1
+2024-04-12;A-Tier;ESL Spring: Americas - R 1;Epic;SpeCial;1;2;3;A;0
+2024-04-11;Week. (B);OSC KotH Weekly #167;SKillous;SpeCial;1;0;1;B;1
+2024-04-11;Week. (B);OSC KotH Weekly #167;Gerald;SpeCial;0;1;1;B;0
+2024-02-25;B-Tier;ReaverMod Tournament;SKillous;SpeCial;2;0;3;B;1
+2024-02-25;B-Tier;ReaverMod Tournament;Krystianer;SpeCial;2;0;3;B;1
+2024-02-25;B-Tier;ReaverMod Tournament;Nicoract;SpeCial;1;2;3;B;0
+2024-01-17;A-Tier;WardiTV 2023 - Playoffs;Solar;SpeCial;3;0;5;A;1
+2024-01-17;A-Tier;WardiTV 2023 - Playoffs;Wayne;SpeCial;0;3;5;A;0
+2024-01-12;A-Tier;WardiTV 2023 - Playoffs;Oliveira;SpeCial;3;1;5;A;1
+2024-01-11;A-Tier;WardiTV 2023 - Playoffs;Spirit;SpeCial;0;3;5;A;0
+2024-01-08;A-Tier;WardiTV 2023 - GS Group A;ShoWTimE;SpeCial;2;1;3;A;1
+2024-01-08;A-Tier;WardiTV 2023 - GS Group A;MaNa;SpeCial;1;2;3;A;0
+2024-01-08;A-Tier;WardiTV 2023 - GS Group A;Harstem;SpeCial;0;2;3;A;0
+2024-01-08;A-Tier;WardiTV 2023 - GS Group A;Mixu;SpeCial;0;2;3;A;0
+2023-12-31;B-Tier;OSC 2023 MSP #2;MaxPax;SpeCial;4;0;5;B;1
+2023-12-31;B-Tier;OSC 2023 MSP #2;Spirit;SpeCial;2;3;5;B;0
+2023-12-25;Week. (B);ESL Open Cup #207 Americas;Hupsaiya;SpeCial;1;0;1;B;1
+2023-12-25;Week. (B);ESL Open Cup #207 Americas;Rescue;SpeCial;0;2;3;B;0
+2023-12-25;Qual. (S);Master's Coliseum 7: Americas Qualifier;Astrea;SpeCial;2;1;3;S;1
+2023-12-19;Week. (B);ESL Open Cup #206 Americas;Jieshi;SpeCial;1;3;5;B;0
+2023-12-19;Week. (B);ESL Open Cup #206 Americas;Jason;SpeCial;0;2;3;B;0
+2023-12-18;Week. (B);ESL Open Cup #206 Americas;uThermal;SpeCial;0;2;3;B;0
+2023-12-18;Week. (B);ESL Open Cup #206 Americas;zesty;SpeCial;0;2;3;B;0
+2023-12-18;Week. (B);ESL Open Cup #206 Americas;DontDefense;SpeCial;0;2;3;B;0
+2023-12-11;B-Tier;OSC 2023 MSP #2;MaxPax;SpeCial;3;1;5;B;1
+2023-12-11;Qual. (S);IEM Katowice 2024: AM Qualifier - Bracket;Scarlett;SpeCial;3;0;5;S;1
+2023-12-11;Qual. (S);IEM Katowice 2024: AM Qualifier - Bracket;Creator;SpeCial;0;2;3;S;0
+2023-12-11;Qual. (S);IEM Katowice 2024: AM Qualifier - Bracket;Bunny;SpeCial;2;0;3;S;1
+2023-12-07;Qual. (S);IEM Katowice 2024: EU Qualifier - Bracket;YoungYakov;SpeCial;2;0;3;S;1
+2023-11-17;A-Tier;ESL Winter: Americas - Playoffs;Kelazhur;SpeCial;3;0;5;A;1
+2023-11-12;A-Tier;ESL Winter: Americas - Playoffs;trigger;SpeCial;3;1;5;A;1
+2023-11-09;A-Tier;ESL Winter: Americas - Playoffs;Cham;SpeCial;1;3;5;A;0
+2023-11-06;Week. (B);ESL Open Cup #200 Americas;Reaper;SpeCial;1;0;1;B;1
+2023-11-01;A-Tier;ESL Winter: Americas - R 3;Kelazhur;SpeCial;0;2;3;A;0
+2023-10-28;A-Tier;ESL Winter: Americas - R 2;trigger;SpeCial;0;2;3;A;0
+2023-10-27;A-Tier;ESL Winter: Americas - R 1;Erik;SpeCial;0;2;3;A;0
+2023-10-16;Week. (B);ESL Open Cup #197 Europe;Mixu;SpeCial;2;1;3;B;1
+2023-09-30;B-Tier;SSL Cup #31;Arrogfire;SpeCial;0;3;5;B;0
+2023-09-30;B-Tier;SSL Cup #31;Matvey;SpeCial;0;2;3;B;0
+2023-09-30;B-Tier;SSL Cup #31;Krystianer;SpeCial;1;2;3;B;0
+2023-09-29;Showm. (B);Basilisk Big Brain Bouts #41 - Main Event;Elazer;SpeCial;2;3;5;B;0
+2023-09-27;Week. (B);KFC 2023 S2 #1;Cure;SpeCial;2;1;3;B;1
+2023-09-27;B-Tier;OSC 2023 MSP #2;Spirit;SpeCial;1;3;5;B;0
+2023-09-27;B-Tier;OSC 2023 MSP #2;Nice;SpeCial;1;2;3;B;0
+2023-09-26;B-Tier;WardiTV EU League 23 - GS 2 Group A;Wayne;SpeCial;2;0;3;B;1
+2023-09-26;B-Tier;WardiTV EU League 23 - GS 2 Group A;MaxPax;SpeCial;2;0;3;B;1
+2023-09-26;B-Tier;WardiTV EU League 23 - GS 2 Group A;Wayne;SpeCial;0;2;3;B;0
+2023-09-25;Week. (B);ESL Open Cup #194 Europe;Harstem;SpeCial;2;0;3;B;1
+2023-09-25;Week. (B);ESL Open Cup #194 Americas;Reaper;SpeCial;2;0;3;B;1
+2023-09-25;Week. (B);ESL Open Cup #194 Europe;DIMAGA;SpeCial;1;2;3;B;0
+2023-09-24;B-Tier;WardiTV September Open;Solar;SpeCial;2;1;3;B;1
+2023-09-24;Biw. (C);Tenacious Turtle Tussle #10;SpiffyBee;SpeCial;0;3;5;C;0
+2023-09-24;Biw. (C);Tenacious Turtle Tussle #10;Nice;SpeCial;0;2;3;C;0
+2023-09-24;Biw. (C);Tenacious Turtle Tussle #10;FoxeR;SpeCial;0;2;3;C;0
+2023-09-23;Week. (B);OSC KotH Weekly #149;MindelVK;SpeCial;1;0;1;B;1
+2023-09-23;Week. (B);OSC KotH Weekly #149;SKillous;SpeCial;0;1;1;B;0
+2023-09-21;B-Tier;WardiTV EU League 23 - GS 1 Group A;Mixu;SpeCial;0;2;3;B;0
+2023-09-21;B-Tier;WardiTV EU League 23 - GS 1 Group A;Gerald;SpeCial;2;1;3;B;1
+2023-09-21;B-Tier;WardiTV EU League 23 - GS 1 Group A;Mixu;SpeCial;0;2;3;B;0
+2023-09-19;Qual. (B);WardiTV EU League 23 Q2;Gerald;SpeCial;1;2;3;B;0
+2023-09-19;Qual. (B);WardiTV EU League 23 Q2;Wayne;SpeCial;0;1;1;B;0
+2023-09-19;Qual. (B);WardiTV EU League 23 Q2;BabyMarine;SpeCial;0;2;3;B;0
+2023-09-19;Qual. (B);WardiTV EU League 23 Q2;Ashbringer;SpeCial;1;2;3;B;0
+2023-09-18;Week. (B);ESL Open Cup #193 Europe;Clem;SpeCial;2;1;3;B;1
+2023-09-18;Week. (B);ESL Open Cup #193 Europe;DnS;SpeCial;0;2;3;B;0
+2023-09-18;Week. (B);ESL Open Cup #193 Americas;Creator;SpeCial;2;1;3;B;1
+2023-09-18;Week. (B);ESL Open Cup #193 Europe;MindelVK;SpeCial;0;2;3;B;0
+2023-09-18;Week. (B);ESL Open Cup #193 Americas;Steadfast;SpeCial;0;2;3;B;0
+2023-09-16;B-Tier;SSL Cup #30;HonMonO;SpeCial;3;2;5;B;1
+2023-09-16;B-Tier;SSL Cup #30;Gref;SpeCial;0;2;3;B;0
+2023-09-14;B-Tier;OSC 2023 MSP #2;DIMAGA;SpeCial;0;2;3;B;0
+2023-09-14;Week. (B);OSC KotH Weekly #147;Mixu;SpeCial;1;0;1;B;1
+2023-09-13;B-Tier;Migs Cup #9;Krystianer;SpeCial;1;3;5;B;0
+2023-09-13;B-Tier;Migs Cup #9;BattleB;SpeCial;1;2;3;B;0
+2023-09-13;B-Tier;Migs Cup #9;Mixu;SpeCial;1;2;3;B;0
+2023-09-13;B-Tier;Migs Cup #9;Dephy;SpeCial;0;2;3;B;0
+2023-09-12;Week. (B);ESL Open Cup #192 Americas;GuMiho;SpeCial;2;1;3;B;1
+2023-09-11;Week. (B);ESL Open Cup #192 Europe;Reynor;SpeCial;2;0;3;B;1
+2023-09-11;Week. (B);ESL Open Cup #192 Europe;Spatz;SpeCial;0;2;3;B;0
+2023-09-11;Week. (B);ESL Open Cup #192 Americas;SKillous;SpeCial;0;2;3;B;0
+2023-09-11;Week. (B);ESL Open Cup #192 Americas;Mixu;SpeCial;0;2;3;B;0
+2023-09-11;Week. (B);ESL Open Cup #192 Europe;Indy;SpeCial;0;2;3;B;0
+2023-09-11;Week. (B);ESL Open Cup #192 Americas;Eleven;SpeCial;0;2;3;B;0
+2023-08-30;Week. (B);OSC KotH Weekly #146;Wayne;SpeCial;0;1;1;B;0
+2023-08-25;Showm. (B);Basilisk Big Brain Bouts #37 - Main Event;MaNa;SpeCial;0;3;5;B;0
+2023-08-22;Week. (B);ESL Open Cup #189 Americas;Cure;SpeCial;2;0;3;B;1
+2023-08-21;Week. (B);ESL Open Cup #189 Americas;SKillous;SpeCial;0;2;3;B;0
+2023-08-21;Week. (B);ESL Open Cup #189 Americas;Nihed;SpeCial;0;2;3;B;0
+2023-08-21;Week. (B);ESL Open Cup #189 Americas;SpiffyBee;SpeCial;0;2;3;B;0
+2023-08-17;Week. (B);OSC KotH Weekly #145;Nicoract;SpeCial;0;1;1;B;0
+2023-08-10;Week. (B);OSC KotH Weekly #144;NightMare;SpeCial;1;0;1;B;1
+2023-08-10;Week. (B);OSC KotH Weekly #144;YoungYakov;SpeCial;0;1;1;B;0
+2023-08-07;Week. (B);ESL Open Cup #187 Europe;YoungYakov;SpeCial;2;1;3;B;1
+2023-08-07;Week. (B);ESL Open Cup #187 Europe;Spatz;SpeCial;1;2;3;B;0
+2023-08-07;Week. (B);ESL Open Cup #187 Europe;PPower;SpeCial;0;2;3;B;0
+2023-07-27;B-Tier;OSC 2023 MSP #1;Dark;SpeCial;3;0;5;B;1
+2023-07-22;Week. (B);Korean Starcraft League #20;GuMiho;SpeCial;2;0;3;B;1
+2023-07-15;Qual. (A);AfTV CC 2 KR Qualifiers - Bracket;DRG;SpeCial;1;0;1;A;1
+2023-07-15;Qual. (A);AfTV CC 2 KR Qualifiers - Bracket;GuMiho;SpeCial;2;1;3;A;1
+2023-07-15;Qual. (A);AfTV CC 2 KR Qualifiers - Bracket;NightMare;SpeCial;1;2;3;A;0
+2023-07-12;Week. (B);KFC2023#11;Solar;SpeCial;2;1;3;B;1
+2023-07-11;S-Tier;2023 GSL S2: Code S - GS 1 Group C;GuMiho;SpeCial;2;0;3;S;1
+2023-07-11;S-Tier;2023 GSL S2: Code S - GS 1 Group C;Dark;SpeCial;2;1;3;S;1
+2023-07-08;Qual. (A);AfTV CC 2 KR Qualifiers - Bracket;RagnaroK;SpeCial;2;0;3;A;1
+2023-07-08;Qual. (A);AfTV CC 2 KR Qualifiers - Bracket;Jieshi;SpeCial;1;0;1;A;1
+2023-07-01;Week. (B);Korean Starcraft League #17;Dark;SpeCial;1;0;1;B;1
+2023-07-01;Week. (B);Korean Starcraft League #17;triple;SpeCial;0;2;3;B;0
+2023-07-01;Week. (B);Korean Starcraft League #17;Black;SpeCial;0;2;3;B;0
+2023-06-29;B-Tier;OSC 2023 MSP #1;SKillous;SpeCial;2;1;3;B;1
+2023-06-22;Qual. (S);2023 GSL S2: Qualifier - Round 2;Scarlett;SpeCial;1;2;3;S;0
+2023-06-22;Qual. (S);2023 GSL S2: Qualifier - Round 2;Solar;SpeCial;2;0;3;S;1
+2023-06-22;Qual. (S);2023 GSL S2: Qualifier - Round 2;Nice;SpeCial;1;2;3;S;0
+2023-06-22;Qual. (S);2023 GSL S2: Qualifier - Round 1;Dark;SpeCial;2;0;3;S;1
+2023-06-22;Qual. (S);2023 GSL S2: Qualifier - Round 1;DRG;SpeCial;0;2;3;S;0
+2023-06-22;Qual. (S);2023 GSL S2: Qualifier - Round 1;영준농원;SpeCial;0;1;1;S;0
+2023-06-22;Qual. (S);2023 GSL S2: Qualifier - Round 1;Astrea;SpeCial;2;1;3;S;1
+2023-06-19;Week. (B);ESL Open Cup #180 Korea;FarmY;SpeCial;2;1;3;B;1
+2023-06-17;Week. (B);Korean Starcraft League #15;soO;SpeCial;3;0;5;B;1
+2023-06-17;Week. (B);Korean Starcraft League #15;Percival;SpeCial;0;2;3;B;0
+2023-06-17;Week. (B);Korean Starcraft League #15;HonMonO;SpeCial;0;2;3;B;0
+2023-06-17;Week. (B);Korean Starcraft League #15;Mondo;SpeCial;0;2;3;B;0
+2023-06-12;Week. (B);ESL Open Cup #179 Korea;Chance;SpeCial;1;0;1;B;1
+2023-06-12;Week. (B);ESL Open Cup #179 Korea;Poryphorion;SpeCial;0;2;3;B;0
+2023-06-06;B-Tier;OSC 2023 MSP #1;Erik;SpeCial;1;2;3;B;0
+2023-06-05;Week. (B);ESL Open Cup #178 Korea;RagnaroK;SpeCial;2;0;3;B;1
+2023-06-05;Week. (B);ESL Open Cup #178 Korea;Cyan;SpeCial;0;2;3;B;0
+2023-06-05;Week. (B);ESL Open Cup #178 Korea;DIMAGA;SpeCial;0;2;3;B;0
+2023-05-29;Week. (B);ESL Open Cup #177 Korea;GuMiho;SpeCial;2;0;3;B;1
+2023-05-24;Week. (B);KFC2023#6;Firefly;SpeCial;2;1;3;B;1
+2023-05-20;A-Tier;ESL Summer: Americas - Playoffs;Astrea;SpeCial;3;1;5;A;1
+2023-05-18;A-Tier;ESL Summer: Americas - Playoffs;Cham;SpeCial;0;3;5;A;0
+2020-12-31;Week. (B);Kung Fu Cup 2020 Weekly #31;Zest;SpeCial;2;0;3;B;1
+2020-12-31;Showm. (B);Alpha X Series #32;Zest;SpeCial;3;5;7;B;0
+2020-12-31;Week. (B);Kung Fu Cup 2020 Weekly #31;HonMonO;SpeCial;0;2;3;B;0
+2020-12-31;Week. (B);Kung Fu Cup 2020 Weekly #31;CHAO;SpeCial;0;2;3;B;0
+2020-12-28;Week. (B);ESL Open Cup #51 Korea;Patience;SpeCial;2;0;3;B;1
+2020-12-28;Week. (B);ESL Open Cup #51 Korea;Kim;SpeCial;1;2;3;B;0
+2020-12-23;B-Tier;Team eXoN Closed Cup;PartinG;SpeCial;4;1;5;B;1
+2020-12-23;B-Tier;Team eXoN Closed Cup;souL;SpeCial;0;3;5;B;0
+2020-12-23;B-Tier;Team eXoN Closed Cup;PartinG;SpeCial;3;0;5;B;1
+2020-12-23;B-Tier;Team eXoN Closed Cup;MaxPax;SpeCial;0;1;1;B;0
+2020-12-23;B-Tier;Team eXoN Closed Cup;Nina;SpeCial;0;2;3;B;0
+2020-12-23;B-Tier;Team eXoN Closed Cup;Ryan;SpeCial;0;2;3;B;0
+2020-12-21;Week. (B);ESL Open Cup #50 Korea;Zest;SpeCial;3;1;5;B;1
+2020-12-21;Week. (B);ESL Open Cup #50 Americas;nanO;SpeCial;2;1;3;B;1
+2020-12-21;Week. (B);ESL Open Cup #50 Americas;EGG;SpeCial;0;2;3;B;0
+2020-12-21;Week. (B);ESL Open Cup #50 Korea;Bunny;SpeCial;1;2;3;B;0
+2020-12-21;Week. (B);ESL Open Cup #50 Korea;Jinioh;SpeCial;0;2;3;B;0
+2020-12-18;Qual. (S);DH Masters: Last Chance 2021 AM - Bracket;Nina;SpeCial;1;0;1;S;1
+2020-12-18;Qual. (S);DH Masters: Last Chance 2021 AM - Bracket;MaxPax;SpeCial;2;0;3;S;1
+2020-12-17;Week. (B);Kung Fu Cup 2020 Weekly #30;Solar;SpeCial;2;0;3;B;1
+2020-12-17;Week. (B);Kung Fu Cup 2020 Weekly #30;Percival;SpeCial;0;2;3;B;0
+2020-12-17;Week. (B);Kung Fu Cup 2020 Weekly #30;ReWhite;SpeCial;0;2;3;B;0
+2020-12-13;Biw. (C);The Pizza Pie: Season 4 - Cup #10;Gerald;SpeCial;1;3;5;C;0
+2020-12-13;B-Tier;UA Expert Tournament;Kelazhur;SpeCial;0;4;5;B;0
+2020-12-13;B-Tier;UA Expert Tournament;TheZergLord;SpeCial;0;3;5;B;0
+2020-12-13;Biw. (C);The Pizza Pie: Season 4 - Cup #10;MaxPax;SpeCial;1;2;3;C;0
+2020-12-13;Biw. (C);The Pizza Pie: Season 4 - Cup #10;starkiller;SpeCial;0;2;3;C;0
+2020-12-12;Qual. (A);Cheeseadelphia Winter Championship 2021: Qualifier #3;ByuN;SpeCial;2;1;3;A;1
+2020-12-12;Qual. (A);Cheeseadelphia Winter Championship 2021: Qualifier #3;SKillous;SpeCial;0;2;3;A;0
+2020-12-11;B-Tier;OSC 2020 Super Series, Mid Season Playoffs #2;Solar;SpeCial;4;1;5;B;1
+2020-12-08;Week. (B);ESL Open Cup #48 Americas;ByuN;SpeCial;3;2;5;B;1
+2020-12-07;Week. (B);ESL Open Cup #48 Americas;Nina;SpeCial;0;2;3;B;0
+2020-12-07;Week. (B);ESL Open Cup #48 Americas;Jason;SpeCial;0;2;3;B;0
+2020-12-07;Week. (B);ESL Open Cup #48 Korea;sOs;SpeCial;2;0;3;B;1
+2020-12-07;Week. (B);ESL Open Cup #48 Americas;StephenCurry;SpeCial;0;2;3;B;0
+2020-12-07;Week. (B);ESL Open Cup #48 Korea;NightMare;SpeCial;1;2;3;B;0
+2020-12-06;S-Tier;TSL 6;Elazer;SpeCial;3;0;5;S;1
+2020-11-30;Week. (B);ESL Open Cup #47 Korea;Solar;SpeCial;2;1;3;B;1
+2020-11-30;Week. (B);ESL Open Cup #47 Korea;Rex;SpeCial;0;2;3;B;0
+2020-11-28;B-Tier;Taco Cup 6;uThermal;SpeCial;2;0;3;B;1
+2020-11-28;Week. (B);OSC King of the Hill Weekly #50;souL;SpeCial;1;0;1;B;1
+2020-11-27;B-Tier;Taco Cup 6;Pacomike;SpeCial;0;2;3;B;0
+2020-11-27;A-Tier;ASUS ROG Online 2020 - Group A;MaxPax;SpeCial;3;2;5;A;1
+2020-11-27;A-Tier;ASUS ROG Online 2020 - Group A;PartinG;SpeCial;3;1;5;A;1
+2020-11-26;Week. (B);Kung Fu Cup 2020 Weekly #28;F91;SpeCial;2;1;3;B;1
+2020-11-23;Week. (B);ESL Open Cup #46 Korea;Stats;SpeCial;3;0;5;B;1
+2020-11-23;Week. (B);ESL Open Cup #46 Americas;Zoun;SpeCial;2;0;3;B;1
+2020-11-23;Week. (B);ESL Open Cup #46 Americas;MaxPax;SpeCial;1;2;3;B;0
+2020-11-23;B-Tier;The Buckstar Invitational;RagnaroK;SpeCial;3;1;5;B;1
+2020-11-23;B-Tier;The Buckstar Invitational;JimRising;SpeCial;1;2;3;B;0
+2020-11-23;Week. (B);ESL Open Cup #46 Korea;DongRaeGu;SpeCial;1;2;3;B;0
+2020-11-23;B-Tier;The Buckstar Invitational;Patience;SpeCial;0;1;1;B;0
+2020-11-23;B-Tier;The Buckstar Invitational;BYE;SpeCial;0;1;1;B;0
+2020-11-23;Week. (B);ESL Open Cup #46 Korea;Firefly;SpeCial;0;2;3;B;0
+2020-11-23;B-Tier;The Buckstar Invitational;Bly;SpeCial;2;0;3;B;1
+2020-11-23;Week. (B);ESL Open Cup #46 Americas;Dasian;SpeCial;0;2;3;B;0
+2020-11-22;Qual. (S);2020 AfreecaTV GSL Super Tournament 2: Qualifier;Bunny;SpeCial;2;1;3;S;1
+2020-11-22;Qual. (S);2020 AfreecaTV GSL Super Tournament 2: Qualifier;Prince;SpeCial;1;2;3;S;0
+2020-11-22;Qual. (S);2020 AfreecaTV GSL Super Tournament 2: Qualifier;StephenCurry;SpeCial;0;2;3;S;0
+2020-11-22;Qual. (S);2020 AfreecaTV GSL Super Tournament 2: Qualifier;Bunny;SpeCial;2;1;3;S;1
+2020-11-22;Qual. (S);2020 AfreecaTV GSL Super Tournament 2: Qualifier;싸와디캅;SpeCial;0;2;3;S;0
+2020-11-20;Showm. (B);ITaX Super Series #37;Solar;SpeCial;3;0;5;B;1
+2020-11-20;Week. (B);OSC King of the Hill Weekly #49;souL;SpeCial;1;0;1;B;1
+2020-11-20;Week. (B);OSC King of the Hill Weekly #49;Creator;SpeCial;0;1;1;B;0
+2020-11-19;B-Tier;OSC 2020 Super Series, Mid Season Playoffs #2;Solar;SpeCial;1;3;5;B;0
+2020-11-16;Week. (B);ESL Open Cup #45 Korea;TIME;SpeCial;2;0;3;B;1
+2020-11-16;Week. (B);ESL Open Cup #45 Korea;MacSed;SpeCial;0;2;3;B;0
+2020-11-16;Week. (B);ESL Open Cup #45 Korea;BYE;SpeCial;0;1;1;B;0
+2020-11-13;B-Tier;WardiTV Invitational 11 - Group C;Patience;SpeCial;2;0;3;B;1
+2020-11-13;B-Tier;WardiTV Invitational 11 - Group C;Creator;SpeCial;2;0;3;B;1
+2020-11-11;Week. (B);eXoN Cup Open #18;Vanya;SpeCial;3;2;5;B;1
+2020-11-11;Week. (B);eXoN Cup Open #18;Cham;SpeCial;0;2;3;B;0
+2020-11-11;S-Tier;DH Masters Winter: Finals - Group B;TIME;SpeCial;2;1;3;S;1
+2020-11-11;S-Tier;DH Masters Winter: Finals - Group B;INnoVation;SpeCial;2;0;3;S;1
+2020-11-11;B-Tier;OSC 2020 Super Series, Mid Season Playoffs #2;starkiller;SpeCial;0;3;5;B;0
+2020-11-11;Week. (B);eXoN Cup Open #18;sigh;SpeCial;0;2;3;B;0
+2020-11-09;Week. (B);ESL Open Cup #44 Korea;ByuN;SpeCial;2;0;3;B;1
+2020-11-09;Week. (B);ESL Open Cup #44 Korea;Firefly;SpeCial;0;2;3;B;0
+2020-11-09;Week. (B);ESL Open Cup #44 Korea;BYE;SpeCial;0;1;1;B;0
+2020-11-07;B-Tier;Legion Invitational: Uranus;Nina;SpeCial;1;3;5;B;0
+2020-11-07;B-Tier;Legion Invitational: Uranus;starkiller;SpeCial;0;2;3;B;0
+2020-11-05;Week. (C);Shyrshadi Open #37;Nina;SpeCial;1;3;5;C;0
+2020-11-06;B-Tier;Legion Invitational: Uranus;Mackintac;SpeCial;0;2;3;B;0
+2020-11-06;B-Tier;Legion Invitational: Uranus;nikwelik;SpeCial;0;2;3;B;0
+2020-11-05;B-Tier;OSC 2020 Super Series, Mid Season Playoffs #2;MaNa;SpeCial;0;2;3;B;0
+2020-11-04;Week. (C);eXoN Cup Open #17;sigh;SpeCial;2;3;5;C;0
+2020-11-04;Week. (C);eXoN Cup Open #17;Vanya;SpeCial;0;2;3;C;0
+2020-11-05;Week. (C);Cascadia Cup Weekly #2;starkiller;SpeCial;0;4;5;C;0
+2020-11-05;Week. (C);Shyrshadi Open #37;Ruiyichi;SpeCial;0;1;1;C;0
+2020-11-05;Week. (C);Cascadia Cup Weekly #2;Ruiyichi;SpeCial;0;2;3;C;0
+2020-11-05;Week. (C);Cascadia Cup Weekly #2;Gerald;SpeCial;0;2;3;C;0
+2020-11-05;Week. (C);Shyrshadi Open #37;starkiller;SpeCial;0;1;1;C;0
+2020-11-04;Week. (C);eXoN Cup Open #17;Ashbringer;SpeCial;0;2;3;C;0
+2020-11-02;B-Tier;OSC 2020 Super Series, Mid Season Playoffs #2;Krystianer;SpeCial;0;2;3;B;0
+2020-11-02;Week. (B);ESL Open Cup #43 Korea;Stats;SpeCial;3;0;5;B;1
+2020-11-02;Week. (B);ESL Open Cup #43 Korea;RagnaroK;SpeCial;2;3;5;B;0
+2020-11-02;Week. (B);ESL Open Cup #43 Korea;Bunny;SpeCial;0;2;3;B;0
+2020-11-02;Week. (B);ESL Open Cup #43 Korea;hyperion;SpeCial;0;2;3;B;0
+2020-11-02;Week. (B);ESL Open Cup #43 Americas;Bly;SpeCial;2;1;3;B;1
+2020-11-02;Week. (B);ESL Open Cup #43 Americas;Ryan;SpeCial;0;2;3;B;0
+2020-11-02;Week. (B);ESL Open Cup #43 Americas;Shoes;SpeCial;0;2;3;B;0
+2020-11-01;B-Tier;UA Expert Tournament;SouLeer;SpeCial;0;2;3;B;0
+2020-10-31;Week. (B);OSC King of the Hill Weekly #46;Snoxtar;SpeCial;1;0;1;B;1
+2020-10-30;B-Tier;Afreeca World 65;Rogue;SpeCial;4;1;5;B;1
+2020-10-30;B-Tier;Afreeca World 65;Creator;SpeCial;0;1;1;B;0
+2020-10-28;Week. (B);eXoN Cup Open #16;Hellraiser;SpeCial;1;3;5;B;0
+2020-10-28;Week. (B);eXoN Cup Open #16;Silky;SpeCial;1;2;3;B;0
+2020-10-28;Week. (C);Shyrshadi Open #36;Cham;SpeCial;2;1;3;C;1
+2020-10-29;Week. (C);Shyrshadi Open #36;Nina;SpeCial;1;2;3;C;0
+2020-10-29;Week. (C);Shyrshadi Open #36;Vanya;SpeCial;0;2;3;C;0
+2020-10-29;Week. (C);Shyrshadi Open #36;Darkblade;SpeCial;0;2;3;C;0
+2020-10-28;Week. (B);eXoN Cup Open #16;sigh;SpeCial;0;2;3;B;0
+2020-10-28;Week. (B);eXoN Cup Open #16;woodooo;SpeCial;0;2;3;B;0
+2020-10-27;Week. (B);ESL Open Cup #42 Americas;Armani;SpeCial;3;0;5;B;1
+2020-10-26;Week. (B);ESL Open Cup #42 Korea;MacSed;SpeCial;2;0;3;B;1
+2020-10-26;Week. (B);ESL Open Cup #42 Americas;Namshar;SpeCial;0;2;3;B;0
+2020-10-26;Week. (B);ESL Open Cup #42 Americas;Jason;SpeCial;0;2;3;B;0
+2020-10-26;Week. (B);ESL Open Cup #42 Americas;Eurystheus;SpeCial;0;2;3;B;0
+2020-10-25;A-Tier;DH Masters Winter: LatAm - Playoffs;Kelazhur;SpeCial;1;4;5;A;0
+2020-10-24;Week. (C);Battle of the Americas #34;Semper;SpeCial;3;2;5;C;1
+2020-10-24;Week. (C);Battle of the Americas #34;Puzzle;SpeCial;0;2;3;C;0
+2020-10-24;A-Tier;DH Masters Winter: LatAm - Playoffs;Kelazhur;SpeCial;0;3;5;A;0
+2020-10-24;Week. (B);OSC King of the Hill Weekly #45;Kelazhur;SpeCial;1;0;1;B;1
+2020-10-24;Week. (B);OSC King of the Hill Weekly #45;MeomaikA;SpeCial;0;1;1;B;0
+2020-10-23;B-Tier;Dave Testa's Open #2;Vanya;SpeCial;2;3;5;B;0
+2020-10-24;Week. (C);Battle of the Americas #34;Elegacy;SpeCial;0;2;3;C;0
+2020-10-24;Week. (C);Battle of the Americas #34;MimeronVex;SpeCial;1;2;3;C;0
+2020-10-23;A-Tier;DH Masters Winter: LatAm - Playoffs;Cham;SpeCial;1;3;5;A;0
+2020-10-22;A-Tier;DH Masters Winter: LatAm - Group B;JimRising;SpeCial;0;2;3;A;0
+2020-10-21;A-Tier;DH Masters Winter: LatAm - Group B;eGGz;SpeCial;0;2;3;A;0
+2020-10-19;Week. (B);ESL Open Cup #41 Korea;Dark;SpeCial;3;0;5;B;1
+2020-10-19;Week. (B);ESL Open Cup #41 Korea;Creator;SpeCial;1;2;3;B;0
+2020-10-19;Week. (B);ESL Open Cup #41 Korea;gyulzzing;SpeCial;0;2;3;B;0
+2020-10-18;Qual. (A);Cheeseadelphia Winter Championship 2021: Qualifier #1;Vindicta;SpeCial;2;0;3;A;1
+2020-10-17;B-Tier;UA Expert Tournament;RoRrO;SpeCial;0;2;3;B;0
+2020-10-17;Week. (B);OSC King of the Hill Weekly #44;MeomaikA;SpeCial;1;0;1;B;1
+2020-10-17;Week. (B);OSC King of the Hill Weekly #44;Bee;SpeCial;0;1;1;B;0
+2020-10-17;Week. (B);OSC King of the Hill Weekly #44;Lillekanin;SpeCial;0;1;1;B;0
+2020-10-17;Week. (B);OSC King of the Hill Weekly #44;Krystianer;SpeCial;0;1;1;B;0
+2020-10-17;Week. (B);OSC King of the Hill Weekly #44;Ryan;SpeCial;0;1;1;B;0
+2020-10-17;Week. (B);OSC King of the Hill Weekly #44;Bly;SpeCial;0;1;1;B;0
+2020-10-17;Week. (B);OSC King of the Hill Weekly #44;Marsman;SpeCial;0;1;1;B;0
+2020-10-17;Week. (B);OSC King of the Hill Weekly #44;Snoxtar;SpeCial;0;1;1;B;0
+2020-10-17;Week. (B);OSC King of the Hill Weekly #44;MaxPax;SpeCial;0;1;1;B;0
+2020-10-12;Week. (B);ESL Open Cup #40 Korea;Bunny;SpeCial;2;1;3;B;1
+2020-10-12;Week. (B);ESL Open Cup #40 Korea;Rex;SpeCial;1;2;3;B;0
+2020-10-12;Week. (B);ESL Open Cup #40 Korea;NrJinu;SpeCial;0;2;3;B;0
+2020-10-07;Week. (C);eXoN Cup Open #13;Vanya;SpeCial;1;3;5;C;0
+2020-10-07;Week. (C);eXoN Cup Open #13;Nerazim;SpeCial;0;2;3;C;0
+2020-10-07;Week. (B);OSC King of the Hill Weekly #43;Bly;SpeCial;1;0;1;B;1
+2020-10-07;Week. (C);eXoN Cup Open #13;NasisNazty;SpeCial;0;2;3;C;0
+2020-10-07;Week. (C);eXoN Cup Open #13;Green;SpeCial;0;2;3;C;0
+2020-10-06;B-Tier;Alpha X Series Special #12;Creator;SpeCial;3;1;5;B;1
+2020-10-05;Week. (B);ESL Open Cup #39 Korea;Solar;SpeCial;3;1;5;B;1
+2020-10-05;Week. (B);ESL Open Cup #39 Korea;MacSed;SpeCial;0;2;3;B;0
+2020-10-05;Week. (B);ESL Open Cup #39 Korea;fork;SpeCial;0;2;3;B;0
+2020-10-05;Week. (B);ESL Open Cup #39 Americas;MaxPax;SpeCial;2;1;3;B;1
+2020-10-05;Week. (B);ESL Open Cup #39 Americas;Djorjx;SpeCial;0;2;3;B;0
+2020-10-03;B-Tier;UA Expert Tournament;TurkeyDano;SpeCial;1;2;3;B;0
+2020-10-03;Week. (B);OSC King of the Hill Weekly #42;Clem;SpeCial;0;1;1;B;0
+2020-10-01;Week. (B);Kung Fu Cup 2020 Weekly #24;TY;SpeCial;2;1;3;B;1
+2020-10-01;Week. (B);Kung Fu Cup 2020 Weekly #24;TIME;SpeCial;0;2;3;B;0
+2020-10-01;Week. (B);Kung Fu Cup 2020 Weekly #24;Hyperion;SpeCial;0;2;3;B;0
+2020-09-29;Week. (B);ESL Open Cup #38 Americas;goblin;SpeCial;1;3;5;B;0
+2020-09-29;Week. (B);ESL Open Cup #38 Americas;Silky;SpeCial;0;3;5;B;0
+2020-09-28;Week. (B);ESL Open Cup #38 Korea;DongRaeGu;SpeCial;3;0;5;B;1
+2020-09-28;Week. (B);ESL Open Cup #38 Korea;Nice;SpeCial;0;3;5;B;0
+2020-09-28;Week. (B);ESL Open Cup #38 Korea;MacSed;SpeCial;0;2;3;B;0
+2020-09-28;Week. (B);ESL Open Cup #38 Americas;Future;SpeCial;0;2;3;B;0
+2020-09-28;Week. (B);ESL Open Cup #38 Americas;PiLiPiLi;SpeCial;1;2;3;B;0
+2020-09-28;Week. (B);ESL Open Cup #38 Korea;Ruiyichi;SpeCial;0;2;3;B;0
+2020-09-28;Week. (B);ESL Open Cup #38 Americas;LordNate;SpeCial;0;2;3;B;0
+2020-09-27;Qual. (S);King of Battles: KB International Championship: Qualifiers - Bracket;Kelazhur;SpeCial;1;0;1;S;1
+2020-09-27;Qual. (S);King of Battles: KB International Championship: Qualifiers - Bracket;Gerald;SpeCial;2;1;3;S;1
+2020-09-27;Qual. (S);King of Battles: KB International Championship: Qualifiers - Bracket;SortOf;SpeCial;1;2;3;S;0
+2020-09-24;Week. (C);Shyrshadi Open #32;Vanya;SpeCial;2;3;5;C;0
+2020-09-24;Week. (C);Shyrshadi Open #32;Ruiyichi;SpeCial;0;2;3;C;0
+2020-09-23;Week. (C);eXoN Cup Open #11;Adonminus;SpeCial;2;3;5;C;0
+2020-09-23;Week. (C);eXoN Cup Open #11;Vanya;SpeCial;0;2;3;C;0
+2020-09-24;Week. (C);Shyrshadi Open #32;Gabslee;SpeCial;0;2;3;C;0
+2020-09-24;Week. (C);Shyrshadi Open #32;Hypno;SpeCial;0;2;3;C;0
+2020-09-23;Week. (C);eXoN Cup Open #11;Ashbringer;SpeCial;0;2;3;C;0
+2020-09-23;Week. (C);eXoN Cup Open #11;Decay;SpeCial;0;2;3;C;0
+2020-09-22;Showm. (B);Alpha X Series #22;Hurricane;SpeCial;1;5;7;B;0
+2020-09-22;Week. (B);ESL Open Cup #37 Americas;MaNa;SpeCial;0;3;5;B;0
+2020-09-22;Week. (B);ESL Open Cup #37 Americas;PtitDrogo;SpeCial;1;3;5;B;0
+2020-09-21;Week. (B);ESL Open Cup #37 Americas;Cham;SpeCial;0;2;3;B;0
+2020-09-21;Week. (B);ESL Open Cup #37 Americas;Vindicta;SpeCial;0;2;3;B;0
+2020-09-21;Week. (B);ESL Open Cup #37 Americas;NeosHagGy;SpeCial;0;2;3;B;0
+2020-09-19;Week. (B);OSC King of the Hill Weekly #40;Vanya;SpeCial;1;0;1;B;1
+2020-09-19;Week. (B);OSC King of the Hill Weekly #40;goblin;SpeCial;0;1;1;B;0
+2020-09-19;Week. (B);OSC King of the Hill Weekly #40;Mixu;SpeCial;0;1;1;B;0
+2020-09-19;Week. (B);OSC King of the Hill Weekly #40;Ziomek;SpeCial;0;1;1;B;0
+2020-09-19;Week. (B);OSC King of the Hill Weekly #40;Krystianer;SpeCial;0;1;1;B;0
+2020-09-18;B-Tier;ITaX Super Series #23;Trap;SpeCial;3;2;5;B;1
+2020-09-17;S-Tier;DH Masters Fall: Finals - GS 1 Group C;Clem;SpeCial;2;0;3;S;1
+2020-09-17;S-Tier;DH Masters Fall: Finals - GS 1 Group C;Rogue;SpeCial;2;0;3;S;1
+2020-09-17;S-Tier;DH Masters Fall: Finals - GS 1 Group C;Clem;SpeCial;1;2;3;S;0
+2020-09-16;Week. (C);eXoN Cup Open #10;sigh;SpeCial;1;0;1;C;1
+2020-09-16;Week. (C);eXoN Cup Open #10;Taldan;SpeCial;0;1;1;C;0
+2020-09-14;Week. (B);ESL Open Cup #36 Korea;Trap;SpeCial;3;1;5;B;1
+2020-09-14;Week. (B);ESL Open Cup #36 Korea;Zoun;SpeCial;1;2;3;B;0
+2020-09-14;Week. (B);ESL Open Cup #36 Korea;universe;SpeCial;0;2;3;B;0
+2020-09-12;Week. (B);OSC King of the Hill Weekly #39;Cham;SpeCial;1;0;1;B;1
+2020-09-12;Week. (B);OSC King of the Hill Weekly #39;Krystianer;SpeCial;0;1;1;B;0
+2020-09-12;Week. (B);OSC King of the Hill Weekly #39;Vanya;SpeCial;0;1;1;B;0
+2020-09-10;Week. (B);Kung Fu Cup 2020 Weekly #23;Solar;SpeCial;2;0;3;B;1
+2020-09-10;Week. (B);Kung Fu Cup 2020 Weekly #23;gyulzzing;SpeCial;0;2;3;B;0
+2020-09-07;Week. (B);ESL Open Cup #35 Korea;Zest;SpeCial;3;0;5;B;1
+2020-09-07;Week. (B);ESL Open Cup #35 Americas;Namshar;SpeCial;2;1;3;B;1
+2020-09-07;Week. (B);ESL Open Cup #35 Americas;PiG;SpeCial;0;2;3;B;0
+2020-09-07;Week. (B);ESL Open Cup #35 Americas;Dasian;SpeCial;0;2;3;B;0
+2020-09-07;Week. (B);ESL Open Cup #35 Korea;DongRaeGu;SpeCial;0;2;3;B;0
+2020-09-07;Week. (B);ESL Open Cup #35 Korea;James;SpeCial;0;2;3;B;0
+2020-09-06;Showm. (B);Alpha Pro Series: 2020 Show Matches - Premier;RagnaroK;SpeCial;5;1;7;B;1
+2020-09-06;Biw. (C);The Pizza Pie: Season 4 - Cup #3;Cham;SpeCial;2;1;3;C;1
+2020-09-06;Biw. (C);The Pizza Pie: Season 4 - Cup #3;sigh;SpeCial;0;2;3;C;0
+2020-09-06;Biw. (C);The Pizza Pie: Season 4 - Cup #3;Eurystheus;SpeCial;0;2;3;C;0
+2020-09-05;Week. (B);OSC King of the Hill Weekly #38;MaxPax;SpeCial;1;0;1;B;1
+2020-09-05;Week. (B);OSC King of the Hill Weekly #38;Bly;SpeCial;0;1;1;B;0
+2020-09-05;B-Tier;Afreeca World 62;Patience;SpeCial;1;4;5;B;0
+2020-09-05;B-Tier;Afreeca World 62;Hurricane;SpeCial;0;3;5;B;0
+2020-09-02;Week. (C);eXoN Cup Open #8;PartinG;SpeCial;3;0;5;C;1
+2020-09-02;Week. (C);eXoN Cup Open #8;sigh;SpeCial;0;2;3;C;0
+2020-09-02;Week. (C);eXoN Cup Open #8;kiwian;SpeCial;1;2;3;C;0
+2020-09-02;Week. (C);eXoN Cup Open #8;ReaLiTy;SpeCial;0;2;3;C;0
+2020-09-01;Week. (B);ESL Open Cup #34 Americas;Neeb;SpeCial;3;1;5;B;1
+2020-08-31;Week. (B);ESL Open Cup #34 Americas;eGGz;SpeCial;0;2;3;B;0
+2020-08-31;Week. (B);ESL Open Cup #34 Americas;Golden;SpeCial;0;2;3;B;0
+2020-08-31;Week. (B);ESL Open Cup #34 Americas;Hupsaiya;SpeCial;0;2;3;B;0
+2020-08-31;Week. (B);ESL Open Cup #34 Korea;DongRaeGu;SpeCial;2;1;3;B;1
+2020-08-31;Week. (B);ESL Open Cup #34 Korea;Firefly;SpeCial;0;2;3;B;0
+2020-08-31;A-Tier;DH Masters Fall: LatAm - Playoffs;Cham;SpeCial;3;4;5;A;0
+2020-08-30;A-Tier;DH Masters Fall: LatAm - Playoffs;Kelazhur;SpeCial;1;3;5;A;0
+2020-08-29;A-Tier;DH Masters Fall: LatAm - Playoffs;Cham;SpeCial;3;1;5;A;1
+2020-08-29;S-Tier;2020 GSL Season 3 - Group Stage #1 (Ro24);Spear;SpeCial;2;0;3;S;1
+2020-08-29;S-Tier;2020 GSL Season 3 - Group Stage #1 (Ro24);Solar;SpeCial;2;1;3;S;1
+2020-08-27;A-Tier;DH Masters Fall: LatAm - Playoffs;Kelazhur;SpeCial;0;3;5;A;0
+2020-08-27;A-Tier;DH Masters Fall: LatAm - Group B;Erik;SpeCial;1;2;3;A;0

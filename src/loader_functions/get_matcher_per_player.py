@@ -39,7 +39,12 @@ def get_matcher_per_player(player_name : str):
     # end for
 
     df = pd.DataFrame(all_matches)
-    df.columns = ('date', 'match', 'skip1', 'tournament', 'player', 'score', 'oponent', 'skip2')
+    try:
+        df.columns = ('date', 'match', 'skip1', 'tournament', 'player', 'score', 'oponent', 'skip2')
+    except ValueError as e:
+        return pd.DataFrame(columns = ('date', 'match', 'tournament', 'player', 'oponent', 'player_wins', 'oponent_wins', 'best_of', 'tournament_tier', 'target'))
+    # end try
+
     df = df.drop(columns = ['skip1', 'skip2'])
 
     df = df[df['player'] == player_name].reset_index(drop = True)

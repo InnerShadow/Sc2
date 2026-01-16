@@ -1,0 +1,499 @@
+date;match;tournament;player;oponent;player_wins;oponent_wins;best_of;tournament_tier;target
+2024-06-22;A-Tier;HSC XXV - Group D;PtitDrogo;trigger;1;2;3;A;0
+2024-06-22;A-Tier;HSC XXV - Group D;PtitDrogo;Mixu;1;2;3;A;0
+2024-06-22;A-Tier;HSC XXV - Group D;PtitDrogo;HolyHit;2;1;3;A;1
+2024-06-22;A-Tier;HSC XXV - Group D;PtitDrogo;HeRoMaRinE;0;2;3;A;0
+2024-06-22;A-Tier;HSC XXV - Group D;PtitDrogo;Elazer;2;1;3;A;1
+2024-04-19;S-Tier;ESL Spring: Europe - Gr B R 4;PtitDrogo;YoungYakov;1;2;3;S;0
+2024-04-17;S-Tier;ESL Spring: Europe - Gr B R 3;PtitDrogo;Aristori;2;1;3;S;1
+2024-04-13;S-Tier;ESL Spring: Europe - Gr B R 2;PtitDrogo;uThermal;1;2;3;S;0
+2024-04-11;S-Tier;ESL Spring: Europe - Gr B R 1;PtitDrogo;Lambo;1;2;3;S;0
+2024-04-07;Qual. (S);ESL Spring: Europe Qualifiers - Bracket;PtitDrogo;HateMe;3;0;5;S;1
+2024-04-07;Qual. (S);ESL Spring: Europe Qualifiers - Bracket;PtitDrogo;uThermal;1;3;5;S;0
+2024-04-07;Qual. (S);ESL Spring: Europe Qualifiers - Bracket;PtitDrogo;Déca;2;0;3;S;1
+2024-03-30;B-Tier;Gamers Assembly 2024 - Playoffs;PtitDrogo;ShaDoWn;3;4;5;B;0
+2024-03-30;B-Tier;Gamers Assembly 2024 - Playoffs;PtitDrogo;DnS;3;2;5;B;1
+2024-03-30;B-Tier;Gamers Assembly 2024 - Playoffs;PtitDrogo;ShaDoWn;2;0;3;B;1
+2024-03-30;B-Tier;Gamers Assembly 2024 - Playoffs;PtitDrogo;GuGus;2;0;3;B;1
+2023-12-01;A-Tier;HSC XXIV - Group B;PtitDrogo;CuKu;2;1;3;A;1
+2023-12-01;A-Tier;HSC XXIV - Group B;PtitDrogo;Astrea;0;2;3;A;0
+2023-12-01;A-Tier;HSC XXIV - Group B;PtitDrogo;Clem;0;2;3;A;0
+2023-12-01;A-Tier;HSC XXIV - Group B;PtitDrogo;ShaDoWn;2;1;3;A;1
+2023-12-01;A-Tier;HSC XXIV - Group B;PtitDrogo;Lambo;1;2;3;A;0
+2023-11-04;S-Tier;ESL Winter: Europe - Gr A R 4;PtitDrogo;goblin;0;2;3;S;0
+2023-11-02;S-Tier;ESL Winter: Europe - Gr A R 3;PtitDrogo;Krystianer;1;2;3;S;0
+2023-10-29;S-Tier;ESL Winter: Europe - Gr A R 2;PtitDrogo;BattleB;2;0;3;S;1
+2023-10-26;S-Tier;ESL Winter: Europe - Gr A R 1;PtitDrogo;Spirit;0;2;3;S;0
+2023-10-15;Qual. (S);ESL Winter: Europe Qualifiers - Bracket;PtitDrogo;Mixu;3;1;5;S;1
+2023-10-15;Qual. (S);ESL Winter: Europe Qualifiers - Bracket;PtitDrogo;BattleB;1;3;5;S;0
+2023-10-15;Qual. (S);ESL Winter: Europe Qualifiers - Bracket;PtitDrogo;FightingFrog;2;1;3;S;1
+2023-07-01;A-Tier;HSC XXIII - Group C;PtitDrogo;RiSky;2;0;3;A;1
+2023-07-01;A-Tier;HSC XXIII - Group C;PtitDrogo;Clem;0;2;3;A;0
+2023-07-01;A-Tier;HSC XXIII - Group C;PtitDrogo;Elazer;0;2;3;A;0
+2023-07-01;A-Tier;HSC XXIII - Group C;PtitDrogo;GuMiho;0;2;3;A;0
+2023-07-01;A-Tier;HSC XXIII - Group C;PtitDrogo;DnS;1;2;3;A;0
+2023-06-16;S-Tier;ESL Summer - Bracket D;PtitDrogo;Creator;0;2;3;S;0
+2023-06-16;S-Tier;ESL Summer - Bracket D;PtitDrogo;trigger;2;1;3;S;1
+2023-06-16;S-Tier;ESL Summer - Bracket D;PtitDrogo;Molten;2;0;3;S;1
+2023-06-16;S-Tier;ESL Summer - Bracket D;PtitDrogo;Creator;0;2;3;S;0
+2023-05-13;S-Tier;ESL Summer: Europe - Gr A R 4;PtitDrogo;DnS;1;2;3;S;0
+2023-05-09;S-Tier;ESL Summer: Europe - Gr A R 3;PtitDrogo;ShaDoWn;1;2;3;S;0
+2023-05-05;S-Tier;ESL Summer: Europe - Gr A R 2;PtitDrogo;ForJumy;2;0;3;S;1
+2023-05-04;S-Tier;ESL Summer: Europe - Gr A R 1;PtitDrogo;Krystianer;1;2;3;S;0
+2023-04-09;Qual. (S);ESL Summer: Europe Qualifiers - Bracket;PtitDrogo;Namshar;3;1;5;S;1
+2023-04-09;Qual. (S);ESL Summer: Europe Qualifiers - Bracket;PtitDrogo;HiGhDrA;2;1;3;S;1
+2023-04-08;B-Tier;Gamers Assembly 2023 - Playoffs;PtitDrogo;DnS;0;2;3;B;0
+2023-04-08;B-Tier;Gamers Assembly 2023 - Playoffs;PtitDrogo;Rom;2;0;3;B;1
+2023-04-08;B-Tier;Gamers Assembly 2023 - Playoffs;PtitDrogo;ShaDoWn;2;3;5;B;0
+2023-04-08;B-Tier;Gamers Assembly 2023 - Playoffs;PtitDrogo;Stephano;2;0;3;B;1
+2023-01-20;Showm. (B);Basilisk Big Brain Bouts #14 - Main Event;PtitDrogo;goblin;3;1;5;B;1
+2022-12-15;S-Tier;HSC XXII - Round 7;PtitDrogo;ForJumy;2;0;3;S;1
+2022-12-15;S-Tier;HSC XXII - Round 6;PtitDrogo;Spirit;1;1;3;S;0
+2022-12-15;S-Tier;HSC XXII - Round 5;PtitDrogo;RiSky;1;1;3;S;0
+2022-12-15;S-Tier;HSC XXII - Round 4;PtitDrogo;Lambo;0;2;3;S;0
+2022-12-15;S-Tier;HSC XXII - Round 3;PtitDrogo;Nice;1;1;3;S;0
+2022-12-15;S-Tier;HSC XXII - Round 2;PtitDrogo;Clem;0;2;3;S;0
+2022-12-15;S-Tier;HSC XXII - Round 1;PtitDrogo;ShoWTimE;0;2;3;S;0
+2022-11-18;S-Tier;DH Masters Atlanta -;PtitDrogo;NightMare;0;2;3;S;0
+2022-11-18;S-Tier;DH Masters Atlanta - Group H;PtitDrogo;Zoun;1;2;3;S;0
+2022-11-18;S-Tier;DH Masters Atlanta - Group H;PtitDrogo;Scarlett;1;2;3;S;0
+2022-11-18;S-Tier;DH Masters Atlanta - Group J;PtitDrogo;JonSnow;2;0;3;S;1
+2022-11-18;S-Tier;DH Masters Atlanta - Group J;PtitDrogo;Nice;0;2;3;S;0
+2022-11-18;S-Tier;DH Masters Atlanta - Group J;PtitDrogo;Mixu;2;1;3;S;1
+2022-10-10;Week. (B);ESL Open Cup #144 Europe;PtitDrogo;Krystianer;1;2;3;B;0
+2022-10-10;Week. (B);ESL Open Cup #144 Europe;PtitDrogo;Bumbz;2;0;3;B;1
+2022-10-09;S-Tier;DHM Atlanta: EU - Group C - Day 10;PtitDrogo;Rattata;1;2;3;S;0
+2022-10-08;S-Tier;DHM Atlanta: EU - Group C - Day 9;PtitDrogo;Strange;2;0;3;S;1
+2022-10-06;S-Tier;DHM Atlanta: EU - Group C - Day 7;PtitDrogo;Spirit;0;2;3;S;0
+2022-10-04;S-Tier;DHM Atlanta: EU - Group C - Day 5;PtitDrogo;Reynor;0;2;3;S;0
+2022-10-02;S-Tier;DHM Atlanta: EU - Group C - Day 4;PtitDrogo;Elazer;0;2;3;S;0
+2022-09-30;S-Tier;DHM Atlanta: EU - Group C - Day 3;PtitDrogo;HateMe;2;0;3;S;1
+2022-09-29;S-Tier;DHM Atlanta: EU - Group C - Day 2;PtitDrogo;YoungYakov;2;0;3;S;1
+2022-09-18;Qual. (S);DHM Atlanta: EU Qualifiers - Bracket;PtitDrogo;Rail;3;0;5;S;1
+2022-09-18;Qual. (S);DHM Atlanta: EU Qualifiers - Bracket;PtitDrogo;KingCobra;0;3;5;S;0
+2022-09-18;Qual. (S);DHM Atlanta: EU Qualifiers - Bracket;PtitDrogo;Spatz;2;1;3;S;1
+2022-07-22;S-Tier;HomeStory Cup XXI - D;PtitDrogo;ShoWTimE;1;2;3;S;0
+2022-07-22;S-Tier;HomeStory Cup XXI - D;PtitDrogo;Ryung;1;2;3;S;0
+2022-07-22;S-Tier;HomeStory Cup XXI - D;PtitDrogo;GuMiho;0;2;3;S;0
+2022-07-22;S-Tier;HomeStory Cup XXI - D;PtitDrogo;trigger;0;2;3;S;0
+2022-07-22;S-Tier;HomeStory Cup XXI - D;PtitDrogo;Creator;0;2;3;S;0
+2022-07-22;S-Tier;HomeStory Cup XXI - D;PtitDrogo;goblin;2;1;3;S;1
+2022-07-22;S-Tier;HomeStory Cup XXI - D;PtitDrogo;Serral;1;2;3;S;0
+2022-07-01;S-Tier;DH Masters Valencia -;PtitDrogo;Vindicta;0;2;3;S;0
+2022-07-01;S-Tier;DH Masters Valencia - Group H;PtitDrogo;Scarlett;1;2;3;S;0
+2022-07-01;S-Tier;DH Masters Valencia - Group H;PtitDrogo;herO;0;2;3;S;0
+2022-07-01;S-Tier;DH Masters Valencia - Group A;PtitDrogo;ForJumy;2;0;3;S;1
+2022-07-01;S-Tier;DH Masters Valencia - Group A;PtitDrogo;Krystianer;2;1;3;S;1
+2022-06-21;Qual. (S);HSC XXI: Europe Q3;PtitDrogo;Krystianer;0;2;3;S;0
+2022-06-21;Qual. (S);HSC XXI: Europe Q3;PtitDrogo;Bly;1;0;1;S;1
+2022-06-21;Qual. (S);HSC XXI: Europe Q3;PtitDrogo;Exostriker;2;1;3;S;1
+2022-06-21;Qual. (S);HSC XXI: Europe Q3;PtitDrogo;Railgan;0;2;3;S;0
+2022-06-21;Qual. (S);HSC XXI: Europe Q3;PtitDrogo;MoonBeam;2;0;3;S;1
+2022-06-14;Qual. (S);HSC XXI: Europe Q2;PtitDrogo;ForJumy;0;2;3;S;0
+2022-06-14;Qual. (S);HSC XXI: Europe Q2;PtitDrogo;Harstem;1;2;3;S;0
+2022-06-14;Qual. (S);HSC XXI: Europe Q2;PtitDrogo;Rattata;2;0;3;S;1
+2022-06-14;Qual. (S);HSC XXI: Europe Q2;PtitDrogo;SunSet;2;0;3;S;1
+2022-06-11;B-Tier;HFLAN 2022 - Playoffs;PtitDrogo;DnS;4;2;5;B;1
+2022-06-11;B-Tier;HFLAN 2022 - Playoffs;PtitDrogo;ShaDoWn;3;2;5;B;1
+2022-06-11;B-Tier;HFLAN 2022 - Playoffs;PtitDrogo;DnS;3;1;5;B;1
+2022-06-11;B-Tier;HFLAN 2022 - Playoffs;PtitDrogo;NoCti;2;1;3;B;1
+2022-05-29;S-Tier;DHM Valencia: EU -;PtitDrogo;Strange;0;2;3;S;0
+2022-05-28;S-Tier;DHM Valencia: EU -;PtitDrogo;AqueroN;0;2;3;S;0
+2022-05-26;S-Tier;DHM Valencia: EU -;PtitDrogo;Lambo;1;2;3;S;0
+2022-05-24;S-Tier;DHM Valencia: EU -;PtitDrogo;MaxPax;1;2;3;S;0
+2022-05-21;S-Tier;DHM Valencia: EU -;PtitDrogo;Bly;2;0;3;S;1
+2022-05-20;S-Tier;DHM Valencia: EU -;PtitDrogo;HeRoMaRinE;1;2;3;S;0
+2022-05-18;S-Tier;DHM Valencia: EU -;PtitDrogo;MilkiCow;2;1;3;S;1
+2022-05-16;Week. (B);ESL Open Cup #123 Europe;PtitDrogo;SKillous;0;2;3;B;0
+2022-05-16;Week. (B);ESL Open Cup #123 Europe;PtitDrogo;FoxeR;2;0;3;B;1
+2022-04-25;Week. (B);ESL Open Cup #120 Europe;PtitDrogo;SpeCial;1;2;3;B;0
+2022-04-25;Week. (B);ESL Open Cup #120 Europe;PtitDrogo;Lambo;2;1;3;B;1
+2022-04-25;Week. (B);ESL Open Cup #120 Europe;PtitDrogo;trigger;2;1;3;B;1
+2022-04-16;B-Tier;Gamers Assembly 2022 - Playoffs;PtitDrogo;DnS;0;2;3;B;0
+2022-04-16;B-Tier;Gamers Assembly 2022 - Playoffs;PtitDrogo;Shino;2;0;3;B;1
+2022-04-16;B-Tier;Gamers Assembly 2022 - Playoffs;PtitDrogo;Denver;1;2;3;B;0
+2022-04-16;B-Tier;Gamers Assembly 2022 - Playoffs;PtitDrogo;HanTattoo;2;0;3;B;1
+2022-04-16;B-Tier;Gamers Assembly 2022 - Playoffs;PtitDrogo;Davdou;2;0;3;B;1
+2022-04-14;B-Tier;WardiTV Spring Fling #1;PtitDrogo;SKillous;0;2;3;B;0
+2022-04-14;B-Tier;WardiTV Spring Fling #1;PtitDrogo;BattleB;2;0;3;B;1
+2022-04-11;Week. (B);ESL Open Cup #118 Europe;PtitDrogo;Clem;0;2;3;B;0
+2022-04-11;Week. (B);ESL Open Cup #118 Europe;PtitDrogo;DisK;2;0;3;B;1
+2022-04-10;Qual. (A);KoB3 EU Qualifiers - Bracket;PtitDrogo;ShoWTimE;0;2;3;A;0
+2022-04-04;Week. (B);ESL Open Cup #117 Europe;PtitDrogo;Clem;1;2;3;B;0
+2022-04-04;Week. (B);ESL Open Cup #117 Europe;PtitDrogo;Harstem;2;0;3;B;1
+2022-04-04;Week. (B);ESL Open Cup #117 Europe;PtitDrogo;Rail;2;0;3;B;1
+2022-04-04;Week. (B);ESL Open Cup #117 Americas;PtitDrogo;Gerald;1;2;3;B;0
+2022-04-04;Week. (B);ESL Open Cup #117 Europe;PtitDrogo;Puzzle;2;1;3;B;1
+2022-04-04;Week. (B);ESL Open Cup #117 Americas;PtitDrogo;HondaCivic;2;0;3;B;1
+2022-03-21;Week. (B);ESL Open Cup #115 Europe;PtitDrogo;TIME;1;2;3;B;0
+2022-03-18;B-Tier;Winter Champ 2022: EU - GS Group D;PtitDrogo;MaNa;0;2;3;B;0
+2022-03-18;B-Tier;Winter Champ 2022: EU - GS Group D;PtitDrogo;Spirit;1;2;3;B;0
+2022-03-14;Week. (B);ESL Open Cup #114 Europe;PtitDrogo;goblin;1;2;3;B;0
+2022-03-09;Qual. (B);Winter Champ 2022: EU Q2;PtitDrogo;Spirit;0;2;3;B;0
+2022-03-09;Qual. (B);Winter Champ 2022: EU Q2;PtitDrogo;MilkiCow;2;0;3;B;1
+2022-03-07;Week. (B);ESL Open Cup #113 Europe;PtitDrogo;SKillous;0;2;3;B;0
+2022-03-07;Week. (B);ESL Open Cup #113 Europe;PtitDrogo;MaxPax;2;1;3;B;1
+2022-03-07;Week. (B);ESL Open Cup #113 Europe;PtitDrogo;MilkiCow;2;0;3;B;1
+2022-02-21;Week. (B);ESL Open Cup #111 Europe;PtitDrogo;goblin;0;2;3;B;0
+2022-02-21;Week. (B);ESL Open Cup #111 Europe;PtitDrogo;Dolan;2;0;3;B;1
+2022-02-14;Week. (B);ESL Open Cup #110 Europe;PtitDrogo;DisK;0;2;3;B;0
+2022-02-14;Week. (B);ESL Open Cup #110 Europe;PtitDrogo;arrogfire;2;0;3;B;1
+2022-02-07;Week. (B);ESL Open Cup #109 Europe;PtitDrogo;DnS;0;2;3;B;0
+2022-02-07;Week. (B);ESL Open Cup #109 Europe;PtitDrogo;Blutmilan;2;0;3;B;1
+2022-01-31;Week. (B);ESL Open Cup #108 Europe;PtitDrogo;GunGFuBanDa;1;2;3;B;0
+2022-01-31;Week. (B);ESL Open Cup #108 Europe;PtitDrogo;Ranger;2;0;3;B;1
+2022-01-22;B-Tier;Underdogs 2021: Season 3;PtitDrogo;DnS;1;3;5;B;0
+2022-01-22;B-Tier;Underdogs 2021: Season 3;PtitDrogo;Lilbow;3;1;5;B;1
+2022-01-10;Week. (B);ESL Open Cup #105 Europe;PtitDrogo;Lambo;0;2;3;B;0
+2022-01-10;Week. (B);ESL Open Cup #105 Europe;PtitDrogo;MilkiCow;2;0;3;B;1
+2022-01-08;B-Tier;Underdogs 2021: Season 3;PtitDrogo;Stephano;3;2;5;B;1
+2022-01-07;B-Tier;Underdogs 2021: Season 3;PtitDrogo;Clem;0;3;5;B;0
+2022-01-04;B-Tier;Underdogs 2021: Season 3;PtitDrogo;Lilbow;3;0;5;B;1
+2021-12-27;Week. (B);ESL Open Cup #103 Europe;PtitDrogo;MaxPax;1;2;3;B;0
+2021-12-27;Week. (B);ESL Open Cup #103 Europe;PtitDrogo;Lambo;2;0;3;B;1
+2021-12-27;Week. (B);ESL Open Cup #103 Europe;PtitDrogo;Ashbringer;2;0;3;B;1
+2021-12-20;Week. (B);ESL Open Cup #102 Europe;PtitDrogo;MaxPax;0;3;5;B;0
+2021-12-20;Week. (B);ESL Open Cup #102 Europe;PtitDrogo;SpeCial;3;1;5;B;1
+2021-12-20;Week. (B);ESL Open Cup #102 Europe;PtitDrogo;Solar;2;0;3;B;1
+2021-12-20;Week. (B);ESL Open Cup #102 Europe;PtitDrogo;ShoWTimE;2;1;3;B;1
+2021-12-20;Week. (B);ESL Open Cup #102 Europe;PtitDrogo;ForJumy;2;0;3;B;1
+2021-12-06;Week. (B);ESL Open Cup #100 Europe;PtitDrogo;SpeCial;0;2;3;B;0
+2021-12-06;Week. (B);ESL Open Cup #100 Europe;PtitDrogo;goblin;2;0;3;B;1
+2021-11-29;Week. (B);ESL Open Cup #99 Europe;PtitDrogo;Spatz;1;2;3;B;0
+2021-11-29;Week. (B);ESL Open Cup #99 Europe;PtitDrogo;Kas;2;0;3;B;1
+2021-11-25;B-Tier;WardiTV European League 2021 - Playoffs;PtitDrogo;Gerald;1;2;3;B;0
+2021-11-25;B-Tier;WardiTV European League 2021 - Playoffs;PtitDrogo;Clem;0;2;3;B;0
+2021-11-22;Week. (B);ESL Open Cup #98 Europe;PtitDrogo;MaxPax;0;2;3;B;0
+2021-11-22;Week. (B);ESL Open Cup #98 Europe;PtitDrogo;ByuN;2;1;3;B;1
+2021-11-22;Week. (B);ESL Open Cup #98 Europe;PtitDrogo;Kas;2;1;3;B;1
+2021-11-08;Qual. (S);NeXT 2021 S2: EU - Bracket;PtitDrogo;Lambo;0;2;3;S;0
+2021-11-08;Week. (B);ESL Open Cup #95 Europe;PtitDrogo;ShoWTimE;1;2;3;B;0
+2021-11-08;Week. (B);ESL Open Cup #95 Europe;PtitDrogo;Kas;2;0;3;B;1
+2021-11-06;Qual. (S);TSL 8: AM - Bracket;PtitDrogo;Astrea;1;2;3;S;0
+2021-11-06;Qual. (S);TSL 8: AM - Bracket;PtitDrogo;TriGGeR;2;1;3;S;1
+2021-11-06;Qual. (S);TSL 8: AM - Bracket;PtitDrogo;BadBorz;2;0;3;S;1
+2021-11-06;Qual. (S);TSL 8: AM - Bracket;PtitDrogo;Armani;0;2;3;S;0
+2021-11-06;Qual. (S);TSL 8: AM - Bracket;PtitDrogo;Hellraiser;1;2;3;S;0
+2021-11-06;Qual. (S);TSL 8: AM - Bracket;PtitDrogo;Classic;1;2;3;S;0
+2021-11-04;B-Tier;WardiTV European League 2021 - Group D;PtitDrogo;Kelazhur;2;0;3;B;1
+2021-11-04;B-Tier;WardiTV European League 2021 - Group D;PtitDrogo;Spirit;2;1;3;B;1
+2021-11-04;B-Tier;WardiTV European League 2021 - Group D;PtitDrogo;Kelazhur;1;2;3;B;0
+2021-11-03;Qual. (A);KoB2 EU Qualifiers - Bracket;PtitDrogo;HeRoMaRinE;0;2;3;A;0
+2021-11-03;Qual. (A);KoB2 EU Qualifiers - Bracket;PtitDrogo;mymy;2;0;3;A;1
+2021-11-03;Qual. (A);KoB2 EU Qualifiers - Bracket;PtitDrogo;Trap;1;2;3;A;0
+2021-11-02;Qual. (A);KoB2 AM Qualifier;PtitDrogo;GuMiho;0;2;3;A;0
+2021-11-01;Week. (B);ESL Open Cup #94 Europe;PtitDrogo;DisK;0;2;3;B;0
+2021-10-30;Qual. (S);TSL 8: EU - Bracket;PtitDrogo;Lambo;0;2;3;S;0
+2021-10-30;Qual. (S);TSL 8: EU - Bracket;PtitDrogo;Maru;0;2;3;S;0
+2021-10-30;Qual. (S);TSL 8: EU - Bracket;PtitDrogo;Vanya;2;1;3;S;1
+2021-10-30;Qual. (S);TSL 8: EU - Bracket;PtitDrogo;Reynor;0;2;3;S;0
+2021-10-29;Qual. (S);TSL 8: EU - Bracket;PtitDrogo;Clem;0;2;3;S;0
+2021-10-29;Qual. (S);TSL 8: EU - Bracket;PtitDrogo;Elazer;2;1;3;S;1
+2021-10-29;Qual. (S);TSL 8: EU - Bracket;PtitDrogo;Zest;2;1;3;S;1
+2021-10-28;B-Tier;WardiTV European League 2021 - Group C;PtitDrogo;goblin;2;1;3;B;1
+2021-10-28;B-Tier;WardiTV European League 2021 - Group C;PtitDrogo;MaNa;1;2;3;B;0
+2021-10-28;B-Tier;WardiTV European League 2021 - Group C;PtitDrogo;goblin;2;0;3;B;1
+2021-10-27;Qual. (A);KoB2 EU Qualifiers - Bracket;PtitDrogo;Spirit;1;2;3;A;0
+2021-10-27;Qual. (A);KoB2 EU Qualifiers - Bracket;PtitDrogo;ShoWTimE;2;1;3;A;1
+2021-10-27;Qual. (A);KoB2 EU Qualifiers - Bracket;PtitDrogo;Astrea;2;1;3;A;1
+2021-10-21;A-Tier;SAHSC #4 - Group H;PtitDrogo;Ryung;1;2;3;A;0
+2021-10-21;A-Tier;SAHSC #4 - Group H;PtitDrogo;Trap;0;2;3;A;0
+2021-10-19;Qual. (B);WardiTV European League 2021: Qualifier #1;PtitDrogo;Krystianer;1;2;3;B;0
+2021-10-19;Qual. (B);WardiTV European League 2021: Qualifier #1;PtitDrogo;Botvinnik;2;0;3;B;1
+2021-10-18;B-Tier;The Rotti & Wardi Cup 3;PtitDrogo;ByuN;0;2;3;B;0
+2021-10-18;B-Tier;The Rotti & Wardi Cup 3;PtitDrogo;BattleB;2;0;3;B;1
+2021-10-11;Week. (B);ESL Open Cup #92 Americas;PtitDrogo;MaxPax;1;2;3;B;0
+2021-10-11;Week. (B);ESL Open Cup #92 Americas;PtitDrogo;GuMiho;2;1;3;B;1
+2021-10-10;S-Tier;DHM Winter: EU - Group B;PtitDrogo;BattleB;2;1;3;S;1
+2021-10-09;S-Tier;DHM Winter: EU - Group B;PtitDrogo;SKillous;1;2;3;S;0
+2021-10-07;S-Tier;DHM Winter: EU - Group B;PtitDrogo;Reynor;1;2;3;S;0
+2021-10-05;S-Tier;DHM Winter: EU - Group B;PtitDrogo;Krystianer;2;0;3;S;1
+2021-10-04;Week. (B);ESL Open Cup #91 Europe;PtitDrogo;HeRoMaRinE;0;2;3;B;0
+2021-10-04;Week. (B);ESL Open Cup #91 Europe;PtitDrogo;Kelazhur;2;1;3;B;1
+2021-10-04;Week. (B);ESL Open Cup #91 Americas;PtitDrogo;Gerald;0;2;3;B;0
+2021-10-04;Week. (B);ESL Open Cup #91 Europe;PtitDrogo;BattleB;2;1;3;B;1
+2021-10-04;Week. (B);ESL Open Cup #91 Americas;PtitDrogo;Jenasin;2;0;3;B;1
+2021-10-02;S-Tier;DHM Winter: EU - Group B;PtitDrogo;Strange;0;2;3;S;0
+2021-10-01;S-Tier;DHM Winter: EU - Group B;PtitDrogo;Elazer;0;2;3;S;0
+2021-09-29;S-Tier;DHM Winter: EU - Group B;PtitDrogo;Denver;1;2;3;S;0
+2021-09-20;Week. (B);ESL Open Cup #89 Americas;PtitDrogo;Creator;0;2;3;B;0
+2021-09-20;Week. (B);ESL Open Cup #89 Europe;PtitDrogo;TriGGeR;1;2;3;B;0
+2021-09-20;Week. (B);ESL Open Cup #89 Americas;PtitDrogo;MasterVasya;2;0;3;B;1
+2021-09-02;Qual. (A);ASUS ROG Fall 2021: Europe Server Qualifier;PtitDrogo;Vanya;0;2;3;A;0
+2021-09-01;Qual. (A);ASUS ROG Fall 2021: Europe Server Qualifier;PtitDrogo;Lambo;0;2;3;A;0
+2021-09-01;Qual. (A);ASUS ROG Fall 2021: Europe Server Qualifier;PtitDrogo;ShoWTimE;2;0;3;A;1
+2021-09-01;Qual. (A);ASUS ROG Fall 2021: Europe Server Qualifier;PtitDrogo;MeomaikA;2;1;3;A;1
+2021-09-01;Qual. (A);ASUS ROG Fall 2021: Europe Server Qualifier;PtitDrogo;Magnath;2;0;3;A;1
+2021-08-12;S-Tier;DHM Fall: EU - Playoffs;PtitDrogo;Clem;0;3;5;S;0
+2021-08-11;S-Tier;DHM Fall: EU - Playoffs;PtitDrogo;MaNa;3;2;5;S;1
+2021-08-08;S-Tier;DHM Fall: EU - Group C;PtitDrogo;Ziggy;2;0;3;S;1
+2021-08-07;S-Tier;DHM Fall: EU - Group C;PtitDrogo;Elazer;2;1;3;S;1
+2021-08-05;S-Tier;DHM Fall: EU - Group C;PtitDrogo;HeRoMaRinE;1;2;3;S;0
+2021-08-04;S-Tier;DHM Fall: EU - Group C;PtitDrogo;uThermal;1;2;3;S;0
+2021-08-01;S-Tier;DHM Fall: EU - Group C;PtitDrogo;Lilbow;0;2;3;S;0
+2021-07-30;S-Tier;DHM Fall: EU - Group C;PtitDrogo;Vanya;0;2;3;S;0
+2021-07-29;S-Tier;DHM Fall: EU - Group C;PtitDrogo;Denver;2;0;3;S;1
+2021-07-27;B-Tier;Underdogs 2021: Season 2;PtitDrogo;DnS;1;3;5;B;0
+2021-07-14;B-Tier;Underdogs 2021: Season 2;PtitDrogo;Rom;3;2;5;B;1
+2021-07-07;B-Tier;Underdogs 2021: Season 2;PtitDrogo;Sweetzy;3;0;5;B;1
+2021-06-21;Week. (B);ESL Open Cup #76 Europe;PtitDrogo;Strange;0;2;3;B;0
+2021-06-03;S-Tier;DHM Summer: EU - Playoffs;PtitDrogo;MaxPax;1;3;5;S;0
+2021-06-02;S-Tier;DHM Summer: EU - Playoffs;PtitDrogo;goblin;3;0;5;S;1
+2021-05-30;S-Tier;DHM Summer: EU - Group A;PtitDrogo;Krystianer;2;0;3;S;1
+2021-05-28;S-Tier;DHM Summer: EU - Group A;PtitDrogo;Elazer;0;2;3;S;0
+2021-05-26;S-Tier;DHM Summer: EU - Group A;PtitDrogo;Clem;0;2;3;S;0
+2021-05-25;S-Tier;DHM Summer: EU - Group A;PtitDrogo;Vanya;0;2;3;S;0
+2021-05-22;S-Tier;DHM Summer: EU - Group A;PtitDrogo;GunGFuBanDa;2;1;3;S;1
+2021-05-20;S-Tier;DHM Summer: EU - Group A;PtitDrogo;ShaDoWn;2;0;3;S;1
+2021-05-19;S-Tier;DHM Summer: EU - Group A;PtitDrogo;Bly;2;1;3;S;1
+2021-05-06;Qual. (S);NeXT 2021 Spring: EU - Bracket;PtitDrogo;Bly;0;2;3;S;0
+2021-05-03;Week. (B);ESL Open Cup #69 Europe;PtitDrogo;ShaDoWn;1;2;3;B;0
+2024-06-22;A-Tier;HSC XXV - Group D;trigger;PtitDrogo;2;1;3;A;1
+2024-06-22;A-Tier;HSC XXV - Group D;Mixu;PtitDrogo;2;1;3;A;1
+2024-06-22;A-Tier;HSC XXV - Group D;HolyHit;PtitDrogo;1;2;3;A;0
+2024-06-22;A-Tier;HSC XXV - Group D;HeRoMaRinE;PtitDrogo;2;0;3;A;1
+2024-06-22;A-Tier;HSC XXV - Group D;Elazer;PtitDrogo;1;2;3;A;0
+2024-04-19;S-Tier;ESL Spring: Europe - Gr B R 4;YoungYakov;PtitDrogo;2;1;3;S;1
+2024-04-17;S-Tier;ESL Spring: Europe - Gr B R 3;Aristori;PtitDrogo;1;2;3;S;0
+2024-04-13;S-Tier;ESL Spring: Europe - Gr B R 2;uThermal;PtitDrogo;2;1;3;S;1
+2024-04-11;S-Tier;ESL Spring: Europe - Gr B R 1;Lambo;PtitDrogo;2;1;3;S;1
+2024-04-07;Qual. (S);ESL Spring: Europe Qualifiers - Bracket;HateMe;PtitDrogo;0;3;5;S;0
+2024-04-07;Qual. (S);ESL Spring: Europe Qualifiers - Bracket;uThermal;PtitDrogo;3;1;5;S;1
+2024-04-07;Qual. (S);ESL Spring: Europe Qualifiers - Bracket;Déca;PtitDrogo;0;2;3;S;0
+2024-03-30;B-Tier;Gamers Assembly 2024 - Playoffs;ShaDoWn;PtitDrogo;4;3;5;B;1
+2024-03-30;B-Tier;Gamers Assembly 2024 - Playoffs;DnS;PtitDrogo;2;3;5;B;0
+2024-03-30;B-Tier;Gamers Assembly 2024 - Playoffs;ShaDoWn;PtitDrogo;0;2;3;B;0
+2024-03-30;B-Tier;Gamers Assembly 2024 - Playoffs;GuGus;PtitDrogo;0;2;3;B;0
+2023-12-01;A-Tier;HSC XXIV - Group B;CuKu;PtitDrogo;1;2;3;A;0
+2023-12-01;A-Tier;HSC XXIV - Group B;Astrea;PtitDrogo;2;0;3;A;1
+2023-12-01;A-Tier;HSC XXIV - Group B;Clem;PtitDrogo;2;0;3;A;1
+2023-12-01;A-Tier;HSC XXIV - Group B;ShaDoWn;PtitDrogo;1;2;3;A;0
+2023-12-01;A-Tier;HSC XXIV - Group B;Lambo;PtitDrogo;2;1;3;A;1
+2023-11-04;S-Tier;ESL Winter: Europe - Gr A R 4;goblin;PtitDrogo;2;0;3;S;1
+2023-11-02;S-Tier;ESL Winter: Europe - Gr A R 3;Krystianer;PtitDrogo;2;1;3;S;1
+2023-10-29;S-Tier;ESL Winter: Europe - Gr A R 2;BattleB;PtitDrogo;0;2;3;S;0
+2023-10-26;S-Tier;ESL Winter: Europe - Gr A R 1;Spirit;PtitDrogo;2;0;3;S;1
+2023-10-15;Qual. (S);ESL Winter: Europe Qualifiers - Bracket;Mixu;PtitDrogo;1;3;5;S;0
+2023-10-15;Qual. (S);ESL Winter: Europe Qualifiers - Bracket;BattleB;PtitDrogo;3;1;5;S;1
+2023-10-15;Qual. (S);ESL Winter: Europe Qualifiers - Bracket;FightingFrog;PtitDrogo;1;2;3;S;0
+2023-07-01;A-Tier;HSC XXIII - Group C;RiSky;PtitDrogo;0;2;3;A;0
+2023-07-01;A-Tier;HSC XXIII - Group C;Clem;PtitDrogo;2;0;3;A;1
+2023-07-01;A-Tier;HSC XXIII - Group C;Elazer;PtitDrogo;2;0;3;A;1
+2023-07-01;A-Tier;HSC XXIII - Group C;GuMiho;PtitDrogo;2;0;3;A;1
+2023-07-01;A-Tier;HSC XXIII - Group C;DnS;PtitDrogo;2;1;3;A;1
+2023-06-16;S-Tier;ESL Summer - Bracket D;Creator;PtitDrogo;2;0;3;S;1
+2023-06-16;S-Tier;ESL Summer - Bracket D;trigger;PtitDrogo;1;2;3;S;0
+2023-06-16;S-Tier;ESL Summer - Bracket D;Molten;PtitDrogo;0;2;3;S;0
+2023-06-16;S-Tier;ESL Summer - Bracket D;Creator;PtitDrogo;2;0;3;S;1
+2023-05-13;S-Tier;ESL Summer: Europe - Gr A R 4;DnS;PtitDrogo;2;1;3;S;1
+2023-05-09;S-Tier;ESL Summer: Europe - Gr A R 3;ShaDoWn;PtitDrogo;2;1;3;S;1
+2023-05-05;S-Tier;ESL Summer: Europe - Gr A R 2;ForJumy;PtitDrogo;0;2;3;S;0
+2023-05-04;S-Tier;ESL Summer: Europe - Gr A R 1;Krystianer;PtitDrogo;2;1;3;S;1
+2023-04-09;Qual. (S);ESL Summer: Europe Qualifiers - Bracket;Namshar;PtitDrogo;1;3;5;S;0
+2023-04-09;Qual. (S);ESL Summer: Europe Qualifiers - Bracket;HiGhDrA;PtitDrogo;1;2;3;S;0
+2023-04-08;B-Tier;Gamers Assembly 2023 - Playoffs;DnS;PtitDrogo;2;0;3;B;1
+2023-04-08;B-Tier;Gamers Assembly 2023 - Playoffs;Rom;PtitDrogo;0;2;3;B;0
+2023-04-08;B-Tier;Gamers Assembly 2023 - Playoffs;ShaDoWn;PtitDrogo;3;2;5;B;1
+2023-04-08;B-Tier;Gamers Assembly 2023 - Playoffs;Stephano;PtitDrogo;0;2;3;B;0
+2023-01-20;Showm. (B);Basilisk Big Brain Bouts #14 - Main Event;goblin;PtitDrogo;1;3;5;B;0
+2022-12-15;S-Tier;HSC XXII - Round 7;ForJumy;PtitDrogo;0;2;3;S;0
+2022-12-15;S-Tier;HSC XXII - Round 6;Spirit;PtitDrogo;1;1;3;S;0
+2022-12-15;S-Tier;HSC XXII - Round 5;RiSky;PtitDrogo;1;1;3;S;0
+2022-12-15;S-Tier;HSC XXII - Round 4;Lambo;PtitDrogo;2;0;3;S;1
+2022-12-15;S-Tier;HSC XXII - Round 3;Nice;PtitDrogo;1;1;3;S;0
+2022-12-15;S-Tier;HSC XXII - Round 2;Clem;PtitDrogo;2;0;3;S;1
+2022-12-15;S-Tier;HSC XXII - Round 1;ShoWTimE;PtitDrogo;2;0;3;S;1
+2022-11-18;S-Tier;DH Masters Atlanta -;NightMare;PtitDrogo;2;0;3;S;1
+2022-11-18;S-Tier;DH Masters Atlanta - Group H;Zoun;PtitDrogo;2;1;3;S;1
+2022-11-18;S-Tier;DH Masters Atlanta - Group H;Scarlett;PtitDrogo;2;1;3;S;1
+2022-11-18;S-Tier;DH Masters Atlanta - Group J;JonSnow;PtitDrogo;0;2;3;S;0
+2022-11-18;S-Tier;DH Masters Atlanta - Group J;Nice;PtitDrogo;2;0;3;S;1
+2022-11-18;S-Tier;DH Masters Atlanta - Group J;Mixu;PtitDrogo;1;2;3;S;0
+2022-10-10;Week. (B);ESL Open Cup #144 Europe;Krystianer;PtitDrogo;2;1;3;B;1
+2022-10-10;Week. (B);ESL Open Cup #144 Europe;Bumbz;PtitDrogo;0;2;3;B;0
+2022-10-09;S-Tier;DHM Atlanta: EU - Group C - Day 10;Rattata;PtitDrogo;2;1;3;S;1
+2022-10-08;S-Tier;DHM Atlanta: EU - Group C - Day 9;Strange;PtitDrogo;0;2;3;S;0
+2022-10-06;S-Tier;DHM Atlanta: EU - Group C - Day 7;Spirit;PtitDrogo;2;0;3;S;1
+2022-10-04;S-Tier;DHM Atlanta: EU - Group C - Day 5;Reynor;PtitDrogo;2;0;3;S;1
+2022-10-02;S-Tier;DHM Atlanta: EU - Group C - Day 4;Elazer;PtitDrogo;2;0;3;S;1
+2022-09-30;S-Tier;DHM Atlanta: EU - Group C - Day 3;HateMe;PtitDrogo;0;2;3;S;0
+2022-09-29;S-Tier;DHM Atlanta: EU - Group C - Day 2;YoungYakov;PtitDrogo;0;2;3;S;0
+2022-09-18;Qual. (S);DHM Atlanta: EU Qualifiers - Bracket;Rail;PtitDrogo;0;3;5;S;0
+2022-09-18;Qual. (S);DHM Atlanta: EU Qualifiers - Bracket;KingCobra;PtitDrogo;3;0;5;S;1
+2022-09-18;Qual. (S);DHM Atlanta: EU Qualifiers - Bracket;Spatz;PtitDrogo;1;2;3;S;0
+2022-07-22;S-Tier;HomeStory Cup XXI - D;ShoWTimE;PtitDrogo;2;1;3;S;1
+2022-07-22;S-Tier;HomeStory Cup XXI - D;Ryung;PtitDrogo;2;1;3;S;1
+2022-07-22;S-Tier;HomeStory Cup XXI - D;GuMiho;PtitDrogo;2;0;3;S;1
+2022-07-22;S-Tier;HomeStory Cup XXI - D;trigger;PtitDrogo;2;0;3;S;1
+2022-07-22;S-Tier;HomeStory Cup XXI - D;Creator;PtitDrogo;2;0;3;S;1
+2022-07-22;S-Tier;HomeStory Cup XXI - D;goblin;PtitDrogo;1;2;3;S;0
+2022-07-22;S-Tier;HomeStory Cup XXI - D;Serral;PtitDrogo;2;1;3;S;1
+2022-07-01;S-Tier;DH Masters Valencia -;Vindicta;PtitDrogo;2;0;3;S;1
+2022-07-01;S-Tier;DH Masters Valencia - Group H;Scarlett;PtitDrogo;2;1;3;S;1
+2022-07-01;S-Tier;DH Masters Valencia - Group H;herO;PtitDrogo;2;0;3;S;1
+2022-07-01;S-Tier;DH Masters Valencia - Group A;ForJumy;PtitDrogo;0;2;3;S;0
+2022-07-01;S-Tier;DH Masters Valencia - Group A;Krystianer;PtitDrogo;1;2;3;S;0
+2022-06-21;Qual. (S);HSC XXI: Europe Q3;Krystianer;PtitDrogo;2;0;3;S;1
+2022-06-21;Qual. (S);HSC XXI: Europe Q3;Bly;PtitDrogo;0;1;1;S;0
+2022-06-21;Qual. (S);HSC XXI: Europe Q3;Exostriker;PtitDrogo;1;2;3;S;0
+2022-06-21;Qual. (S);HSC XXI: Europe Q3;Railgan;PtitDrogo;2;0;3;S;1
+2022-06-21;Qual. (S);HSC XXI: Europe Q3;MoonBeam;PtitDrogo;0;2;3;S;0
+2022-06-14;Qual. (S);HSC XXI: Europe Q2;ForJumy;PtitDrogo;2;0;3;S;1
+2022-06-14;Qual. (S);HSC XXI: Europe Q2;Harstem;PtitDrogo;2;1;3;S;1
+2022-06-14;Qual. (S);HSC XXI: Europe Q2;Rattata;PtitDrogo;0;2;3;S;0
+2022-06-14;Qual. (S);HSC XXI: Europe Q2;SunSet;PtitDrogo;0;2;3;S;0
+2022-06-11;B-Tier;HFLAN 2022 - Playoffs;DnS;PtitDrogo;2;4;5;B;0
+2022-06-11;B-Tier;HFLAN 2022 - Playoffs;ShaDoWn;PtitDrogo;2;3;5;B;0
+2022-06-11;B-Tier;HFLAN 2022 - Playoffs;DnS;PtitDrogo;1;3;5;B;0
+2022-06-11;B-Tier;HFLAN 2022 - Playoffs;NoCti;PtitDrogo;1;2;3;B;0
+2022-05-29;S-Tier;DHM Valencia: EU -;Strange;PtitDrogo;2;0;3;S;1
+2022-05-28;S-Tier;DHM Valencia: EU -;AqueroN;PtitDrogo;2;0;3;S;1
+2022-05-26;S-Tier;DHM Valencia: EU -;Lambo;PtitDrogo;2;1;3;S;1
+2022-05-24;S-Tier;DHM Valencia: EU -;MaxPax;PtitDrogo;2;1;3;S;1
+2022-05-21;S-Tier;DHM Valencia: EU -;Bly;PtitDrogo;0;2;3;S;0
+2022-05-20;S-Tier;DHM Valencia: EU -;HeRoMaRinE;PtitDrogo;2;1;3;S;1
+2022-05-18;S-Tier;DHM Valencia: EU -;MilkiCow;PtitDrogo;1;2;3;S;0
+2022-05-16;Week. (B);ESL Open Cup #123 Europe;SKillous;PtitDrogo;2;0;3;B;1
+2022-05-16;Week. (B);ESL Open Cup #123 Europe;FoxeR;PtitDrogo;0;2;3;B;0
+2022-04-25;Week. (B);ESL Open Cup #120 Europe;SpeCial;PtitDrogo;2;1;3;B;1
+2022-04-25;Week. (B);ESL Open Cup #120 Europe;Lambo;PtitDrogo;1;2;3;B;0
+2022-04-25;Week. (B);ESL Open Cup #120 Europe;trigger;PtitDrogo;1;2;3;B;0
+2022-04-16;B-Tier;Gamers Assembly 2022 - Playoffs;DnS;PtitDrogo;2;0;3;B;1
+2022-04-16;B-Tier;Gamers Assembly 2022 - Playoffs;Shino;PtitDrogo;0;2;3;B;0
+2022-04-16;B-Tier;Gamers Assembly 2022 - Playoffs;Denver;PtitDrogo;2;1;3;B;1
+2022-04-16;B-Tier;Gamers Assembly 2022 - Playoffs;HanTattoo;PtitDrogo;0;2;3;B;0
+2022-04-16;B-Tier;Gamers Assembly 2022 - Playoffs;Davdou;PtitDrogo;0;2;3;B;0
+2022-04-14;B-Tier;WardiTV Spring Fling #1;SKillous;PtitDrogo;2;0;3;B;1
+2022-04-14;B-Tier;WardiTV Spring Fling #1;BattleB;PtitDrogo;0;2;3;B;0
+2022-04-11;Week. (B);ESL Open Cup #118 Europe;Clem;PtitDrogo;2;0;3;B;1
+2022-04-11;Week. (B);ESL Open Cup #118 Europe;DisK;PtitDrogo;0;2;3;B;0
+2022-04-10;Qual. (A);KoB3 EU Qualifiers - Bracket;ShoWTimE;PtitDrogo;2;0;3;A;1
+2022-04-04;Week. (B);ESL Open Cup #117 Europe;Clem;PtitDrogo;2;1;3;B;1
+2022-04-04;Week. (B);ESL Open Cup #117 Europe;Harstem;PtitDrogo;0;2;3;B;0
+2022-04-04;Week. (B);ESL Open Cup #117 Europe;Rail;PtitDrogo;0;2;3;B;0
+2022-04-04;Week. (B);ESL Open Cup #117 Americas;Gerald;PtitDrogo;2;1;3;B;1
+2022-04-04;Week. (B);ESL Open Cup #117 Europe;Puzzle;PtitDrogo;1;2;3;B;0
+2022-04-04;Week. (B);ESL Open Cup #117 Americas;HondaCivic;PtitDrogo;0;2;3;B;0
+2022-03-21;Week. (B);ESL Open Cup #115 Europe;TIME;PtitDrogo;2;1;3;B;1
+2022-03-18;B-Tier;Winter Champ 2022: EU - GS Group D;MaNa;PtitDrogo;2;0;3;B;1
+2022-03-18;B-Tier;Winter Champ 2022: EU - GS Group D;Spirit;PtitDrogo;2;1;3;B;1
+2022-03-14;Week. (B);ESL Open Cup #114 Europe;goblin;PtitDrogo;2;1;3;B;1
+2022-03-09;Qual. (B);Winter Champ 2022: EU Q2;Spirit;PtitDrogo;2;0;3;B;1
+2022-03-09;Qual. (B);Winter Champ 2022: EU Q2;MilkiCow;PtitDrogo;0;2;3;B;0
+2022-03-07;Week. (B);ESL Open Cup #113 Europe;SKillous;PtitDrogo;2;0;3;B;1
+2022-03-07;Week. (B);ESL Open Cup #113 Europe;MaxPax;PtitDrogo;1;2;3;B;0
+2022-03-07;Week. (B);ESL Open Cup #113 Europe;MilkiCow;PtitDrogo;0;2;3;B;0
+2022-02-21;Week. (B);ESL Open Cup #111 Europe;goblin;PtitDrogo;2;0;3;B;1
+2022-02-21;Week. (B);ESL Open Cup #111 Europe;Dolan;PtitDrogo;0;2;3;B;0
+2022-02-14;Week. (B);ESL Open Cup #110 Europe;DisK;PtitDrogo;2;0;3;B;1
+2022-02-14;Week. (B);ESL Open Cup #110 Europe;arrogfire;PtitDrogo;0;2;3;B;0
+2022-02-07;Week. (B);ESL Open Cup #109 Europe;DnS;PtitDrogo;2;0;3;B;1
+2022-02-07;Week. (B);ESL Open Cup #109 Europe;Blutmilan;PtitDrogo;0;2;3;B;0
+2022-01-31;Week. (B);ESL Open Cup #108 Europe;GunGFuBanDa;PtitDrogo;2;1;3;B;1
+2022-01-31;Week. (B);ESL Open Cup #108 Europe;Ranger;PtitDrogo;0;2;3;B;0
+2022-01-22;B-Tier;Underdogs 2021: Season 3;DnS;PtitDrogo;3;1;5;B;1
+2022-01-22;B-Tier;Underdogs 2021: Season 3;Lilbow;PtitDrogo;1;3;5;B;0
+2022-01-10;Week. (B);ESL Open Cup #105 Europe;Lambo;PtitDrogo;2;0;3;B;1
+2022-01-10;Week. (B);ESL Open Cup #105 Europe;MilkiCow;PtitDrogo;0;2;3;B;0
+2022-01-08;B-Tier;Underdogs 2021: Season 3;Stephano;PtitDrogo;2;3;5;B;0
+2022-01-07;B-Tier;Underdogs 2021: Season 3;Clem;PtitDrogo;3;0;5;B;1
+2022-01-04;B-Tier;Underdogs 2021: Season 3;Lilbow;PtitDrogo;0;3;5;B;0
+2021-12-27;Week. (B);ESL Open Cup #103 Europe;MaxPax;PtitDrogo;2;1;3;B;1
+2021-12-27;Week. (B);ESL Open Cup #103 Europe;Lambo;PtitDrogo;0;2;3;B;0
+2021-12-27;Week. (B);ESL Open Cup #103 Europe;Ashbringer;PtitDrogo;0;2;3;B;0
+2021-12-20;Week. (B);ESL Open Cup #102 Europe;MaxPax;PtitDrogo;3;0;5;B;1
+2021-12-20;Week. (B);ESL Open Cup #102 Europe;SpeCial;PtitDrogo;1;3;5;B;0
+2021-12-20;Week. (B);ESL Open Cup #102 Europe;Solar;PtitDrogo;0;2;3;B;0
+2021-12-20;Week. (B);ESL Open Cup #102 Europe;ShoWTimE;PtitDrogo;1;2;3;B;0
+2021-12-20;Week. (B);ESL Open Cup #102 Europe;ForJumy;PtitDrogo;0;2;3;B;0
+2021-12-06;Week. (B);ESL Open Cup #100 Europe;SpeCial;PtitDrogo;2;0;3;B;1
+2021-12-06;Week. (B);ESL Open Cup #100 Europe;goblin;PtitDrogo;0;2;3;B;0
+2021-11-29;Week. (B);ESL Open Cup #99 Europe;Spatz;PtitDrogo;2;1;3;B;1
+2021-11-29;Week. (B);ESL Open Cup #99 Europe;Kas;PtitDrogo;0;2;3;B;0
+2021-11-25;B-Tier;WardiTV European League 2021 - Playoffs;Gerald;PtitDrogo;2;1;3;B;1
+2021-11-25;B-Tier;WardiTV European League 2021 - Playoffs;Clem;PtitDrogo;2;0;3;B;1
+2021-11-22;Week. (B);ESL Open Cup #98 Europe;MaxPax;PtitDrogo;2;0;3;B;1
+2021-11-22;Week. (B);ESL Open Cup #98 Europe;ByuN;PtitDrogo;1;2;3;B;0
+2021-11-22;Week. (B);ESL Open Cup #98 Europe;Kas;PtitDrogo;1;2;3;B;0
+2021-11-08;Qual. (S);NeXT 2021 S2: EU - Bracket;Lambo;PtitDrogo;2;0;3;S;1
+2021-11-08;Week. (B);ESL Open Cup #95 Europe;ShoWTimE;PtitDrogo;2;1;3;B;1
+2021-11-08;Week. (B);ESL Open Cup #95 Europe;Kas;PtitDrogo;0;2;3;B;0
+2021-11-06;Qual. (S);TSL 8: AM - Bracket;Astrea;PtitDrogo;2;1;3;S;1
+2021-11-06;Qual. (S);TSL 8: AM - Bracket;TriGGeR;PtitDrogo;1;2;3;S;0
+2021-11-06;Qual. (S);TSL 8: AM - Bracket;BadBorz;PtitDrogo;0;2;3;S;0
+2021-11-06;Qual. (S);TSL 8: AM - Bracket;Armani;PtitDrogo;2;0;3;S;1
+2021-11-06;Qual. (S);TSL 8: AM - Bracket;Hellraiser;PtitDrogo;2;1;3;S;1
+2021-11-06;Qual. (S);TSL 8: AM - Bracket;Classic;PtitDrogo;2;1;3;S;1
+2021-11-04;B-Tier;WardiTV European League 2021 - Group D;Kelazhur;PtitDrogo;0;2;3;B;0
+2021-11-04;B-Tier;WardiTV European League 2021 - Group D;Spirit;PtitDrogo;1;2;3;B;0
+2021-11-04;B-Tier;WardiTV European League 2021 - Group D;Kelazhur;PtitDrogo;2;1;3;B;1
+2021-11-03;Qual. (A);KoB2 EU Qualifiers - Bracket;HeRoMaRinE;PtitDrogo;2;0;3;A;1
+2021-11-03;Qual. (A);KoB2 EU Qualifiers - Bracket;mymy;PtitDrogo;0;2;3;A;0
+2021-11-03;Qual. (A);KoB2 EU Qualifiers - Bracket;Trap;PtitDrogo;2;1;3;A;1
+2021-11-02;Qual. (A);KoB2 AM Qualifier;GuMiho;PtitDrogo;2;0;3;A;1
+2021-11-01;Week. (B);ESL Open Cup #94 Europe;DisK;PtitDrogo;2;0;3;B;1
+2021-10-30;Qual. (S);TSL 8: EU - Bracket;Lambo;PtitDrogo;2;0;3;S;1
+2021-10-30;Qual. (S);TSL 8: EU - Bracket;Maru;PtitDrogo;2;0;3;S;1
+2021-10-30;Qual. (S);TSL 8: EU - Bracket;Vanya;PtitDrogo;1;2;3;S;0
+2021-10-30;Qual. (S);TSL 8: EU - Bracket;Reynor;PtitDrogo;2;0;3;S;1
+2021-10-29;Qual. (S);TSL 8: EU - Bracket;Clem;PtitDrogo;2;0;3;S;1
+2021-10-29;Qual. (S);TSL 8: EU - Bracket;Elazer;PtitDrogo;1;2;3;S;0
+2021-10-29;Qual. (S);TSL 8: EU - Bracket;Zest;PtitDrogo;1;2;3;S;0
+2021-10-28;B-Tier;WardiTV European League 2021 - Group C;goblin;PtitDrogo;1;2;3;B;0
+2021-10-28;B-Tier;WardiTV European League 2021 - Group C;MaNa;PtitDrogo;2;1;3;B;1
+2021-10-28;B-Tier;WardiTV European League 2021 - Group C;goblin;PtitDrogo;0;2;3;B;0
+2021-10-27;Qual. (A);KoB2 EU Qualifiers - Bracket;Spirit;PtitDrogo;2;1;3;A;1
+2021-10-27;Qual. (A);KoB2 EU Qualifiers - Bracket;ShoWTimE;PtitDrogo;1;2;3;A;0
+2021-10-27;Qual. (A);KoB2 EU Qualifiers - Bracket;Astrea;PtitDrogo;1;2;3;A;0
+2021-10-21;A-Tier;SAHSC #4 - Group H;Ryung;PtitDrogo;2;1;3;A;1
+2021-10-21;A-Tier;SAHSC #4 - Group H;Trap;PtitDrogo;2;0;3;A;1
+2021-10-19;Qual. (B);WardiTV European League 2021: Qualifier #1;Krystianer;PtitDrogo;2;1;3;B;1
+2021-10-19;Qual. (B);WardiTV European League 2021: Qualifier #1;Botvinnik;PtitDrogo;0;2;3;B;0
+2021-10-18;B-Tier;The Rotti & Wardi Cup 3;ByuN;PtitDrogo;2;0;3;B;1
+2021-10-18;B-Tier;The Rotti & Wardi Cup 3;BattleB;PtitDrogo;0;2;3;B;0
+2021-10-11;Week. (B);ESL Open Cup #92 Americas;MaxPax;PtitDrogo;2;1;3;B;1
+2021-10-11;Week. (B);ESL Open Cup #92 Americas;GuMiho;PtitDrogo;1;2;3;B;0
+2021-10-10;S-Tier;DHM Winter: EU - Group B;BattleB;PtitDrogo;1;2;3;S;0
+2021-10-09;S-Tier;DHM Winter: EU - Group B;SKillous;PtitDrogo;2;1;3;S;1
+2021-10-07;S-Tier;DHM Winter: EU - Group B;Reynor;PtitDrogo;2;1;3;S;1
+2021-10-05;S-Tier;DHM Winter: EU - Group B;Krystianer;PtitDrogo;0;2;3;S;0
+2021-10-04;Week. (B);ESL Open Cup #91 Europe;HeRoMaRinE;PtitDrogo;2;0;3;B;1
+2021-10-04;Week. (B);ESL Open Cup #91 Europe;Kelazhur;PtitDrogo;1;2;3;B;0
+2021-10-04;Week. (B);ESL Open Cup #91 Americas;Gerald;PtitDrogo;2;0;3;B;1
+2021-10-04;Week. (B);ESL Open Cup #91 Europe;BattleB;PtitDrogo;1;2;3;B;0
+2021-10-04;Week. (B);ESL Open Cup #91 Americas;Jenasin;PtitDrogo;0;2;3;B;0
+2021-10-02;S-Tier;DHM Winter: EU - Group B;Strange;PtitDrogo;2;0;3;S;1
+2021-10-01;S-Tier;DHM Winter: EU - Group B;Elazer;PtitDrogo;2;0;3;S;1
+2021-09-29;S-Tier;DHM Winter: EU - Group B;Denver;PtitDrogo;2;1;3;S;1
+2021-09-20;Week. (B);ESL Open Cup #89 Americas;Creator;PtitDrogo;2;0;3;B;1
+2021-09-20;Week. (B);ESL Open Cup #89 Europe;TriGGeR;PtitDrogo;2;1;3;B;1
+2021-09-20;Week. (B);ESL Open Cup #89 Americas;MasterVasya;PtitDrogo;0;2;3;B;0
+2021-09-02;Qual. (A);ASUS ROG Fall 2021: Europe Server Qualifier;Vanya;PtitDrogo;2;0;3;A;1
+2021-09-01;Qual. (A);ASUS ROG Fall 2021: Europe Server Qualifier;Lambo;PtitDrogo;2;0;3;A;1
+2021-09-01;Qual. (A);ASUS ROG Fall 2021: Europe Server Qualifier;ShoWTimE;PtitDrogo;0;2;3;A;0
+2021-09-01;Qual. (A);ASUS ROG Fall 2021: Europe Server Qualifier;MeomaikA;PtitDrogo;1;2;3;A;0
+2021-09-01;Qual. (A);ASUS ROG Fall 2021: Europe Server Qualifier;Magnath;PtitDrogo;0;2;3;A;0
+2021-08-12;S-Tier;DHM Fall: EU - Playoffs;Clem;PtitDrogo;3;0;5;S;1
+2021-08-11;S-Tier;DHM Fall: EU - Playoffs;MaNa;PtitDrogo;2;3;5;S;0
+2021-08-08;S-Tier;DHM Fall: EU - Group C;Ziggy;PtitDrogo;0;2;3;S;0
+2021-08-07;S-Tier;DHM Fall: EU - Group C;Elazer;PtitDrogo;1;2;3;S;0
+2021-08-05;S-Tier;DHM Fall: EU - Group C;HeRoMaRinE;PtitDrogo;2;1;3;S;1
+2021-08-04;S-Tier;DHM Fall: EU - Group C;uThermal;PtitDrogo;2;1;3;S;1
+2021-08-01;S-Tier;DHM Fall: EU - Group C;Lilbow;PtitDrogo;2;0;3;S;1
+2021-07-30;S-Tier;DHM Fall: EU - Group C;Vanya;PtitDrogo;2;0;3;S;1
+2021-07-29;S-Tier;DHM Fall: EU - Group C;Denver;PtitDrogo;0;2;3;S;0
+2021-07-27;B-Tier;Underdogs 2021: Season 2;DnS;PtitDrogo;3;1;5;B;1
+2021-07-14;B-Tier;Underdogs 2021: Season 2;Rom;PtitDrogo;2;3;5;B;0
+2021-07-07;B-Tier;Underdogs 2021: Season 2;Sweetzy;PtitDrogo;0;3;5;B;0
+2021-06-21;Week. (B);ESL Open Cup #76 Europe;Strange;PtitDrogo;2;0;3;B;1
+2021-06-03;S-Tier;DHM Summer: EU - Playoffs;MaxPax;PtitDrogo;3;1;5;S;1
+2021-06-02;S-Tier;DHM Summer: EU - Playoffs;goblin;PtitDrogo;0;3;5;S;0
+2021-05-30;S-Tier;DHM Summer: EU - Group A;Krystianer;PtitDrogo;0;2;3;S;0
+2021-05-28;S-Tier;DHM Summer: EU - Group A;Elazer;PtitDrogo;2;0;3;S;1
+2021-05-26;S-Tier;DHM Summer: EU - Group A;Clem;PtitDrogo;2;0;3;S;1
+2021-05-25;S-Tier;DHM Summer: EU - Group A;Vanya;PtitDrogo;2;0;3;S;1
+2021-05-22;S-Tier;DHM Summer: EU - Group A;GunGFuBanDa;PtitDrogo;1;2;3;S;0
+2021-05-20;S-Tier;DHM Summer: EU - Group A;ShaDoWn;PtitDrogo;0;2;3;S;0
+2021-05-19;S-Tier;DHM Summer: EU - Group A;Bly;PtitDrogo;1;2;3;S;0
+2021-05-06;Qual. (S);NeXT 2021 Spring: EU - Bracket;Bly;PtitDrogo;2;0;3;S;1
+2021-05-03;Week. (B);ESL Open Cup #69 Europe;ShaDoWn;PtitDrogo;2;1;3;B;1

@@ -41,13 +41,13 @@ def load_data():
         if new_players:
             df_new = pd.DataFrame({
                 'player': list(new_players),
-                'is_loaded': False,
+                'is_loaded': 0,
                 'path': None,
                 'race': None
             })
             df_players = pd.concat([df_players, df_new], ignore_index=True)
         # end if
-        
+
         df_players.to_csv(PATH_TO_PLAYERS, sep = ';', index = False)
     # end while
 # end def
