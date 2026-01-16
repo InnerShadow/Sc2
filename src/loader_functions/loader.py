@@ -20,7 +20,7 @@ def load_data():
             break
         # end if
 
-        cur_player = df_players_filtered.iloc[0]['player']
+        cur_player = df_players_filtered.iloc[-1]['player']
         print(f'Total players : {len(df_players)} | left {len(df_players_filtered)} | Now: {cur_player} | PRC : {1 - (len(df_players_filtered) / len(df_players)):.4f}')
 
         df_curr = get_matcher_per_player(cur_player)
