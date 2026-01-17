@@ -1,0 +1,193 @@
+date;match;tournament;player;oponent;player_wins;oponent_wins;best_of;tournament_tier;target
+2023-03-08;B-Tier;Ukrainian Cup - Group C;Minatoeh;Lochka;2;0;3;B;1
+2023-03-07;B-Tier;Ukrainian Cup - Group C;Minatoeh;Temperance;0;1;1;B;0
+2023-03-07;B-Tier;Ukrainian Cup - Group C;Minatoeh;no_tsche;0;1;1;B;0
+2023-03-07;B-Tier;Ukrainian Cup - Group C;Minatoeh;Kas;0;1;1;B;0
+2023-03-07;B-Tier;Ukrainian Cup - Group C;Minatoeh;Rostok;0;2;3;B;0
+2023-03-06;B-Tier;Ukrainian Cup - Group C;Minatoeh;papastreck;2;0;3;B;1
+2023-03-06;B-Tier;Ukrainian Cup - Group C;Minatoeh;Hunblee;2;0;3;B;1
+2022-02-05;B-Tier;Winter Cup - Group B;Minatoeh;SunSet;0;2;3;B;0
+2022-02-05;B-Tier;Winter Cup - Group B;Minatoeh;KingCobra;0;2;3;B;0
+2022-02-05;B-Tier;Winter Cup - Group B;Minatoeh;DIMAGA;0;2;3;B;0
+2021-11-18;B-Tier;Moscow Cybersport Season 4: Supreme Series S3;Minatoeh;YoungStar;2;3;5;B;0
+2021-11-16;B-Tier;Moscow Cybersport Season 4: Supreme Series S3;Minatoeh;Rail;0;3;5;B;0
+2021-11-15;B-Tier;Best CIS Players - Group A;Minatoeh;Creed;1;2;3;B;0
+2021-11-15;B-Tier;Best CIS Players - Group A;Minatoeh;Hellraiser;1;2;3;B;0
+2021-11-04;B-Tier;Moscow Cybersport Season 4: Supreme Series S3;Minatoeh;BratOK;3;0;5;B;1
+2021-10-31;Mon. (B);King of CIS: October 2021;Minatoeh;Moja;0;1;1;B;0
+2021-10-28;B-Tier;Moscow Cybersport Season 4: Supreme Series S3 - Play-In - Group B;Minatoeh;Shameless;2;0;3;B;1
+2021-10-28;B-Tier;Moscow Cybersport Season 4: Supreme Series S3 - Play-In - Group B;Minatoeh;Strannik;2;1;3;B;1
+2021-09-26;Qual. (S);DHM Winter: EU Qualifiers - Bracket;Minatoeh;BattleB;1;2;3;S;0
+2021-09-26;Qual. (S);DHM Winter: EU Qualifiers - Bracket;Minatoeh;GunGFuBanDa;0;2;3;S;0
+2021-09-26;Mon. (B);King of CIS: September 2021;Minatoeh;Bly;1;0;1;B;1
+2021-09-26;Mon. (B);King of CIS: September 2021;Minatoeh;DefMars;1;0;1;B;1
+2021-09-26;Mon. (B);King of CIS: September 2021;Minatoeh;DIMAGA;0;1;1;B;0
+2021-09-24;Qual. (S);DHM Winter: EU Qualifiers - Bracket;Minatoeh;SpaceMarine;3;2;5;S;1
+2021-09-24;Qual. (S);DHM Winter: EU Qualifiers - Bracket;Minatoeh;PAPI;2;0;3;S;1
+2021-09-01;Qual. (A);ASUS ROG Fall 2021: Europe Server Qualifier;Minatoeh;Brat_OK;0;2;3;A;0
+2021-08-29;Mon. (B);King of CIS: August 2021;Minatoeh;MindelVK;1;0;1;B;1
+2021-08-29;Mon. (B);King of CIS: August 2021;Minatoeh;ART;1;0;1;B;1
+2021-08-29;Mon. (B);King of CIS: August 2021;Minatoeh;MilkiCow;1;0;1;B;1
+2021-08-29;Mon. (B);King of CIS: August 2021;Minatoeh;Rail;0;1;1;B;0
+2021-07-21;Qual. (S);DHM Fall: EU Qualifiers - Bracket;Minatoeh;Indy;0;2;3;S;0
+2021-06-27;Mon. (B);King of CIS: June 2021;Minatoeh;SKillous;0;1;1;B;0
+2021-06-20;B-Tier;PSISTORM StarCraft League - KotH #2;Minatoeh;MaxPax;0;1;1;B;0
+2021-06-20;B-Tier;Free TON Legend cup - Playoffs;Minatoeh;Creed;1;2;3;B;0
+2021-06-18;B-Tier;Free TON Legend cup - Group A;Minatoeh;MilkiCow;2;0;3;B;1
+2021-06-18;B-Tier;Free TON Legend cup - Group A;Minatoeh;Unix;2;0;3;B;1
+2021-06-18;B-Tier;Free TON Legend cup - Group A;Minatoeh;Alex007;0;2;3;B;0
+2021-05-12;Qual. (S);DHM Summer: EU Qualifiers - Bracket;Minatoeh;Spatz;0;2;3;S;0
+2020-11-20;B-Tier;Free TON League;Minatoeh;Arctur;0;2;3;B;0
+2020-11-12;Week. (C);Asgard Cup #35;Minatoeh;Marsman;0;3;5;C;0
+2020-11-12;Week. (C);Asgard Cup #35;Minatoeh;Antlko;2;0;3;C;1
+2020-11-12;Week. (C);Asgard Cup #35;Minatoeh;DefMars;2;0;3;C;1
+2020-11-07;C-Tier;GachiCup;Minatoeh;MasterVasya;0;1;1;C;0
+2020-11-07;C-Tier;GachiCup;Minatoeh;Nicoract;1;0;1;C;1
+2020-11-07;C-Tier;GachiCup;Minatoeh;ART;0;2;3;C;0
+2020-10-16;Qual. (S);DH SC2 Masters 2020 Fall: Europe Qualifiers - Bracket;Minatoeh;Denver;1;2;3;S;0
+2020-10-14;Qual. (S);DH SC2 Masters 2020 Fall: Europe Qualifiers - Bracket;Minatoeh;goblin;1;2;3;S;0
+2020-09-06;Week. (C);SCR Cup #2;Minatoeh;Nerazim;3;0;5;C;1
+2020-09-06;Week. (C);SCR Cup #2;Minatoeh;YoungYakov;2;0;3;C;1
+2020-09-06;Week. (C);SCR Cup #2;Minatoeh;papastreck;2;1;3;C;1
+2020-08-29;Week. (C);REGENERATE Open Weekly Cup #88;Minatoeh;YoungYakov;0;2;3;C;0
+2020-08-29;Week. (C);REGENERATE Open Weekly Cup #88;Minatoeh;Bee;2;1;3;C;1
+2020-08-29;Week. (C);REGENERATE Open Weekly Cup #88;Minatoeh;ZipperTheFly;2;1;3;C;1
+2020-08-29;Week. (C);REGENERATE Open Weekly Cup #88;Minatoeh;SpellSinger;2;0;3;C;1
+2020-08-27;Week. (C);Asgard Cup #28;Minatoeh;Exterminar;3;0;5;C;1
+2020-08-27;Week. (C);Asgard Cup #28;Minatoeh;Ashbringer;2;1;3;C;1
+2020-08-27;Week. (C);Asgard Cup #28;Minatoeh;aelliot;2;0;3;C;1
+2020-08-22;Week. (C);REGENERATE Open Weekly Cup #87;Minatoeh;Minik;0;1;1;C;0
+2020-08-21;Qual. (S);DH SC2 Masters 2020 Fall: Europe Qualifiers - Bracket;Minatoeh;SouLeer;0;2;3;S;0
+2020-08-19;Qual. (S);DH SC2 Masters 2020 Fall: Europe Qualifiers - Bracket;Minatoeh;Kas;0;2;3;S;0
+2020-08-18;Showm. (C);Minatoeh vs ZipperTheFly Bo69;Minatoeh;ZipperTheFly;35;24;37;C;1
+2020-07-18;B-Tier;Reyden-X Cup 1 - Group A;Minatoeh;Kas;0;2;3;B;0
+2020-07-18;B-Tier;Reyden-X Cup 1 - Group A;Minatoeh;Vanya;1;2;3;B;0
+2020-07-13;Week. (B);ESL Open Cup #27 Europe;Minatoeh;AqueroN;0;2;3;B;0
+2020-07-12;Qual. (B);Reyden-X Cup 1: Qualifiers - Bracket;Minatoeh;YoungYakov;2;1;3;B;1
+2020-07-12;Qual. (B);Reyden-X Cup 1: Qualifiers - Bracket;Minatoeh;Wintersd;2;0;3;B;1
+2020-06-27;B-Tier;Ukrainian Stars - Playoffs;Minatoeh;Awers;0;1;1;B;0
+2020-06-21;Qual. (S);DH SC2 Masters 2020 Summer: Europe Qualifiers - Bracket;Minatoeh;Krystianer;1;2;3;S;0
+2020-06-20;B-Tier;Ukrainian Stars - Group B;Minatoeh;LandGuardian;2;0;3;B;1
+2020-06-20;B-Tier;Ukrainian Stars - Group B;Minatoeh;Bly;0;2;3;B;0
+2020-06-20;B-Tier;Ukrainian Stars - Group B;Minatoeh;JEROS;1;0;1;B;1
+2020-06-17;Qual. (S);DH SC2 Masters 2020 Summer: Europe Qualifiers - Bracket;Minatoeh;Vanya;0;2;3;S;0
+2020-06-15;Week. (C);Asgard Cup #22;Minatoeh;Friend;3;2;5;C;1
+2020-06-15;Week. (C);Asgard Cup #22;Minatoeh;Nicoract;2;1;3;C;1
+2020-06-15;Week. (C);Asgard Cup #22;Minatoeh;DeeDan;2;1;3;C;1
+2020-06-13;Week. (C);REGENERATE Open Weekly Cup #79;Minatoeh;Mixu;0;1;1;C;0
+2020-06-04;Week. (C);Asgard Cup #21;Minatoeh;EnigmA;3;2;5;C;1
+2020-06-04;Week. (C);Asgard Cup #21;Minatoeh;KingCobra;2;1;3;C;1
+2020-06-04;Week. (C);Asgard Cup #21;Minatoeh;Nicoract;2;0;3;C;1
+2020-05-17;Week. (C);RFCS 1v1 #40;Minatoeh;YoungYakov;0;1;1;C;0
+2020-05-17;Week. (C);RFCS 1v1 #40;Minatoeh;EnigmA;2;3;5;C;0
+2020-05-17;Week. (C);RFCS 1v1 #40;Minatoeh;YoungYakov;2;0;3;C;1
+2020-05-17;Week. (C);RFCS 1v1 #40;Minatoeh;ZipperTheFly;2;1;3;C;1
+2020-05-16;Week. (C);REGENERATE Open Weekly Cup #75;Minatoeh;Kas;0;3;5;C;0
+2020-05-16;Week. (C);REGENERATE Open Weekly Cup #75;Minatoeh;EnigmA;2;1;3;C;1
+2020-05-16;Week. (C);REGENERATE Open Weekly Cup #75;Minatoeh;ForJumy;2;0;3;C;1
+2020-05-16;Week. (C);REGENERATE Open Weekly Cup #75;Minatoeh;DIMAGA;2;1;3;C;1
+2020-05-13;Week. (B);Red Bull Xel'Naga Finest #6;Minatoeh;Gerald;0;2;3;B;0
+2020-05-13;Week. (B);Red Bull Xel'Naga Finest #6;Minatoeh;MaNa;2;0;3;B;1
+2020-05-06;Week. (B);Red Bull Xel'Naga Finest #5;Minatoeh;uThermal;1;2;3;B;0
+2020-04-26;Week. (B);ESL Open Cup #16 Europe;Minatoeh;AqueroN;0;2;3;B;0
+2020-04-26;Mon. (B);King of CIS: April 2020;Minatoeh;Hellraiser;0;1;1;B;0
+2020-04-20;Qual. (B);WardiTV European League 2020: Point-Builder #2 Qualifier;Minatoeh;SKillous;0;2;3;B;0
+2020-02-09;Week. (B);ESL Open Cup #5 Europe;Minatoeh;Lambo;1;2;3;B;0
+2020-01-12;Week. (C);RFCS 1v1 #33;Minatoeh;TheSilentOne;0;1;1;C;0
+2020-01-12;Week. (B);ESL Open Cup #1 Europe;Minatoeh;Harstem;0;2;3;B;0
+2023-03-08;B-Tier;Ukrainian Cup - Group C;Lochka;Minatoeh;0;2;3;B;0
+2023-03-07;B-Tier;Ukrainian Cup - Group C;Temperance;Minatoeh;1;0;1;B;1
+2023-03-07;B-Tier;Ukrainian Cup - Group C;no_tsche;Minatoeh;1;0;1;B;1
+2023-03-07;B-Tier;Ukrainian Cup - Group C;Kas;Minatoeh;1;0;1;B;1
+2023-03-07;B-Tier;Ukrainian Cup - Group C;Rostok;Minatoeh;2;0;3;B;1
+2023-03-06;B-Tier;Ukrainian Cup - Group C;papastreck;Minatoeh;0;2;3;B;0
+2023-03-06;B-Tier;Ukrainian Cup - Group C;Hunblee;Minatoeh;0;2;3;B;0
+2022-02-05;B-Tier;Winter Cup - Group B;SunSet;Minatoeh;2;0;3;B;1
+2022-02-05;B-Tier;Winter Cup - Group B;KingCobra;Minatoeh;2;0;3;B;1
+2022-02-05;B-Tier;Winter Cup - Group B;DIMAGA;Minatoeh;2;0;3;B;1
+2021-11-18;B-Tier;Moscow Cybersport Season 4: Supreme Series S3;YoungStar;Minatoeh;3;2;5;B;1
+2021-11-16;B-Tier;Moscow Cybersport Season 4: Supreme Series S3;Rail;Minatoeh;3;0;5;B;1
+2021-11-15;B-Tier;Best CIS Players - Group A;Creed;Minatoeh;2;1;3;B;1
+2021-11-15;B-Tier;Best CIS Players - Group A;Hellraiser;Minatoeh;2;1;3;B;1
+2021-11-04;B-Tier;Moscow Cybersport Season 4: Supreme Series S3;BratOK;Minatoeh;0;3;5;B;0
+2021-10-31;Mon. (B);King of CIS: October 2021;Moja;Minatoeh;1;0;1;B;1
+2021-10-28;B-Tier;Moscow Cybersport Season 4: Supreme Series S3 - Play-In - Group B;Shameless;Minatoeh;0;2;3;B;0
+2021-10-28;B-Tier;Moscow Cybersport Season 4: Supreme Series S3 - Play-In - Group B;Strannik;Minatoeh;1;2;3;B;0
+2021-09-26;Qual. (S);DHM Winter: EU Qualifiers - Bracket;BattleB;Minatoeh;2;1;3;S;1
+2021-09-26;Qual. (S);DHM Winter: EU Qualifiers - Bracket;GunGFuBanDa;Minatoeh;2;0;3;S;1
+2021-09-26;Mon. (B);King of CIS: September 2021;Bly;Minatoeh;0;1;1;B;0
+2021-09-26;Mon. (B);King of CIS: September 2021;DefMars;Minatoeh;0;1;1;B;0
+2021-09-26;Mon. (B);King of CIS: September 2021;DIMAGA;Minatoeh;1;0;1;B;1
+2021-09-24;Qual. (S);DHM Winter: EU Qualifiers - Bracket;SpaceMarine;Minatoeh;2;3;5;S;0
+2021-09-24;Qual. (S);DHM Winter: EU Qualifiers - Bracket;PAPI;Minatoeh;0;2;3;S;0
+2021-09-01;Qual. (A);ASUS ROG Fall 2021: Europe Server Qualifier;Brat_OK;Minatoeh;2;0;3;A;1
+2021-08-29;Mon. (B);King of CIS: August 2021;MindelVK;Minatoeh;0;1;1;B;0
+2021-08-29;Mon. (B);King of CIS: August 2021;ART;Minatoeh;0;1;1;B;0
+2021-08-29;Mon. (B);King of CIS: August 2021;MilkiCow;Minatoeh;0;1;1;B;0
+2021-08-29;Mon. (B);King of CIS: August 2021;Rail;Minatoeh;1;0;1;B;1
+2021-07-21;Qual. (S);DHM Fall: EU Qualifiers - Bracket;Indy;Minatoeh;2;0;3;S;1
+2021-06-27;Mon. (B);King of CIS: June 2021;SKillous;Minatoeh;1;0;1;B;1
+2021-06-20;B-Tier;PSISTORM StarCraft League - KotH #2;MaxPax;Minatoeh;1;0;1;B;1
+2021-06-20;B-Tier;Free TON Legend cup - Playoffs;Creed;Minatoeh;2;1;3;B;1
+2021-06-18;B-Tier;Free TON Legend cup - Group A;MilkiCow;Minatoeh;0;2;3;B;0
+2021-06-18;B-Tier;Free TON Legend cup - Group A;Unix;Minatoeh;0;2;3;B;0
+2021-06-18;B-Tier;Free TON Legend cup - Group A;Alex007;Minatoeh;2;0;3;B;1
+2021-05-12;Qual. (S);DHM Summer: EU Qualifiers - Bracket;Spatz;Minatoeh;2;0;3;S;1
+2020-11-20;B-Tier;Free TON League;Arctur;Minatoeh;2;0;3;B;1
+2020-11-12;Week. (C);Asgard Cup #35;Marsman;Minatoeh;3;0;5;C;1
+2020-11-12;Week. (C);Asgard Cup #35;Antlko;Minatoeh;0;2;3;C;0
+2020-11-12;Week. (C);Asgard Cup #35;DefMars;Minatoeh;0;2;3;C;0
+2020-11-07;C-Tier;GachiCup;MasterVasya;Minatoeh;1;0;1;C;1
+2020-11-07;C-Tier;GachiCup;Nicoract;Minatoeh;0;1;1;C;0
+2020-11-07;C-Tier;GachiCup;ART;Minatoeh;2;0;3;C;1
+2020-10-16;Qual. (S);DH SC2 Masters 2020 Fall: Europe Qualifiers - Bracket;Denver;Minatoeh;2;1;3;S;1
+2020-10-14;Qual. (S);DH SC2 Masters 2020 Fall: Europe Qualifiers - Bracket;goblin;Minatoeh;2;1;3;S;1
+2020-09-06;Week. (C);SCR Cup #2;Nerazim;Minatoeh;0;3;5;C;0
+2020-09-06;Week. (C);SCR Cup #2;YoungYakov;Minatoeh;0;2;3;C;0
+2020-09-06;Week. (C);SCR Cup #2;papastreck;Minatoeh;1;2;3;C;0
+2020-08-29;Week. (C);REGENERATE Open Weekly Cup #88;YoungYakov;Minatoeh;2;0;3;C;1
+2020-08-29;Week. (C);REGENERATE Open Weekly Cup #88;Bee;Minatoeh;1;2;3;C;0
+2020-08-29;Week. (C);REGENERATE Open Weekly Cup #88;ZipperTheFly;Minatoeh;1;2;3;C;0
+2020-08-29;Week. (C);REGENERATE Open Weekly Cup #88;SpellSinger;Minatoeh;0;2;3;C;0
+2020-08-27;Week. (C);Asgard Cup #28;Exterminar;Minatoeh;0;3;5;C;0
+2020-08-27;Week. (C);Asgard Cup #28;Ashbringer;Minatoeh;1;2;3;C;0
+2020-08-27;Week. (C);Asgard Cup #28;aelliot;Minatoeh;0;2;3;C;0
+2020-08-22;Week. (C);REGENERATE Open Weekly Cup #87;Minik;Minatoeh;1;0;1;C;1
+2020-08-21;Qual. (S);DH SC2 Masters 2020 Fall: Europe Qualifiers - Bracket;SouLeer;Minatoeh;2;0;3;S;1
+2020-08-19;Qual. (S);DH SC2 Masters 2020 Fall: Europe Qualifiers - Bracket;Kas;Minatoeh;2;0;3;S;1
+2020-08-18;Showm. (C);Minatoeh vs ZipperTheFly Bo69;ZipperTheFly;Minatoeh;24;35;37;C;0
+2020-07-18;B-Tier;Reyden-X Cup 1 - Group A;Kas;Minatoeh;2;0;3;B;1
+2020-07-18;B-Tier;Reyden-X Cup 1 - Group A;Vanya;Minatoeh;2;1;3;B;1
+2020-07-13;Week. (B);ESL Open Cup #27 Europe;AqueroN;Minatoeh;2;0;3;B;1
+2020-07-12;Qual. (B);Reyden-X Cup 1: Qualifiers - Bracket;YoungYakov;Minatoeh;1;2;3;B;0
+2020-07-12;Qual. (B);Reyden-X Cup 1: Qualifiers - Bracket;Wintersd;Minatoeh;0;2;3;B;0
+2020-06-27;B-Tier;Ukrainian Stars - Playoffs;Awers;Minatoeh;1;0;1;B;1
+2020-06-21;Qual. (S);DH SC2 Masters 2020 Summer: Europe Qualifiers - Bracket;Krystianer;Minatoeh;2;1;3;S;1
+2020-06-20;B-Tier;Ukrainian Stars - Group B;LandGuardian;Minatoeh;0;2;3;B;0
+2020-06-20;B-Tier;Ukrainian Stars - Group B;Bly;Minatoeh;2;0;3;B;1
+2020-06-20;B-Tier;Ukrainian Stars - Group B;JEROS;Minatoeh;0;1;1;B;0
+2020-06-17;Qual. (S);DH SC2 Masters 2020 Summer: Europe Qualifiers - Bracket;Vanya;Minatoeh;2;0;3;S;1
+2020-06-15;Week. (C);Asgard Cup #22;Friend;Minatoeh;2;3;5;C;0
+2020-06-15;Week. (C);Asgard Cup #22;Nicoract;Minatoeh;1;2;3;C;0
+2020-06-15;Week. (C);Asgard Cup #22;DeeDan;Minatoeh;1;2;3;C;0
+2020-06-13;Week. (C);REGENERATE Open Weekly Cup #79;Mixu;Minatoeh;1;0;1;C;1
+2020-06-04;Week. (C);Asgard Cup #21;EnigmA;Minatoeh;2;3;5;C;0
+2020-06-04;Week. (C);Asgard Cup #21;KingCobra;Minatoeh;1;2;3;C;0
+2020-06-04;Week. (C);Asgard Cup #21;Nicoract;Minatoeh;0;2;3;C;0
+2020-05-17;Week. (C);RFCS 1v1 #40;YoungYakov;Minatoeh;1;0;1;C;1
+2020-05-17;Week. (C);RFCS 1v1 #40;EnigmA;Minatoeh;3;2;5;C;1
+2020-05-17;Week. (C);RFCS 1v1 #40;YoungYakov;Minatoeh;0;2;3;C;0
+2020-05-17;Week. (C);RFCS 1v1 #40;ZipperTheFly;Minatoeh;1;2;3;C;0
+2020-05-16;Week. (C);REGENERATE Open Weekly Cup #75;Kas;Minatoeh;3;0;5;C;1
+2020-05-16;Week. (C);REGENERATE Open Weekly Cup #75;EnigmA;Minatoeh;1;2;3;C;0
+2020-05-16;Week. (C);REGENERATE Open Weekly Cup #75;ForJumy;Minatoeh;0;2;3;C;0
+2020-05-16;Week. (C);REGENERATE Open Weekly Cup #75;DIMAGA;Minatoeh;1;2;3;C;0
+2020-05-13;Week. (B);Red Bull Xel'Naga Finest #6;Gerald;Minatoeh;2;0;3;B;1
+2020-05-13;Week. (B);Red Bull Xel'Naga Finest #6;MaNa;Minatoeh;0;2;3;B;0
+2020-05-06;Week. (B);Red Bull Xel'Naga Finest #5;uThermal;Minatoeh;2;1;3;B;1
+2020-04-26;Week. (B);ESL Open Cup #16 Europe;AqueroN;Minatoeh;2;0;3;B;1
+2020-04-26;Mon. (B);King of CIS: April 2020;Hellraiser;Minatoeh;1;0;1;B;1
+2020-04-20;Qual. (B);WardiTV European League 2020: Point-Builder #2 Qualifier;SKillous;Minatoeh;2;0;3;B;1
+2020-02-09;Week. (B);ESL Open Cup #5 Europe;Lambo;Minatoeh;2;1;3;B;1
+2020-01-12;Week. (C);RFCS 1v1 #33;TheSilentOne;Minatoeh;1;0;1;C;1
+2020-01-12;Week. (B);ESL Open Cup #1 Europe;Harstem;Minatoeh;2;0;3;B;1
