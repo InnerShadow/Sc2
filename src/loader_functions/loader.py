@@ -1,4 +1,6 @@
 import pandas as pd
+import time
+import numpy as np
 
 from src.loader_functions.get_matcher_per_player import get_matcher_per_player
 from src.loader_functions.get_player_race import get_player_race
@@ -10,7 +12,7 @@ def _load_players() -> pd.DataFrame:
     return df
 # end def
 
-def load_data():
+def load_data(idx : int):
     while True:
         df_players = _load_players()
         df_players_filtered = df_players[df_players['is_loaded'] != 1].reset_index(drop = True)
@@ -20,23 +22,26 @@ def load_data():
             break
         # end if
 
-        cur_player = df_players_filtered.iloc[-1]['player']
+        cur_player = df_players_filtered.iloc[idx]['player']
         print(f'Total players : {len(df_players)} | left {len(df_players_filtered)} | Now: {cur_player} | PRC : {1 - (len(df_players_filtered) / len(df_players)):.4f}')
 
+        time.sleep(np.random.uniform(10, 60))
         df_curr = get_matcher_per_player(cur_player)
         race = get_player_race(cur_player)
 
         csv_path = f'./data/{cur_player}.csv'
         df_curr.to_csv(csv_path, index = False, sep = ';')
-        mask = df_players['player'] == cur_player
-        df_players.loc[mask, 'is_loaded'] = 1
-        df_players.loc[mask, 'path'] = csv_path
-        df_players.loc[mask, 'race'] = race
 
+        df_players = _load_players()
         existing_players = set(df_players['player'])
 
         found_players = set(df_curr['player'])
         new_players = found_players - existing_players
+
+        mask = df_players['player'] == cur_player
+        df_players.loc[mask, 'is_loaded'] = 1
+        df_players.loc[mask, 'path'] = csv_path
+        df_players.loc[mask, 'race'] = race
 
         if new_players:
             df_new = pd.DataFrame({

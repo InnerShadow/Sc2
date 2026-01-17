@@ -1,0 +1,469 @@
+date;match;tournament;player;oponent;player_wins;oponent_wins;best_of;tournament_tier;target
+2025-09-09;Week. (B);PiGosaur Cup #48;Nina;Epic;0;2;3;B;0
+2025-08-23;Biw. (B);Korean Starcraft League #79;Nina;Classic;0;2;3;B;0
+2025-08-23;Biw. (B);Korean Starcraft League #79;Nina;triple;2;1;3;B;1
+2025-08-20;B-Tier;The 5.4k Patch Clash #2;Nina;Mixu;1;2;3;B;0
+2025-08-20;B-Tier;The 5.4k Patch Clash #2;Nina;INexorable;0;2;3;B;0
+2025-08-20;B-Tier;The 5.4k Patch Clash #2;Nina;iosup;2;0;3;B;1
+2025-08-20;B-Tier;The 5.4k Patch Clash #2;Nina;BerryCruncH;2;1;3;B;1
+2025-08-19;Week. (B);PiGosaur Cup #45;Nina;Creator;1;2;3;B;0
+2025-08-19;Week. (B);PiGosaur Cup #45;Nina;BerryCruncH;2;0;3;B;1
+2025-08-06;B-Tier;Kirktown Co-op 1v1 Bash #7;Nina;Greenert;0;2;3;B;0
+2024-05-03;A-Tier;ESL Spring: Americas - Playoffs;Nina;Astrea;1;3;5;A;0
+2024-05-02;A-Tier;ESL Spring: Americas - Playoffs;Nina;Scarlett;0;3;5;A;0
+2024-04-21;A-Tier;ESL Spring: Americas - R 5;Nina;SpeCial;2;1;3;A;1
+2024-04-20;A-Tier;ESL Spring: Americas - R 4;Nina;Epic;2;1;3;A;1
+2024-04-19;A-Tier;ESL Spring: Americas - R 3;Nina;Future;0;2;3;A;0
+2024-04-14;A-Tier;ESL Spring: Americas - R 2;Nina;Astrea;0;2;3;A;0
+2024-04-13;A-Tier;ESL Spring: Americas - R 1;Nina;eGGz;2;0;3;A;1
+2024-04-08;Qual. (A);ESL Spring: Americas Qualifiers - Bracket;Nina;FoxeR;3;0;5;A;1
+2024-04-07;Qual. (A);ESL Spring: Americas Qualifiers - Bracket;Nina;PiLiPiLi;2;0;3;A;1
+2024-03-03;Showm. (C);Kashim Friendly Showmatches #4;Nina;Future;2;3;5;C;0
+2024-02-29;Showm. (B);Ursa Brawl #2 - Fights;Nina;uThermal;0;3;5;B;0
+2023-11-19;Biw. (C);Tenacious Turtle Tussle #13;Nina;Vindicta;0;3;5;C;0
+2023-11-19;Biw. (C);Tenacious Turtle Tussle #13;Nina;Sepheron;2;0;3;C;1
+2023-11-19;Biw. (C);Tenacious Turtle Tussle #13;Nina;SpiffyBee;2;1;3;C;1
+2023-11-07;A-Tier;ESL Winter: Americas - R 5;Nina;Kelazhur;0;2;3;A;0
+2023-11-03;A-Tier;ESL Winter: Americas - R 4;Nina;Dolan;2;1;3;A;1
+2023-11-02;A-Tier;ESL Winter: Americas - R 3;Nina;trigger;0;2;3;A;0
+2023-10-30;Week. (B);ESL Open Cup #199 Americas;Nina;Meowerdoom;0;2;3;B;0
+2023-10-29;A-Tier;ESL Winter: Americas - R 2;Nina;Ukko;2;0;3;A;1
+2023-10-26;A-Tier;ESL Winter: Americas - R 1;Nina;Future;1;2;3;A;0
+2023-10-23;Week. (B);ESL Open Cup #198 Americas;Nina;Wayne;0;2;3;B;0
+2023-10-23;Week. (B);ESL Open Cup #198 Americas;Nina;Terxel;2;0;3;B;1
+2023-10-16;Week. (B);ESL Open Cup #197 Americas;Nina;MaxPax;0;2;3;B;0
+2023-10-16;Week. (B);ESL Open Cup #197 Americas;Nina;UFO;2;0;3;B;1
+2023-10-16;Week. (B);ESL Open Cup #197 Americas;Nina;Steadfast;2;0;3;B;1
+2023-10-15;Qual. (A);ESL Winter: Americas Qualifiers - Bracket;Nina;Erik;3;0;5;A;1
+2023-10-15;Qual. (A);ESL Winter: Americas Qualifiers - Bracket;Nina;Ryu;2;0;3;A;1
+2023-10-09;Week. (B);ESL Open Cup #196 Americas;Nina;Clem;0;2;3;B;0
+2023-10-09;Week. (B);ESL Open Cup #196 Americas;Nina;Rare;2;0;3;B;1
+2023-09-25;Week. (B);ESL Open Cup #194 Americas;Nina;ByuN;0;2;3;B;0
+2023-09-25;Week. (B);ESL Open Cup #194 Americas;Nina;DIMAGA;2;1;3;B;1
+2023-09-18;Week. (B);ESL Open Cup #193 Americas;Nina;MaxPax;0;2;3;B;0
+2023-09-18;Week. (B);ESL Open Cup #193 Americas;Nina;Hupsaiya;2;0;3;B;1
+2023-09-04;Week. (B);ESL Open Cup #191 Americas;Nina;Solar;1;2;3;B;0
+2023-09-04;Week. (B);ESL Open Cup #191 Americas;Nina;Rostok;2;1;3;B;1
+2023-09-04;Week. (B);ESL Open Cup #191 Americas;Nina;Kyto;2;0;3;B;1
+2023-08-28;Week. (B);ESL Open Cup #190 Americas;Nina;Creator;1;2;3;B;0
+2023-08-28;Week. (B);ESL Open Cup #190 Americas;Nina;Shiny;2;0;3;B;1
+2023-06-26;Week. (B);ESL Open Cup #181 Americas;Nina;Clem;0;2;3;B;0
+2023-06-26;Week. (B);ESL Open Cup #181 Americas;Nina;Agressif;2;0;3;B;1
+2023-05-29;Week. (B);ESL Open Cup #177 Americas;Nina;PsiOniC;1;2;3;B;0
+2023-05-13;A-Tier;ESL Summer: Americas - R 4;Nina;eGGz;1;2;3;A;0
+2023-05-10;A-Tier;ESL Summer: Americas - R 3;Nina;Ukko;2;0;3;A;1
+2023-05-05;A-Tier;ESL Summer: Americas - R 2;Nina;MaSa;1;2;3;A;0
+2023-05-03;A-Tier;ESL Summer: Americas - R 1;Nina;Kelazhur;0;2;3;A;0
+2023-04-10;Qual. (A);ESL Summer: Americas Qualifiers - Bracket;Nina;MCanning;3;2;5;A;1
+2023-04-10;Qual. (A);ESL Summer: Americas Qualifiers - Bracket;Nina;FoxeR;2;0;3;A;1
+2023-03-20;B-Tier;LTK Power Rankings #5 - Playoffs;Nina;XingMing;3;0;5;B;1
+2023-03-19;B-Tier;LTK Power Rankings #5 - Playoffs;Nina;Sepheron;3;0;5;B;1
+2023-02-20;Week. (B);ESL Open Cup #163 Americas;Nina;MaxPax;0;2;3;B;0
+2023-02-20;Week. (B);ESL Open Cup #163 Americas;Nina;Holden;2;0;3;B;1
+2023-01-30;Week. (B);ESL Open Cup #160 Americas;Nina;Jinioh;0;2;3;B;0
+2023-01-30;Week. (B);ESL Open Cup #160 Americas;Nina;RuFF;2;0;3;B;1
+2023-01-26;B-Tier;Dave N Scttooo's SC2 Tournament #1;Nina;RekcOr;0;2;3;B;0
+2023-01-26;B-Tier;Dave N Scttooo's SC2 Tournament #1;Nina;Demi;2;1;3;B;1
+2023-01-23;Week. (B);ESL Open Cup #159 Americas;Nina;Dark;0;2;3;B;0
+2023-01-23;Week. (B);ESL Open Cup #159 Americas;Nina;trigger;2;1;3;B;1
+2023-01-23;Week. (B);ESL Open Cup #159 Americas;Nina;Holden;2;0;3;B;1
+2023-01-20;Showm. (B);Basilisk Big Brain Bouts #14 - Bouts;Nina;Rattata;2;3;5;B;0
+2023-01-13;Week. (B);The Dan and Vladiment #1;Nina;HonMonO;1;2;3;B;0
+2023-01-13;Week. (B);The Dan and Vladiment #1;Nina;Finesseviii;2;1;3;B;1
+2022-12-16;S-Tier;HSC XXII - Round 7;Nina;SKillous;0;2;3;S;0
+2022-12-16;S-Tier;HSC XXII - Round 6;Nina;Kelazhur;0;2;3;S;0
+2022-12-16;S-Tier;HSC XXII - Round 4;Nina;Cure;1;1;3;S;0
+2022-12-16;S-Tier;HSC XXII - Round 5;Nina;Astrea;0;2;3;S;0
+2022-12-16;S-Tier;HSC XXII - Round 3;Nina;Zoun;0;2;3;S;0
+2022-12-16;S-Tier;HSC XXII - Round 2;Nina;HeRoMaRinE;0;2;3;S;0
+2022-12-16;S-Tier;HSC XXII - Round 1;Nina;Rex;2;0;3;S;1
+2022-11-28;Week. (B);ESL Open Cup #151 Americas;Nina;ByuN;0;2;3;B;0
+2022-11-28;Week. (B);ESL Open Cup #151 Americas;Nina;uThermal;2;1;3;B;1
+2022-11-28;Week. (B);ESL Open Cup #151 Americas;Nina;Eggnog;2;0;3;B;1
+2022-11-26;B-Tier;LTK Power Rankings #5 -;Nina;Mafia;2;0;3;B;1
+2022-11-26;B-Tier;LTK Power Rankings #5 -;Nina;OldManSlum;1;0;1;B;1
+2022-11-26;B-Tier;LTK Power Rankings #5 -;Nina;Antmantis;1;0;1;B;1
+2022-11-26;B-Tier;LTK Power Rankings #5 -;Nina;tavo;2;0;3;B;1
+2022-11-26;B-Tier;LTK Power Rankings #5 -;Nina;Walujie;2;0;3;B;1
+2022-11-26;B-Tier;LTK Power Rankings #5 -;Nina;Faesbuca;2;0;3;B;1
+2022-11-26;B-Tier;LTK Power Rankings #5 -;Nina;ChewChilla;1;0;1;B;1
+2022-11-26;B-Tier;LTK Power Rankings #5 -;Nina;EON;2;0;3;B;1
+2022-11-26;B-Tier;LTK Power Rankings #5 - Playoffs;Nina;XingMing;1;3;5;B;0
+2022-11-26;B-Tier;LTK Power Rankings #5 - Playoffs;Nina;tavo;2;1;3;B;1
+2022-11-26;Qual. (S);HSC XXII: North America;Nina;Scarlett;0;2;3;S;0
+2022-11-26;B-Tier;LTK Power Rankings #5 - Playoffs;Nina;Skye;2;0;3;B;1
+2022-11-26;Qual. (S);HSC XXII: North America;Nina;Silky;2;0;3;S;1
+2022-11-26;Qual. (S);HSC XXII: North America;Nina;Future;1;2;3;S;0
+2022-11-26;B-Tier;LTK Power Rankings #5 - Playoffs;Nina;Topspin;2;0;3;B;1
+2022-11-26;Qual. (S);HSC XXII: North America;Nina;Hope;2;0;3;S;1
+2022-11-18;S-Tier;DH Masters Atlanta -;Nina;Has;1;2;3;S;0
+2022-11-18;S-Tier;DH Masters Atlanta -;Nina;PattyMac;2;0;3;S;1
+2022-11-18;S-Tier;DH Masters Atlanta - Group C;Nina;Lambo;0;2;3;S;0
+2022-11-18;S-Tier;DH Masters Atlanta - Group C;Nina;binski;2;0;3;S;1
+2022-11-18;S-Tier;DH Masters Atlanta - Group C;Nina;Lambo;0;2;3;S;0
+2022-11-18;S-Tier;DH Masters Atlanta - Group D;Nina;Maplez;2;1;3;S;1
+2022-11-18;S-Tier;DH Masters Atlanta - Group D;Nina;Bunny;0;2;3;S;0
+2022-11-18;S-Tier;DH Masters Atlanta - Group D;Nina;Maplez;2;0;3;S;1
+2022-11-14;Week. (B);ESL Open Cup #149 Americas;Nina;Dolan;0;2;3;B;0
+2022-11-14;Week. (B);ESL Open Cup #149 Americas;Nina;ProbeiusCorp;2;0;3;B;1
+2022-11-08;Biw. (B);Dam Training #2;Nina;Epic;0;5;7;B;0
+2022-11-08;Biw. (B);Dam Training #2;Nina;Arrogfire;2;3;5;B;0
+2022-11-07;Week. (B);ESL Open Cup #148 Americas;Nina;Solar;0;2;3;B;0
+2022-11-07;Week. (B);ESL Open Cup #148 Americas;Nina;PiG;2;0;3;B;1
+2022-11-02;Mon. (B);PSISTORM Open Cup #49;Nina;SKillous;1;2;3;B;0
+2022-10-31;Week. (B);ESL Open Cup #147 Americas;Nina;GuMiho;0;2;3;B;0
+2022-10-31;Week. (B);ESL Open Cup #147 Americas;Nina;AppleJuice;2;0;3;B;1
+2022-10-27;Week. (C);PSISTORM Open Cup #48;Nina;PhleBuster;1;0;1;C;1
+2022-10-26;Week. (C);PSISTORM Open Cup #48;Nina;Gerald;0;2;3;C;0
+2022-10-26;Week. (C);PSISTORM Open Cup #48;Nina;Poryphorion;2;0;3;C;1
+2022-10-19;Week. (C);PSISTORM Open Cup #47;Nina;trigger;0;3;5;C;0
+2022-10-19;Week. (C);PSISTORM Open Cup #47;Nina;Gerald;2;0;3;C;1
+2022-10-19;Week. (C);PSISTORM Open Cup #47;Nina;PattyMac;2;0;3;C;1
+2022-10-17;Week. (B);ESL Open Cup #145 Americas;Nina;trigger;1;2;3;B;0
+2022-10-14;A-Tier;DHM Atlanta: NA - Playoffs;Nina;trigger;2;3;5;A;0
+2022-10-13;A-Tier;DHM Atlanta: NA - Playoffs;Nina;Namshar;3;0;5;A;1
+2022-10-09;A-Tier;DHM Atlanta: NA - Group B - Day 6;Nina;PureLegacy;2;0;3;A;1
+2022-10-08;A-Tier;DHM Atlanta: NA - Group B - Day 5;Nina;Astrea;0;2;3;A;0
+2022-10-07;A-Tier;DHM Atlanta: NA - Group B - Day 4;Nina;PattyMac;2;1;3;A;1
+2022-10-06;A-Tier;DHM Atlanta: NA - Group B - Day 3;Nina;Future;1;2;3;A;0
+2022-10-05;A-Tier;DHM Atlanta: NA - Group B - Day 2;Nina;DisK;2;1;3;A;1
+2022-10-04;A-Tier;DHM Atlanta: NA - Group B - Day 1;Nina;Scarlett;1;2;3;A;0
+2022-10-04;A-Tier;DHM Atlanta: NA - Group B - Day 1;Nina;Reaper;2;0;3;A;1
+2022-09-26;Week. (B);ESL Open Cup #142 Americas;Nina;trigger;0;2;3;B;0
+2022-09-26;Week. (B);ESL Open Cup #142 Americas;Nina;UncLeToBy;2;0;3;B;1
+2022-09-19;Week. (B);ESL Open Cup #141 Americas;Nina;Vindicta;1;2;3;B;0
+2022-09-19;Week. (B);ESL Open Cup #141 Americas;Nina;Dro;2;0;3;B;1
+2022-09-18;Qual. (A);DHM Atlanta: NA Qualifiers - Bracket;Nina;PattyMac;3;2;5;A;1
+2022-09-18;Qual. (A);DHM Atlanta: NA Qualifiers - Bracket;Nina;MCanning;2;0;3;A;1
+2022-09-15;Qual. (A);DHM Atlanta: NA Qualifiers - Bracket;Nina;TLO;3;2;5;A;1
+2022-09-15;Qual. (A);DHM Atlanta: NA Qualifiers - Bracket;Nina;Rob;2;0;3;A;1
+2022-09-13;Qual. (A);DHM Atlanta: NA Qualifiers - Bracket;Nina;Rob;0;2;3;A;0
+2022-09-12;Week. (B);ESL Open Cup #140 Americas;Nina;Astrea;0;2;3;B;0
+2022-09-12;Week. (B);ESL Open Cup #140 Americas;Nina;Invux;2;0;3;B;1
+2022-09-11;Showm. (B);BeoBash #10;Nina;trigger;2;7;9;B;0
+2022-09-07;Week. (C);PSISTORM Open Cup #44;Nina;trigger;0;2;3;C;0
+2022-09-05;Week. (B);ESL Open Cup #139 Americas;Nina;NightMare;1;2;3;B;0
+2022-09-05;Week. (B);ESL Open Cup #139 Americas;Nina;PiG;2;0;3;B;1
+2022-09-05;Week. (B);ESL Open Cup #139 Americas;Nina;TheZergLord;2;0;3;B;1
+2022-09-04;B-Tier;ATCRacer Open Tournament;Nina;Reaper;0;1;1;B;0
+2022-09-04;B-Tier;ATCRacer Open Tournament;Nina;trigger;0;2;3;B;0
+2022-09-04;B-Tier;ATCRacer Open Tournament;Nina;Maplez;2;0;3;B;1
+2022-09-04;B-Tier;ATCRacer Open Tournament;Nina;Eurystheus;2;0;3;B;1
+2022-08-31;Week. (C);PSISTORM Open Cup #43;Nina;PAPI;0;2;3;C;0
+2022-08-29;Week. (B);ESL Open Cup #138 Americas;Nina;MaxPax;0;2;3;B;0
+2022-08-29;Week. (B);ESL Open Cup #138 Americas;Nina;PiG;2;0;3;B;1
+2022-08-29;Week. (B);ESL Open Cup #138 Americas;Nina;ChillBill;2;0;3;B;1
+2022-08-27;Week. (B);DaveTestaSC's Friday Night Fights #1;Nina;PAPI;2;0;3;B;1
+2022-08-26;Showm. (C);BeoBash #8;Nina;Future;5;3;7;C;1
+2022-08-26;B-Tier;DaveTestaSC Tournament uWu;Nina;trigger;3;2;5;B;1
+2022-08-26;Week. (B);DaveTestaSC's Friday Night Fights #1;Nina;Ziomek;2;0;3;B;1
+2022-08-26;Week. (B);DaveTestaSC's Friday Night Fights #1;Nina;acheron;2;0;3;B;1
+2022-08-26;Week. (B);DaveTestaSC's Friday Night Fights #1;Nina;Wootsickle;2;0;3;B;1
+2022-08-25;B-Tier;DaveTestaSC Tournament uWu;Nina;Nicoract;2;1;3;B;1
+2022-08-25;B-Tier;DaveTestaSC Tournament uWu;Nina;HonMonO;2;0;3;B;1
+2022-08-25;B-Tier;DaveTestaSC Tournament uWu;Nina;wootsickle;2;0;3;B;1
+2022-08-22;Week. (B);ESL Open Cup #137 Americas;Nina;Gerald;0;2;3;B;0
+2022-08-22;Week. (B);ESL Open Cup #137 Americas;Nina;Rob;2;1;3;B;1
+2022-08-21;Week. (B);The Dan n' Dave Cash Grab #4;Nina;trigger;0;2;3;B;0
+2022-08-17;Week. (C);PSISTORM Open Cup #41;Nina;Future;1;2;3;C;0
+2022-08-15;Week. (B);ESL Open Cup #136 Americas;Nina;Nice;1;2;3;B;0
+2022-08-15;Week. (B);ESL Open Cup #136 Americas;Nina;Sepheron;2;1;3;B;1
+2022-08-14;Week. (B);Cock of the Walk #100;Nina;Rattata;1;2;3;B;0
+2022-08-14;Week. (B);Cock of the Walk #100;Nina;Krystianer;2;1;3;B;1
+2022-08-10;Week. (C);PSISTORM Open Cup #40;Nina;Rattata;0;1;1;C;0
+2022-08-10;Week. (C);PSISTORM Open Cup #40;Nina;Krystianer;0;2;3;C;0
+2022-08-10;Week. (C);PSISTORM Open Cup #40;Nina;LokiDog;2;0;3;C;1
+2022-08-10;Week. (C);PSISTORM Open Cup #40;Nina;TheZergLord;2;1;3;C;1
+2022-08-08;Week. (B);ESL Open Cup #135 Americas;Nina;Dark;1;2;3;B;0
+2022-08-08;Week. (B);ESL Open Cup #135 Americas;Nina;PiG;2;1;3;B;1
+2022-08-01;Week. (B);ESL Open Cup #134 Americas;Nina;Neeb;0;2;3;B;0
+2022-08-01;Week. (B);ESL Open Cup #134 Americas;Nina;Bioice;2;0;3;B;1
+2022-07-25;Week. (B);ESL Open Cup #133 Americas;Nina;Cure;1;2;3;B;0
+2022-07-25;Week. (B);ESL Open Cup #133 Americas;Nina;Kozan;2;0;3;B;1
+2022-07-20;Week. (C);PSISTORM Open Cup #37;Nina;Ziomek;0;1;1;C;0
+2022-07-20;Week. (C);PSISTORM Open Cup #37;Nina;Future;1;2;3;C;0
+2022-07-20;Week. (C);PSISTORM Open Cup #37;Nina;arrogfire;2;0;3;C;1
+2022-07-18;Week. (B);ESL Open Cup #132 Americas;Nina;SpeCial;0;2;3;B;0
+2022-07-18;Week. (B);ESL Open Cup #132 Americas;Nina;Neuro;2;0;3;B;1
+2022-07-13;Week. (C);PSISTORM Open Cup #36;Nina;trigger;0;2;3;C;0
+2022-07-09;B-Tier;LTK Power Rankings #4 - Playoffs;Nina;RockEr;0;2;3;B;0
+2022-07-09;B-Tier;LTK Power Rankings #4 - Playoffs;Nina;Reaper;0;2;3;B;0
+2022-07-09;B-Tier;LTK Power Rankings #4 - Group B;Nina;ScrubbleS;2;1;3;B;1
+2022-07-09;B-Tier;LTK Power Rankings #4 - Group B;Nina;Mechachu;2;0;3;B;1
+2022-07-09;B-Tier;LTK Power Rankings #4 - Group B;Nina;Flood;0;2;3;B;0
+2022-07-07;Showm. (B);SuperExtra SM #9 - Impromptu Bo7 Show Match;Nina;SpeCial;1;4;5;B;0
+2022-07-06;Week. (C);PSISTORM Open Cup #35;Nina;Krystianer;3;0;5;C;1
+2022-07-06;Week. (C);PSISTORM Open Cup #35;Nina;Future;2;1;3;C;1
+2022-07-04;Week. (B);ESL Open Cup #130 Americas;Nina;SKillous;0;2;3;B;0
+2022-07-04;Week. (B);ESL Open Cup #130 Americas;Nina;Gerald;2;0;3;B;1
+2022-07-05;Week. (B);ESL Open Cup #130 Americas;Nina;Flash;2;0;3;B;1
+2022-06-29;Week. (C);PSISTORM Open Cup #34;Nina;HonMonO;0;2;3;C;0
+2022-06-27;Week. (B);ESL Open Cup #129 Americas;Nina;GuMiho;1;2;3;B;0
+2022-06-27;Week. (B);ESL Open Cup #129 Americas;Nina;Ninja;2;0;3;B;1
+2022-06-14;Qual. (S);HSC XXI: North America Qualifier;Nina;trigger;0;2;3;S;0
+2022-06-14;Qual. (S);HSC XXI: North America Qualifier;Nina;Scarlett;2;0;3;S;1
+2022-06-15;Qual. (S);HSC XXI: North America Qualifier;Nina;Future;2;0;3;S;1
+2022-06-15;Qual. (S);HSC XXI: North America Qualifier;Nina;acheron;2;0;3;S;1
+2022-06-15;Week. (C);PSISTORM Open Cup #32;Nina;trigger;0;2;3;C;0
+2022-06-15;Week. (C);PSISTORM Open Cup #32;Nina;Maplez;2;1;3;C;1
+2022-06-14;Qual. (S);HSC XXI: North America Qualifier;Nina;Vindicta;0;2;3;S;0
+2022-06-13;Week. (B);ESL Open Cup #127 Americas;Nina;ByuN;0;2;3;B;0
+2022-06-13;Week. (B);ESL Open Cup #127 Americas;Nina;Maplez;2;0;3;B;1
+2022-06-12;Week. (B);The Chickenman Testa Open #22;Nina;Gerald;1;2;3;B;0
+2022-06-12;Week. (B);The Chickenman Testa Open #22;Nina;Exostriker;2;0;3;B;1
+2022-06-12;B-Tier;PiG's Low Gas;Nina;BattleB;0;2;3;B;0
+2022-06-11;B-Tier;PiG's Streamer;Nina;SpeCial;0;2;3;B;0
+2022-06-11;B-Tier;PiG's Streamer;Nina;fullheart;2;1;3;B;1
+2022-06-08;B-Tier;PiG's Random Race;Nina;MaxPax;1;2;3;B;0
+2022-06-08;B-Tier;PiG's Random Race;Nina;ForJumy;2;1;3;B;1
+2022-05-16;Week. (B);ESL Open Cup #123 Americas;Nina;herO;1;2;3;B;0
+2022-05-16;Week. (B);ESL Open Cup #123 Americas;Nina;Kozan;2;1;3;B;1
+2022-05-02;Week. (B);ESL Open Cup #121 Americas;Nina;Gerald;1;2;3;B;0
+2022-05-02;Week. (B);ESL Open Cup #121 Americas;Nina;SabeRLighT;2;0;3;B;1
+2022-04-25;Week. (B);ESL Open Cup #120 Americas;Nina;ByuN;0;2;3;B;0
+2022-04-25;Week. (B);ESL Open Cup #120 Americas;Nina;BadBorz;2;0;3;B;1
+2022-04-24;B-Tier;NA Invitational #2;Nina;DisK;1;2;3;B;0
+2022-04-24;B-Tier;NA Invitational #2;Nina;PattyMac;2;1;3;B;1
+2022-04-24;B-Tier;NA Invitational #2;Nina;Maplez;2;1;3;B;1
+2022-04-13;Week. (C);PSISTORM Open Cup #26;Nina;Nicoract;0;2;3;C;0
+2022-04-04;Week. (B);ESL Open Cup #117 Americas;Nina;GuMiho;0;2;3;B;0
+2022-04-04;Week. (B);ESL Open Cup #117 Americas;Nina;Bioice;2;1;3;B;1
+2022-04-04;Week. (B);ESL Open Cup #117 Americas;Nina;BadBorz;2;0;3;B;1
+2022-04-03;B-Tier;NA Invitational #1;Nina;trigger;3;2;5;B;1
+2022-04-03;B-Tier;NA Invitational #1;Nina;PattyMac;2;0;3;B;1
+2022-04-03;B-Tier;NA Invitational #1;Nina;Ruiyichi;2;1;3;B;1
+2022-04-03;B-Tier;NA Invitational #1;Nina;HuShang;2;0;3;B;1
+2025-09-09;Week. (B);PiGosaur Cup #48;Epic;Nina;2;0;3;B;1
+2025-08-23;Biw. (B);Korean Starcraft League #79;Classic;Nina;2;0;3;B;1
+2025-08-23;Biw. (B);Korean Starcraft League #79;triple;Nina;1;2;3;B;0
+2025-08-20;B-Tier;The 5.4k Patch Clash #2;Mixu;Nina;2;1;3;B;1
+2025-08-20;B-Tier;The 5.4k Patch Clash #2;INexorable;Nina;2;0;3;B;1
+2025-08-20;B-Tier;The 5.4k Patch Clash #2;iosup;Nina;0;2;3;B;0
+2025-08-20;B-Tier;The 5.4k Patch Clash #2;BerryCruncH;Nina;1;2;3;B;0
+2025-08-19;Week. (B);PiGosaur Cup #45;Creator;Nina;2;1;3;B;1
+2025-08-19;Week. (B);PiGosaur Cup #45;BerryCruncH;Nina;0;2;3;B;0
+2025-08-06;B-Tier;Kirktown Co-op 1v1 Bash #7;Greenert;Nina;2;0;3;B;1
+2024-05-03;A-Tier;ESL Spring: Americas - Playoffs;Astrea;Nina;3;1;5;A;1
+2024-05-02;A-Tier;ESL Spring: Americas - Playoffs;Scarlett;Nina;3;0;5;A;1
+2024-04-21;A-Tier;ESL Spring: Americas - R 5;SpeCial;Nina;1;2;3;A;0
+2024-04-20;A-Tier;ESL Spring: Americas - R 4;Epic;Nina;1;2;3;A;0
+2024-04-19;A-Tier;ESL Spring: Americas - R 3;Future;Nina;2;0;3;A;1
+2024-04-14;A-Tier;ESL Spring: Americas - R 2;Astrea;Nina;2;0;3;A;1
+2024-04-13;A-Tier;ESL Spring: Americas - R 1;eGGz;Nina;0;2;3;A;0
+2024-04-08;Qual. (A);ESL Spring: Americas Qualifiers - Bracket;FoxeR;Nina;0;3;5;A;0
+2024-04-07;Qual. (A);ESL Spring: Americas Qualifiers - Bracket;PiLiPiLi;Nina;0;2;3;A;0
+2024-03-03;Showm. (C);Kashim Friendly Showmatches #4;Future;Nina;3;2;5;C;1
+2024-02-29;Showm. (B);Ursa Brawl #2 - Fights;uThermal;Nina;3;0;5;B;1
+2023-11-19;Biw. (C);Tenacious Turtle Tussle #13;Vindicta;Nina;3;0;5;C;1
+2023-11-19;Biw. (C);Tenacious Turtle Tussle #13;Sepheron;Nina;0;2;3;C;0
+2023-11-19;Biw. (C);Tenacious Turtle Tussle #13;SpiffyBee;Nina;1;2;3;C;0
+2023-11-07;A-Tier;ESL Winter: Americas - R 5;Kelazhur;Nina;2;0;3;A;1
+2023-11-03;A-Tier;ESL Winter: Americas - R 4;Dolan;Nina;1;2;3;A;0
+2023-11-02;A-Tier;ESL Winter: Americas - R 3;trigger;Nina;2;0;3;A;1
+2023-10-30;Week. (B);ESL Open Cup #199 Americas;Meowerdoom;Nina;2;0;3;B;1
+2023-10-29;A-Tier;ESL Winter: Americas - R 2;Ukko;Nina;0;2;3;A;0
+2023-10-26;A-Tier;ESL Winter: Americas - R 1;Future;Nina;2;1;3;A;1
+2023-10-23;Week. (B);ESL Open Cup #198 Americas;Wayne;Nina;2;0;3;B;1
+2023-10-23;Week. (B);ESL Open Cup #198 Americas;Terxel;Nina;0;2;3;B;0
+2023-10-16;Week. (B);ESL Open Cup #197 Americas;MaxPax;Nina;2;0;3;B;1
+2023-10-16;Week. (B);ESL Open Cup #197 Americas;UFO;Nina;0;2;3;B;0
+2023-10-16;Week. (B);ESL Open Cup #197 Americas;Steadfast;Nina;0;2;3;B;0
+2023-10-15;Qual. (A);ESL Winter: Americas Qualifiers - Bracket;Erik;Nina;0;3;5;A;0
+2023-10-15;Qual. (A);ESL Winter: Americas Qualifiers - Bracket;Ryu;Nina;0;2;3;A;0
+2023-10-09;Week. (B);ESL Open Cup #196 Americas;Clem;Nina;2;0;3;B;1
+2023-10-09;Week. (B);ESL Open Cup #196 Americas;Rare;Nina;0;2;3;B;0
+2023-09-25;Week. (B);ESL Open Cup #194 Americas;ByuN;Nina;2;0;3;B;1
+2023-09-25;Week. (B);ESL Open Cup #194 Americas;DIMAGA;Nina;1;2;3;B;0
+2023-09-18;Week. (B);ESL Open Cup #193 Americas;MaxPax;Nina;2;0;3;B;1
+2023-09-18;Week. (B);ESL Open Cup #193 Americas;Hupsaiya;Nina;0;2;3;B;0
+2023-09-04;Week. (B);ESL Open Cup #191 Americas;Solar;Nina;2;1;3;B;1
+2023-09-04;Week. (B);ESL Open Cup #191 Americas;Rostok;Nina;1;2;3;B;0
+2023-09-04;Week. (B);ESL Open Cup #191 Americas;Kyto;Nina;0;2;3;B;0
+2023-08-28;Week. (B);ESL Open Cup #190 Americas;Creator;Nina;2;1;3;B;1
+2023-08-28;Week. (B);ESL Open Cup #190 Americas;Shiny;Nina;0;2;3;B;0
+2023-06-26;Week. (B);ESL Open Cup #181 Americas;Clem;Nina;2;0;3;B;1
+2023-06-26;Week. (B);ESL Open Cup #181 Americas;Agressif;Nina;0;2;3;B;0
+2023-05-29;Week. (B);ESL Open Cup #177 Americas;PsiOniC;Nina;2;1;3;B;1
+2023-05-13;A-Tier;ESL Summer: Americas - R 4;eGGz;Nina;2;1;3;A;1
+2023-05-10;A-Tier;ESL Summer: Americas - R 3;Ukko;Nina;0;2;3;A;0
+2023-05-05;A-Tier;ESL Summer: Americas - R 2;MaSa;Nina;2;1;3;A;1
+2023-05-03;A-Tier;ESL Summer: Americas - R 1;Kelazhur;Nina;2;0;3;A;1
+2023-04-10;Qual. (A);ESL Summer: Americas Qualifiers - Bracket;MCanning;Nina;2;3;5;A;0
+2023-04-10;Qual. (A);ESL Summer: Americas Qualifiers - Bracket;FoxeR;Nina;0;2;3;A;0
+2023-03-20;B-Tier;LTK Power Rankings #5 - Playoffs;XingMing;Nina;0;3;5;B;0
+2023-03-19;B-Tier;LTK Power Rankings #5 - Playoffs;Sepheron;Nina;0;3;5;B;0
+2023-02-20;Week. (B);ESL Open Cup #163 Americas;MaxPax;Nina;2;0;3;B;1
+2023-02-20;Week. (B);ESL Open Cup #163 Americas;Holden;Nina;0;2;3;B;0
+2023-01-30;Week. (B);ESL Open Cup #160 Americas;Jinioh;Nina;2;0;3;B;1
+2023-01-30;Week. (B);ESL Open Cup #160 Americas;RuFF;Nina;0;2;3;B;0
+2023-01-26;B-Tier;Dave N Scttooo's SC2 Tournament #1;RekcOr;Nina;2;0;3;B;1
+2023-01-26;B-Tier;Dave N Scttooo's SC2 Tournament #1;Demi;Nina;1;2;3;B;0
+2023-01-23;Week. (B);ESL Open Cup #159 Americas;Dark;Nina;2;0;3;B;1
+2023-01-23;Week. (B);ESL Open Cup #159 Americas;trigger;Nina;1;2;3;B;0
+2023-01-23;Week. (B);ESL Open Cup #159 Americas;Holden;Nina;0;2;3;B;0
+2023-01-20;Showm. (B);Basilisk Big Brain Bouts #14 - Bouts;Rattata;Nina;3;2;5;B;1
+2023-01-13;Week. (B);The Dan and Vladiment #1;HonMonO;Nina;2;1;3;B;1
+2023-01-13;Week. (B);The Dan and Vladiment #1;Finesseviii;Nina;1;2;3;B;0
+2022-12-16;S-Tier;HSC XXII - Round 7;SKillous;Nina;2;0;3;S;1
+2022-12-16;S-Tier;HSC XXII - Round 6;Kelazhur;Nina;2;0;3;S;1
+2022-12-16;S-Tier;HSC XXII - Round 4;Cure;Nina;1;1;3;S;0
+2022-12-16;S-Tier;HSC XXII - Round 5;Astrea;Nina;2;0;3;S;1
+2022-12-16;S-Tier;HSC XXII - Round 3;Zoun;Nina;2;0;3;S;1
+2022-12-16;S-Tier;HSC XXII - Round 2;HeRoMaRinE;Nina;2;0;3;S;1
+2022-12-16;S-Tier;HSC XXII - Round 1;Rex;Nina;0;2;3;S;0
+2022-11-28;Week. (B);ESL Open Cup #151 Americas;ByuN;Nina;2;0;3;B;1
+2022-11-28;Week. (B);ESL Open Cup #151 Americas;uThermal;Nina;1;2;3;B;0
+2022-11-28;Week. (B);ESL Open Cup #151 Americas;Eggnog;Nina;0;2;3;B;0
+2022-11-26;B-Tier;LTK Power Rankings #5 -;Mafia;Nina;0;2;3;B;0
+2022-11-26;B-Tier;LTK Power Rankings #5 -;OldManSlum;Nina;0;1;1;B;0
+2022-11-26;B-Tier;LTK Power Rankings #5 -;Antmantis;Nina;0;1;1;B;0
+2022-11-26;B-Tier;LTK Power Rankings #5 -;tavo;Nina;0;2;3;B;0
+2022-11-26;B-Tier;LTK Power Rankings #5 -;Walujie;Nina;0;2;3;B;0
+2022-11-26;B-Tier;LTK Power Rankings #5 -;Faesbuca;Nina;0;2;3;B;0
+2022-11-26;B-Tier;LTK Power Rankings #5 -;ChewChilla;Nina;0;1;1;B;0
+2022-11-26;B-Tier;LTK Power Rankings #5 -;EON;Nina;0;2;3;B;0
+2022-11-26;B-Tier;LTK Power Rankings #5 - Playoffs;XingMing;Nina;3;1;5;B;1
+2022-11-26;B-Tier;LTK Power Rankings #5 - Playoffs;tavo;Nina;1;2;3;B;0
+2022-11-26;Qual. (S);HSC XXII: North America;Scarlett;Nina;2;0;3;S;1
+2022-11-26;B-Tier;LTK Power Rankings #5 - Playoffs;Skye;Nina;0;2;3;B;0
+2022-11-26;Qual. (S);HSC XXII: North America;Silky;Nina;0;2;3;S;0
+2022-11-26;Qual. (S);HSC XXII: North America;Future;Nina;2;1;3;S;1
+2022-11-26;B-Tier;LTK Power Rankings #5 - Playoffs;Topspin;Nina;0;2;3;B;0
+2022-11-26;Qual. (S);HSC XXII: North America;Hope;Nina;0;2;3;S;0
+2022-11-18;S-Tier;DH Masters Atlanta -;Has;Nina;2;1;3;S;1
+2022-11-18;S-Tier;DH Masters Atlanta -;PattyMac;Nina;0;2;3;S;0
+2022-11-18;S-Tier;DH Masters Atlanta - Group C;Lambo;Nina;2;0;3;S;1
+2022-11-18;S-Tier;DH Masters Atlanta - Group C;binski;Nina;0;2;3;S;0
+2022-11-18;S-Tier;DH Masters Atlanta - Group C;Lambo;Nina;2;0;3;S;1
+2022-11-18;S-Tier;DH Masters Atlanta - Group D;Maplez;Nina;1;2;3;S;0
+2022-11-18;S-Tier;DH Masters Atlanta - Group D;Bunny;Nina;2;0;3;S;1
+2022-11-18;S-Tier;DH Masters Atlanta - Group D;Maplez;Nina;0;2;3;S;0
+2022-11-14;Week. (B);ESL Open Cup #149 Americas;Dolan;Nina;2;0;3;B;1
+2022-11-14;Week. (B);ESL Open Cup #149 Americas;ProbeiusCorp;Nina;0;2;3;B;0
+2022-11-08;Biw. (B);Dam Training #2;Epic;Nina;5;0;7;B;1
+2022-11-08;Biw. (B);Dam Training #2;Arrogfire;Nina;3;2;5;B;1
+2022-11-07;Week. (B);ESL Open Cup #148 Americas;Solar;Nina;2;0;3;B;1
+2022-11-07;Week. (B);ESL Open Cup #148 Americas;PiG;Nina;0;2;3;B;0
+2022-11-02;Mon. (B);PSISTORM Open Cup #49;SKillous;Nina;2;1;3;B;1
+2022-10-31;Week. (B);ESL Open Cup #147 Americas;GuMiho;Nina;2;0;3;B;1
+2022-10-31;Week. (B);ESL Open Cup #147 Americas;AppleJuice;Nina;0;2;3;B;0
+2022-10-27;Week. (C);PSISTORM Open Cup #48;PhleBuster;Nina;0;1;1;C;0
+2022-10-26;Week. (C);PSISTORM Open Cup #48;Gerald;Nina;2;0;3;C;1
+2022-10-26;Week. (C);PSISTORM Open Cup #48;Poryphorion;Nina;0;2;3;C;0
+2022-10-19;Week. (C);PSISTORM Open Cup #47;trigger;Nina;3;0;5;C;1
+2022-10-19;Week. (C);PSISTORM Open Cup #47;Gerald;Nina;0;2;3;C;0
+2022-10-19;Week. (C);PSISTORM Open Cup #47;PattyMac;Nina;0;2;3;C;0
+2022-10-17;Week. (B);ESL Open Cup #145 Americas;trigger;Nina;2;1;3;B;1
+2022-10-14;A-Tier;DHM Atlanta: NA - Playoffs;trigger;Nina;3;2;5;A;1
+2022-10-13;A-Tier;DHM Atlanta: NA - Playoffs;Namshar;Nina;0;3;5;A;0
+2022-10-09;A-Tier;DHM Atlanta: NA - Group B - Day 6;PureLegacy;Nina;0;2;3;A;0
+2022-10-08;A-Tier;DHM Atlanta: NA - Group B - Day 5;Astrea;Nina;2;0;3;A;1
+2022-10-07;A-Tier;DHM Atlanta: NA - Group B - Day 4;PattyMac;Nina;1;2;3;A;0
+2022-10-06;A-Tier;DHM Atlanta: NA - Group B - Day 3;Future;Nina;2;1;3;A;1
+2022-10-05;A-Tier;DHM Atlanta: NA - Group B - Day 2;DisK;Nina;1;2;3;A;0
+2022-10-04;A-Tier;DHM Atlanta: NA - Group B - Day 1;Scarlett;Nina;2;1;3;A;1
+2022-10-04;A-Tier;DHM Atlanta: NA - Group B - Day 1;Reaper;Nina;0;2;3;A;0
+2022-09-26;Week. (B);ESL Open Cup #142 Americas;trigger;Nina;2;0;3;B;1
+2022-09-26;Week. (B);ESL Open Cup #142 Americas;UncLeToBy;Nina;0;2;3;B;0
+2022-09-19;Week. (B);ESL Open Cup #141 Americas;Vindicta;Nina;2;1;3;B;1
+2022-09-19;Week. (B);ESL Open Cup #141 Americas;Dro;Nina;0;2;3;B;0
+2022-09-18;Qual. (A);DHM Atlanta: NA Qualifiers - Bracket;PattyMac;Nina;2;3;5;A;0
+2022-09-18;Qual. (A);DHM Atlanta: NA Qualifiers - Bracket;MCanning;Nina;0;2;3;A;0
+2022-09-15;Qual. (A);DHM Atlanta: NA Qualifiers - Bracket;TLO;Nina;2;3;5;A;0
+2022-09-15;Qual. (A);DHM Atlanta: NA Qualifiers - Bracket;Rob;Nina;0;2;3;A;0
+2022-09-13;Qual. (A);DHM Atlanta: NA Qualifiers - Bracket;Rob;Nina;2;0;3;A;1
+2022-09-12;Week. (B);ESL Open Cup #140 Americas;Astrea;Nina;2;0;3;B;1
+2022-09-12;Week. (B);ESL Open Cup #140 Americas;Invux;Nina;0;2;3;B;0
+2022-09-11;Showm. (B);BeoBash #10;trigger;Nina;7;2;9;B;1
+2022-09-07;Week. (C);PSISTORM Open Cup #44;trigger;Nina;2;0;3;C;1
+2022-09-05;Week. (B);ESL Open Cup #139 Americas;NightMare;Nina;2;1;3;B;1
+2022-09-05;Week. (B);ESL Open Cup #139 Americas;PiG;Nina;0;2;3;B;0
+2022-09-05;Week. (B);ESL Open Cup #139 Americas;TheZergLord;Nina;0;2;3;B;0
+2022-09-04;B-Tier;ATCRacer Open Tournament;Reaper;Nina;1;0;1;B;1
+2022-09-04;B-Tier;ATCRacer Open Tournament;trigger;Nina;2;0;3;B;1
+2022-09-04;B-Tier;ATCRacer Open Tournament;Maplez;Nina;0;2;3;B;0
+2022-09-04;B-Tier;ATCRacer Open Tournament;Eurystheus;Nina;0;2;3;B;0
+2022-08-31;Week. (C);PSISTORM Open Cup #43;PAPI;Nina;2;0;3;C;1
+2022-08-29;Week. (B);ESL Open Cup #138 Americas;MaxPax;Nina;2;0;3;B;1
+2022-08-29;Week. (B);ESL Open Cup #138 Americas;PiG;Nina;0;2;3;B;0
+2022-08-29;Week. (B);ESL Open Cup #138 Americas;ChillBill;Nina;0;2;3;B;0
+2022-08-27;Week. (B);DaveTestaSC's Friday Night Fights #1;PAPI;Nina;0;2;3;B;0
+2022-08-26;Showm. (C);BeoBash #8;Future;Nina;3;5;7;C;0
+2022-08-26;B-Tier;DaveTestaSC Tournament uWu;trigger;Nina;2;3;5;B;0
+2022-08-26;Week. (B);DaveTestaSC's Friday Night Fights #1;Ziomek;Nina;0;2;3;B;0
+2022-08-26;Week. (B);DaveTestaSC's Friday Night Fights #1;acheron;Nina;0;2;3;B;0
+2022-08-26;Week. (B);DaveTestaSC's Friday Night Fights #1;Wootsickle;Nina;0;2;3;B;0
+2022-08-25;B-Tier;DaveTestaSC Tournament uWu;Nicoract;Nina;1;2;3;B;0
+2022-08-25;B-Tier;DaveTestaSC Tournament uWu;HonMonO;Nina;0;2;3;B;0
+2022-08-25;B-Tier;DaveTestaSC Tournament uWu;wootsickle;Nina;0;2;3;B;0
+2022-08-22;Week. (B);ESL Open Cup #137 Americas;Gerald;Nina;2;0;3;B;1
+2022-08-22;Week. (B);ESL Open Cup #137 Americas;Rob;Nina;1;2;3;B;0
+2022-08-21;Week. (B);The Dan n' Dave Cash Grab #4;trigger;Nina;2;0;3;B;1
+2022-08-17;Week. (C);PSISTORM Open Cup #41;Future;Nina;2;1;3;C;1
+2022-08-15;Week. (B);ESL Open Cup #136 Americas;Nice;Nina;2;1;3;B;1
+2022-08-15;Week. (B);ESL Open Cup #136 Americas;Sepheron;Nina;1;2;3;B;0
+2022-08-14;Week. (B);Cock of the Walk #100;Rattata;Nina;2;1;3;B;1
+2022-08-14;Week. (B);Cock of the Walk #100;Krystianer;Nina;1;2;3;B;0
+2022-08-10;Week. (C);PSISTORM Open Cup #40;Rattata;Nina;1;0;1;C;1
+2022-08-10;Week. (C);PSISTORM Open Cup #40;Krystianer;Nina;2;0;3;C;1
+2022-08-10;Week. (C);PSISTORM Open Cup #40;LokiDog;Nina;0;2;3;C;0
+2022-08-10;Week. (C);PSISTORM Open Cup #40;TheZergLord;Nina;1;2;3;C;0
+2022-08-08;Week. (B);ESL Open Cup #135 Americas;Dark;Nina;2;1;3;B;1
+2022-08-08;Week. (B);ESL Open Cup #135 Americas;PiG;Nina;1;2;3;B;0
+2022-08-01;Week. (B);ESL Open Cup #134 Americas;Neeb;Nina;2;0;3;B;1
+2022-08-01;Week. (B);ESL Open Cup #134 Americas;Bioice;Nina;0;2;3;B;0
+2022-07-25;Week. (B);ESL Open Cup #133 Americas;Cure;Nina;2;1;3;B;1
+2022-07-25;Week. (B);ESL Open Cup #133 Americas;Kozan;Nina;0;2;3;B;0
+2022-07-20;Week. (C);PSISTORM Open Cup #37;Ziomek;Nina;1;0;1;C;1
+2022-07-20;Week. (C);PSISTORM Open Cup #37;Future;Nina;2;1;3;C;1
+2022-07-20;Week. (C);PSISTORM Open Cup #37;arrogfire;Nina;0;2;3;C;0
+2022-07-18;Week. (B);ESL Open Cup #132 Americas;SpeCial;Nina;2;0;3;B;1
+2022-07-18;Week. (B);ESL Open Cup #132 Americas;Neuro;Nina;0;2;3;B;0
+2022-07-13;Week. (C);PSISTORM Open Cup #36;trigger;Nina;2;0;3;C;1
+2022-07-09;B-Tier;LTK Power Rankings #4 - Playoffs;RockEr;Nina;2;0;3;B;1
+2022-07-09;B-Tier;LTK Power Rankings #4 - Playoffs;Reaper;Nina;2;0;3;B;1
+2022-07-09;B-Tier;LTK Power Rankings #4 - Group B;ScrubbleS;Nina;1;2;3;B;0
+2022-07-09;B-Tier;LTK Power Rankings #4 - Group B;Mechachu;Nina;0;2;3;B;0
+2022-07-09;B-Tier;LTK Power Rankings #4 - Group B;Flood;Nina;2;0;3;B;1
+2022-07-07;Showm. (B);SuperExtra SM #9 - Impromptu Bo7 Show Match;SpeCial;Nina;4;1;5;B;1
+2022-07-06;Week. (C);PSISTORM Open Cup #35;Krystianer;Nina;0;3;5;C;0
+2022-07-06;Week. (C);PSISTORM Open Cup #35;Future;Nina;1;2;3;C;0
+2022-07-04;Week. (B);ESL Open Cup #130 Americas;SKillous;Nina;2;0;3;B;1
+2022-07-04;Week. (B);ESL Open Cup #130 Americas;Gerald;Nina;0;2;3;B;0
+2022-07-05;Week. (B);ESL Open Cup #130 Americas;Flash;Nina;0;2;3;B;0
+2022-06-29;Week. (C);PSISTORM Open Cup #34;HonMonO;Nina;2;0;3;C;1
+2022-06-27;Week. (B);ESL Open Cup #129 Americas;GuMiho;Nina;2;1;3;B;1
+2022-06-27;Week. (B);ESL Open Cup #129 Americas;Ninja;Nina;0;2;3;B;0
+2022-06-14;Qual. (S);HSC XXI: North America Qualifier;trigger;Nina;2;0;3;S;1
+2022-06-14;Qual. (S);HSC XXI: North America Qualifier;Scarlett;Nina;0;2;3;S;0
+2022-06-15;Qual. (S);HSC XXI: North America Qualifier;Future;Nina;0;2;3;S;0
+2022-06-15;Qual. (S);HSC XXI: North America Qualifier;acheron;Nina;0;2;3;S;0
+2022-06-15;Week. (C);PSISTORM Open Cup #32;trigger;Nina;2;0;3;C;1
+2022-06-15;Week. (C);PSISTORM Open Cup #32;Maplez;Nina;1;2;3;C;0
+2022-06-14;Qual. (S);HSC XXI: North America Qualifier;Vindicta;Nina;2;0;3;S;1
+2022-06-13;Week. (B);ESL Open Cup #127 Americas;ByuN;Nina;2;0;3;B;1
+2022-06-13;Week. (B);ESL Open Cup #127 Americas;Maplez;Nina;0;2;3;B;0
+2022-06-12;Week. (B);The Chickenman Testa Open #22;Gerald;Nina;2;1;3;B;1
+2022-06-12;Week. (B);The Chickenman Testa Open #22;Exostriker;Nina;0;2;3;B;0
+2022-06-12;B-Tier;PiG's Low Gas;BattleB;Nina;2;0;3;B;1
+2022-06-11;B-Tier;PiG's Streamer;SpeCial;Nina;2;0;3;B;1
+2022-06-11;B-Tier;PiG's Streamer;fullheart;Nina;1;2;3;B;0
+2022-06-08;B-Tier;PiG's Random Race;MaxPax;Nina;2;1;3;B;1
+2022-06-08;B-Tier;PiG's Random Race;ForJumy;Nina;1;2;3;B;0
+2022-05-16;Week. (B);ESL Open Cup #123 Americas;herO;Nina;2;1;3;B;1
+2022-05-16;Week. (B);ESL Open Cup #123 Americas;Kozan;Nina;1;2;3;B;0
+2022-05-02;Week. (B);ESL Open Cup #121 Americas;Gerald;Nina;2;1;3;B;1
+2022-05-02;Week. (B);ESL Open Cup #121 Americas;SabeRLighT;Nina;0;2;3;B;0
+2022-04-25;Week. (B);ESL Open Cup #120 Americas;ByuN;Nina;2;0;3;B;1
+2022-04-25;Week. (B);ESL Open Cup #120 Americas;BadBorz;Nina;0;2;3;B;0
+2022-04-24;B-Tier;NA Invitational #2;DisK;Nina;2;1;3;B;1
+2022-04-24;B-Tier;NA Invitational #2;PattyMac;Nina;1;2;3;B;0
+2022-04-24;B-Tier;NA Invitational #2;Maplez;Nina;1;2;3;B;0
+2022-04-13;Week. (C);PSISTORM Open Cup #26;Nicoract;Nina;2;0;3;C;1
+2022-04-04;Week. (B);ESL Open Cup #117 Americas;GuMiho;Nina;2;0;3;B;1
+2022-04-04;Week. (B);ESL Open Cup #117 Americas;Bioice;Nina;1;2;3;B;0
+2022-04-04;Week. (B);ESL Open Cup #117 Americas;BadBorz;Nina;0;2;3;B;0
+2022-04-03;B-Tier;NA Invitational #1;trigger;Nina;2;3;5;B;0
+2022-04-03;B-Tier;NA Invitational #1;PattyMac;Nina;0;2;3;B;0
+2022-04-03;B-Tier;NA Invitational #1;Ruiyichi;Nina;1;2;3;B;0
+2022-04-03;B-Tier;NA Invitational #1;HuShang;Nina;0;2;3;B;0
