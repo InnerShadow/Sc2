@@ -13,6 +13,7 @@ from src.config import BASE_URL, GAME, HEADERS, REPLACE_WINS_DICT
 def get_matcher_per_player(player_name : str):
     player_url = f"{BASE_URL}/{GAME}/{player_name}/Matches"
     all_matches = get_tables_from_url(player_url)
+    print(f'load: {player_url}', f'get : {len(pd.DataFrame(all_matches))}')
     time.sleep(np.random.uniform(30, 60))
 
     resp = requests.get(player_url, headers=HEADERS)
@@ -30,9 +31,24 @@ def get_matcher_per_player(player_name : str):
     # end for
 
     for link in season_links:
+        should_skip = (
+            'Log' in link or 
+            'action' in link or
+            'RecentChangesLinked' in link or 
+            'GlobalWhatLinksHere' in link or
+            'Category:Player_Matches_pages' in link or
+            ('index.php' in link and 'oldid' not in link)
+        )
         try:
-            all_matches.extend(get_tables_from_url(link))
-            time.sleep(150 + np.random.uniform(20, 60))
+            if should_skip:
+                print(f'skip : {link}')
+                continue
+            else:
+                add_data = get_tables_from_url(link)
+                print(f'load: {player_url}', f'get : {len(pd.DataFrame(add_data))}')
+                all_matches.extend(add_data)
+                time.sleep(150 + np.random.uniform(20, 60))
+            # end if
         except Exception as e:
             print("Error:", e)
         # end try

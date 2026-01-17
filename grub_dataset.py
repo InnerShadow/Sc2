@@ -6,6 +6,6 @@ warnings.filterwarnings("ignore")
 
 if __name__ == '__main__':
     with Pool(processes = 8) as pool:
-        results = pool.map(load_data, [0, -1, 10, 25, -10, -25, 50, -50])
+        results = pool.map(load_data, [0, -1, 5, 10, -5, -10, 15, -15])
     # end with
 # end if

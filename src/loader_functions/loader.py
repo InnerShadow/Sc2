@@ -1,6 +1,7 @@
 import pandas as pd
 import time
 import numpy as np
+import os
 
 from src.loader_functions.get_matcher_per_player import get_matcher_per_player
 from src.loader_functions.get_player_race import get_player_race
@@ -13,7 +14,8 @@ def _load_players() -> pd.DataFrame:
 # end def
 
 def load_data(idx : int):
-    time.sleep(np.random.uniform(30, 80))
+    np.random.seed(os.getpid())
+    time.sleep(np.random.uniform(10, 150))
     while True:
         df_players = _load_players()
         df_players_filtered = df_players[df_players['is_loaded'] != 1].reset_index(drop = True)
