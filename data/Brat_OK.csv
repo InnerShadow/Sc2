@@ -1,0 +1,365 @@
+date;match;tournament;player;oponent;player_wins;oponent_wins;best_of;tournament_tier;target
+2025-08-23;B-Tier;Road to Moscow 3;Brat_OK;Fallenger;0;1;1;B;0
+2025-08-23;B-Tier;Road to Moscow 3;Brat_OK;Wayne;1;2;3;B;0
+2025-08-16;A-Tier;SEL Season 2 Championship - Group A;Brat_OK;MagicTurtle;1;2;3;A;0
+2025-08-16;A-Tier;SEL Season 2 Championship - Group A;Brat_OK;threepoint;1;2;3;A;0
+2025-08-09;Biw. (B);StarCraft Evolution League #15;Brat_OK;TaeJa;0;2;3;B;0
+2025-08-09;Biw. (B);StarCraft Evolution League #15;Brat_OK;HonMonO;2;0;3;B;1
+2025-07-26;Qual. (B);Road to Moscow 3: Qualifiers - Bracket;Brat_OK;EastToss;2;0;3;B;1
+2025-07-26;Qual. (B);Road to Moscow 3: Qualifiers - Bracket;Brat_OK;Astra;1;0;1;B;1
+2025-07-26;Qual. (B);Road to Moscow 3: Qualifiers - Bracket;Brat_OK;bogdanios;1;0;1;B;1
+2025-07-26;Qual. (B);Road to Moscow 3: Qualifiers - Bracket;Brat_OK;Wayne;1;2;3;B;0
+2025-06-21;Biw. (B);StarCraft Evolution League #14;Brat_OK;threepoint;2;3;5;B;0
+2025-06-21;Biw. (B);StarCraft Evolution League #14;Brat_OK;prome;3;2;5;B;1
+2025-06-21;Biw. (B);StarCraft Evolution League #14;Brat_OK;LunaSea;2;0;3;B;1
+2025-06-21;Biw. (B);StarCraft Evolution League #14;Brat_OK;MANGRUSL;2;1;3;B;1
+2025-06-07;Biw. (B);StarCraft Evolution League #13;Brat_OK;threepoint;0;2;3;B;0
+2025-06-07;Biw. (B);StarCraft Evolution League #13;Brat_OK;ZaRDieNT;2;0;3;B;1
+2025-05-24;Biw. (B);StarCraft Evolution League #12;Brat_OK;MANGRUSL;2;0;3;B;1
+2025-04-26;Biw. (B);StarCraft Evolution League #10;Brat_OK;TOP;0;2;3;B;0
+2025-04-26;Biw. (B);StarCraft Evolution League #10;Brat_OK;Shameless;1;0;1;B;1
+2025-04-23;Week. (B);Kung Fu Cup 2025 Weekly #9: SC:EVO;Brat_OK;Firefly;0;2;3;B;0
+2025-04-09;B-Tier;Kung Fu Cup 2025 Weekly #7: SC:EVO;Brat_OK;threepoint;1;2;3;B;0
+2025-04-09;B-Tier;Kung Fu Cup 2025 Weekly #7: SC:EVO;Brat_OK;YoungYakov;2;0;3;B;1
+2025-04-05;Biw. (B);StarCraft Evolution League #9;Brat_OK;SHIN;0;2;3;B;0
+2025-04-05;Biw. (B);StarCraft Evolution League #9;Brat_OK;HonMonO;2;0;3;B;1
+2025-03-26;B-Tier;Kung Fu Cup 2025 Weekly #5: SC:EVO;Brat_OK;Dark;0;2;3;B;0
+2025-03-19;B-Tier;Kung Fu Cup 2025 Weekly #4: SC:EVO;Brat_OK;Spirit;0;2;3;B;0
+2025-03-19;B-Tier;Kung Fu Cup 2025 Weekly #4: SC:EVO;Brat_OK;ByuN;2;0;3;B;1
+2025-03-01;Mon. (B);StarCraft Evolution League #8;Brat_OK;SKillous;1;2;3;B;0
+2025-03-01;Mon. (B);StarCraft Evolution League #8;Brat_OK;QuanTa;2;1;3;B;1
+2025-03-01;Mon. (B);StarCraft Evolution League #8;Brat_OK;Wayne;0;2;3;B;0
+2025-03-01;Mon. (B);StarCraft Evolution League #8;Brat_OK;threepoint;2;0;3;B;1
+2025-03-01;Mon. (B);StarCraft Evolution League #8;Brat_OK;Michnek;2;0;3;B;1
+2025-01-20;Week. (B);Monday Night Weeklies #1;Brat_OK;Fjant;0;1;1;B;0
+2025-01-20;Week. (B);Monday Night Weeklies #1;Brat_OK;Gerald;0;2;3;B;0
+2024-12-31;B-Tier;New Year Cup 2025;Brat_OK;Gerald;0;2;3;B;0
+2024-12-31;B-Tier;New Year Cup 2025;Brat_OK;UltraMarine;2;1;3;B;1
+2023-04-10;Week. (B);ESL Open Cup #170 Europe;Brat_OK;SKillous;0;2;3;B;0
+2023-04-06;Week. (C);PassionCraft Thursday Showdown #33;Brat_OK;DIMAGA;0;2;3;C;0
+2023-04-03;Week. (B);ESL Open Cup #169 Europe;Brat_OK;Harstem;0;2;3;B;0
+2023-03-27;Week. (B);ESL Open Cup #168 Europe;Brat_OK;trigger;0;2;3;B;0
+2023-03-23;Week. (C);PassionCraft Thursday Showdown #31;Brat_OK;Ziomek;0;2;3;C;0
+2023-03-16;Week. (C);PassionCraft Thursday Showdown #30;Brat_OK;Nikich;1;2;3;C;0
+2023-03-13;Week. (B);ESL Open Cup #166 Europe;Brat_OK;trigger;0;2;3;B;0
+2023-03-11;A-Tier;#PassionCraft Knockout - GS Group B;Brat_OK;Kas;1;2;3;A;0
+2023-03-11;A-Tier;#PassionCraft Knockout - GS Group B;Brat_OK;Nice;0;2;3;A;0
+2023-03-06;Week. (B);ESL Open Cup #165 Europe;Brat_OK;Spirit;0;2;3;B;0
+2023-03-05;Mon. (B);3D!King of the Hill #2;Brat_OK;PPower;0;1;1;B;0
+2023-03-02;Week. (C);PassionCraft Thursday Showdown #28;Brat_OK;MindelVK;0;2;3;C;0
+2023-03-02;Week. (C);PassionCraft Thursday Showdown #28;Brat_OK;NightPhoenix;2;1;3;C;1
+2023-03-02;Week. (C);PassionCraft Thursday Showdown #28;Brat_OK;Bioice;2;0;3;C;1
+2023-02-27;Week. (B);ESL Open Cup #164 Europe;Brat_OK;Clem;0;2;3;B;0
+2023-02-27;Week. (B);ESL Open Cup #164 Europe;Brat_OK;Order;2;0;3;B;1
+2023-02-27;Week. (B);ESL Open Cup #164 Europe;Brat_OK;ShaDoWn;2;1;3;B;1
+2023-02-23;Week. (C);PassionCraft Thursday Showdown #27;Brat_OK;Gerald;2;1;3;C;1
+2023-02-23;Week. (C);PassionCraft Thursday Showdown #27;Brat_OK;YoungYakov;2;1;3;C;1
+2023-02-23;Week. (C);PassionCraft Thursday Showdown #27;Brat_OK;Krystianer;2;1;3;C;1
+2023-02-23;Week. (C);PassionCraft Thursday Showdown #27;Brat_OK;HHQuanTa;2;0;3;C;1
+2023-02-20;Week. (B);ESL Open Cup #163 Europe;Brat_OK;Ruiyichi;0;2;3;B;0
+2023-02-18;Week. (C);CSO Cup #55;Brat_OK;NightPhoenix;1;3;5;C;0
+2023-02-18;Week. (C);CSO Cup #55;Brat_OK;Trifax;2;1;3;C;1
+2023-02-18;Week. (C);CSO Cup #55;Brat_OK;Daryl;2;0;3;C;1
+2023-02-13;Week. (B);ESL Open Cup #162 Europe;Brat_OK;MaxPax;0;2;3;B;0
+2023-02-13;Week. (B);ESL Open Cup #162 Europe;Brat_OK;uThermal;2;0;3;B;1
+2023-02-13;Week. (B);ESL Open Cup #162 Europe;Brat_OK;Zargrash;2;1;3;B;1
+2023-02-06;Week. (B);ESL Open Cup #161 Europe;Brat_OK;DisK;1;2;3;B;0
+2023-02-02;Week. (C);PassionCraft Thursday Showdown #25;Brat_OK;Krystianer;0;2;3;C;0
+2023-01-30;Week. (B);ESL Open Cup #160 Europe;Brat_OK;trigger;1;2;3;B;0
+2023-01-26;Week. (C);PassionCraft Thursday Showdown #24;Brat_OK;Mixu;0;2;3;C;0
+2023-01-23;Week. (B);ESL Open Cup #159 Europe;Brat_OK;Firefly;1;2;3;B;0
+2023-01-21;Week. (C);CSO Cup #53;Brat_OK;Mixu;2;0;3;C;1
+2023-01-21;Week. (C);CSO Cup #53;Brat_OK;Nicoract;1;2;3;C;0
+2023-01-16;Week. (B);ESL Open Cup #158 Europe;Brat_OK;Kelazhur;0;2;3;B;0
+2023-01-09;Week. (B);ESL Open Cup #157 Europe;Brat_OK;MaNa;0;2;3;B;0
+2022-12-26;Week. (B);ESL Open Cup #155 Europe;Brat_OK;MaxPax;0;2;3;B;0
+2022-12-26;Week. (B);ESL Open Cup #155 Europe;Brat_OK;Astra;2;1;3;B;1
+2022-12-19;Week. (B);ESL Open Cup #154 Europe;Brat_OK;MaxPax;0;2;3;B;0
+2022-12-19;Week. (B);ESL Open Cup #154 Europe;Brat_OK;Exostriker;2;0;3;B;1
+2022-12-15;Week. (C);PassionCraft Thursday Showdown #22;Brat_OK;Mixu;0;2;3;C;0
+2022-12-15;Week. (C);PassionCraft Thursday Showdown #22;Brat_OK;Kinpach;2;0;3;C;1
+2022-12-12;Week. (B);ESL Open Cup #153 Europe;Brat_OK;SKillous;0;2;3;B;0
+2022-12-12;Week. (B);ESL Open Cup #153 Europe;Brat_OK;SunSet;2;0;3;B;1
+2022-12-08;Week. (C);PassionCraft Thursday Showdown #21;Brat_OK;Krystianer;0;3;5;C;0
+2022-12-08;Week. (C);PassionCraft Thursday Showdown #21;Brat_OK;Nicoract;2;1;3;C;1
+2022-12-08;Week. (C);PassionCraft Thursday Showdown #21;Brat_OK;Mixu;2;0;3;C;1
+2022-12-08;Week. (C);PassionCraft Thursday Showdown #21;Brat_OK;AeiS;2;0;3;C;1
+2022-12-01;Week. (C);PassionCraft Thursday Showdown #20;Brat_OK;MindelVK;0;2;3;C;0
+2022-11-28;Week. (B);ESL Open Cup #151 Europe;Brat_OK;Cham;0;2;3;B;0
+2022-11-24;Week. (C);PassionCraft Thursday Showdown #19;Brat_OK;Rattata;1;2;3;C;0
+2022-11-24;Week. (C);PassionCraft Thursday Showdown #19;Brat_OK;Templar;2;0;3;C;1
+2022-11-22;Week. (B);Infested Factory Weekly #4;Brat_OK;SKillous;0;2;3;B;0
+2022-11-21;Week. (B);ESL Open Cup #150 Europe;Brat_OK;Rattata;0;2;3;B;0
+2022-11-21;Week. (B);ESL Open Cup #150 Europe;Brat_OK;Anticore;2;0;3;B;1
+2022-11-17;Week. (C);PassionCraft Thursday Showdown #18;Brat_OK;Krystianer;1;2;3;C;0
+2022-11-17;Week. (C);PassionCraft Thursday Showdown #18;Brat_OK;AZTEX;2;0;3;C;1
+2022-11-15;Week. (B);Infested Factory Weekly #3;Brat_OK;Gerald;0;2;3;B;0
+2022-11-15;Week. (B);Infested Factory Weekly #3;Brat_OK;NaJi;2;0;3;B;1
+2022-11-14;Week. (B);ESL Open Cup #149 Europe;Brat_OK;ShaDoWn;0;2;3;B;0
+2022-11-10;Week. (C);PassionCraft Thursday Showdown #17;Brat_OK;CuKu;0;2;3;C;0
+2022-11-03;Week. (C);PassionCraft Thursday Showdown #16;Brat_OK;Gerald;0;2;3;C;0
+2022-11-03;Week. (C);PassionCraft Thursday Showdown #16;Brat_OK;Nicoract;2;0;3;C;1
+2022-11-03;Week. (C);PassionCraft Thursday Showdown #16;Brat_OK;Ziomek;2;0;3;C;1
+2022-11-01;Week. (B);Infested Factory Weekly #1;Brat_OK;Kas;0;2;3;B;0
+2022-10-27;Week. (C);PassionCraft Thursday Showdown #15;Brat_OK;Nicoract;0;2;3;C;0
+2022-10-24;Week. (B);ESL Open Cup #146 Europe;Brat_OK;Clem;0;2;3;B;0
+2022-10-24;Week. (B);ESL Open Cup #146 Europe;Brat_OK;Gerald;2;1;3;B;1
+2022-10-24;Week. (B);ESL Open Cup #146 Europe;Brat_OK;Dephy;2;0;3;B;1
+2022-10-20;Week. (C);PassionCraft Thursday Showdown #14;Brat_OK;Krystianer;0;2;3;C;0
+2022-10-17;Week. (B);ESL Open Cup #145 Europe;Brat_OK;Kelazhur;1;2;3;B;0
+2022-10-13;Week. (C);PassionCraft Thursday Showdown #13;Brat_OK;Nicoract;1;2;3;C;0
+2022-10-13;Week. (C);PassionCraft Thursday Showdown #13;Brat_OK;Ashbringer;2;1;3;C;1
+2022-10-10;Week. (B);ESL Open Cup #144 Americas;Brat_OK;Cure;0;2;3;B;0
+2022-10-10;Week. (B);ESL Open Cup #144 Europe;Brat_OK;BattleB;0;2;3;B;0
+2022-10-10;Week. (B);ESL Open Cup #144 Americas;Brat_OK;ProbeiusCorp;2;0;3;B;1
+2022-10-03;Week. (B);ESL Open Cup #143 Europe;Brat_OK;SKillous;0;2;3;B;0
+2022-10-03;Week. (B);ESL Open Cup #143 Europe;Brat_OK;Gerald;2;1;3;B;1
+2022-09-26;Week. (B);ESL Open Cup #142 Europe;Brat_OK;HeRoMaRinE;0;2;3;B;0
+2022-09-22;Week. (C);PassionCraft Thursday Showdown #10;Brat_OK;CuKu;0;3;5;C;0
+2022-09-22;Week. (C);PassionCraft Thursday Showdown #10;Brat_OK;Ziomek;2;0;3;C;1
+2022-09-22;Week. (C);PassionCraft Thursday Showdown #10;Brat_OK;Krystianer;1;0;1;C;1
+2022-09-22;Week. (C);PassionCraft Thursday Showdown #10;Brat_OK;Gref;2;0;3;C;1
+2022-09-19;Week. (B);ESL Open Cup #141 Europe;Brat_OK;ShoWTimE;0;2;3;B;0
+2022-09-14;Qual. (S);DHM Atlanta: EU Qualifiers - Bracket;Brat_OK;Ziomek;1;2;3;S;0
+2022-09-12;Week. (B);ESL Open Cup #140 Europe;Brat_OK;SKillous;0;2;3;B;0
+2022-09-12;Week. (B);ESL Open Cup #140 Europe;Brat_OK;Gerald;2;1;3;B;1
+2022-09-08;Qual. (B);WardiTV EU League Q2;Brat_OK;Kas;0;1;1;B;0
+2022-09-08;Week. (C);PassionCraft Thursday Showdown #8;Brat_OK;Mixu;1;2;3;C;0
+2022-09-05;Week. (B);ESL Open Cup #139 Americas;Brat_OK;trigger;0;2;3;B;0
+2022-09-05;Week. (B);ESL Open Cup #139 Americas;Brat_OK;Gerald;2;0;3;B;1
+2022-09-05;Week. (B);ESL Open Cup #139 Americas;Brat_OK;Maplez;2;1;3;B;1
+2022-09-05;Week. (B);ESL Open Cup #139 Americas;Brat_OK;FoxeR;2;0;3;B;1
+2022-08-29;Week. (B);ESL Open Cup #138 Europe;Brat_OK;KingCobra;0;2;3;B;0
+2022-08-22;Week. (B);ESL Open Cup #137 Europe;Brat_OK;Gerald;0;1;1;B;0
+2022-08-11;Week. (C);PassionCraft Thursday Showdown #4;Brat_OK;Tiger;1;2;3;C;0
+2022-08-11;Week. (C);PassionCraft Thursday Showdown #4;Brat_OK;Nikich;2;0;3;C;1
+2022-08-08;Week. (B);ESL Open Cup #135 Europe;Brat_OK;MaxPax;0;2;3;B;0
+2022-08-08;Week. (B);ESL Open Cup #135 Europe;Brat_OK;MaNa;2;0;3;B;1
+2022-08-04;Week. (C);PassionCraft Thursday Showdown #3;Brat_OK;YoungYakov;0;2;3;C;0
+2022-08-01;Week. (B);ESL Open Cup #134 Europe;Brat_OK;Neeb;0;2;3;B;0
+2022-07-27;Qual. (A);WardiTV Summer EU Q2;Brat_OK;ShoWTimE;0;2;3;A;0
+2022-07-26;Qual. (A);WardiTV Summer EU Q1;Brat_OK;BabyMarine;0;2;3;A;0
+2022-07-25;Week. (B);ESL Open Cup #133 Europe;Brat_OK;DisK;0;2;3;B;0
+2022-07-18;Week. (B);ESL Open Cup #132 Europe;Brat_OK;Astrea;0;2;3;B;0
+2022-07-15;Qual. (S);TSL 9: Europe Qualifier;Brat_OK;Krystianer;1;2;3;S;0
+2022-07-15;Qual. (S);TSL 9: Europe Qualifier;Brat_OK;Botvinnik;2;1;3;S;1
+2022-07-15;Qual. (S);TSL 9: Europe Qualifier;Brat_OK;Cyan;1;0;1;S;1
+2022-07-15;Qual. (S);TSL 9: Europe Qualifier;Brat_OK;SKillous;0;2;3;S;0
+2022-07-13;Qual. (S);TSL 9: Europe Q3;Brat_OK;ArT;1;2;3;S;0
+2022-07-11;Week. (B);ESL Open Cup #131 Europe;Brat_OK;Clem;0;2;3;B;0
+2022-07-10;Qual. (S);TSL 9: Europe Q2;Brat_OK;Harstem;0;2;3;S;0
+2022-07-08;Qual. (S);TSL 9: Europe Q1;Brat_OK;Gerald;1;2;3;S;0
+2022-06-27;Week. (B);ESL Open Cup #129 Americas;Brat_OK;herO;0;2;3;B;0
+2022-06-27;Week. (B);ESL Open Cup #129 Americas;Brat_OK;Eiger;2;1;3;B;1
+2022-06-27;Week. (B);ESL Open Cup #129 Europe;Brat_OK;Lambo;0;2;3;B;0
+2022-06-21;Qual. (S);HSC XXI: Europe Q3;Brat_OK;ArT;1;2;3;S;0
+2022-06-14;Qual. (S);HSC XXI: Europe Q2;Brat_OK;ArT;1;2;3;S;0
+2022-06-06;Week. (B);ESL Open Cup #126 Europe;Brat_OK;ShaDoWn;0;2;3;B;0
+2022-06-01;Week. (B);Sparkling Tuna Cup #15;Brat_OK;KeeN;0;2;3;B;0
+2022-06-01;Week. (B);Sparkling Tuna Cup #15;Brat_OK;Bistork;2;0;3;B;1
+2022-06-01;Week. (B);Sparkling Tuna Cup #15;Brat_OK;Azura;2;1;3;B;1
+2022-05-30;Week. (B);ESL Open Cup #125 Europe;Brat_OK;HeRoMaRinE;0;2;3;B;0
+2022-05-30;Week. (B);ESL Open Cup #125 Europe;Brat_OK;Sonic;2;0;3;B;1
+2022-05-23;Week. (B);ESL Open Cup #124 Europe;Brat_OK;ForJumy;0;2;3;B;0
+2022-05-19;Week. (C);Cock of the Walk #97;Brat_OK;NightPhoenix;1;2;3;C;0
+2022-05-16;Week. (B);ESL Open Cup #123 Europe;Brat_OK;Coffee;1;2;3;B;0
+2022-05-09;Week. (B);ESL Open Cup #122 Europe;Brat_OK;DisK;0;2;3;B;0
+2022-05-06;Qual. (S);DHM Valencia: EU Qualifiers - Bracket;Brat_OK;Botvinnik;1;3;5;S;0
+2022-05-06;Qual. (S);DHM Valencia: EU Qualifiers - Bracket;Brat_OK;Molten;2;0;3;S;1
+2022-05-02;A-Tier;Championship of Russia 2022 - Playoffs;Brat_OK;MindelVK;2;3;5;A;0
+2022-05-02;A-Tier;Championship of Russia 2022 - Playoffs;Brat_OK;AllHailLulu!;3;0;5;A;1
+2022-05-02;A-Tier;Championship of Russia 2022 - Playoffs;Brat_OK;Shiny_Ray;3;0;5;A;1
+2022-05-02;Week. (B);ESL Open Cup #121 Americas;Brat_OK;Solar;0;2;3;B;0
+2022-05-02;Week. (B);ESL Open Cup #121 Americas;Brat_OK;Maplez;1;0;1;B;1
+2022-04-28;B-Tier;WardiTV Spring Fling #3;Brat_OK;goblin;0;2;3;B;0
+2022-04-27;Week. (B);Sparkling Tuna Cup #13;Brat_OK;MeomaikA;1;2;3;B;0
+2022-04-27;Week. (B);Sparkling Tuna Cup #13;Brat_OK;KenoSua;2;0;3;B;1
+2022-04-27;Week. (B);Asgard Cup #68;Brat_OK;Nicoract;1;0;1;B;1
+2022-04-27;B-Tier;WardiTV Spring Fling #2;Brat_OK;trigger;0;2;3;B;0
+2022-04-27;Week. (B);Asgard Cup #68;Brat_OK;YoungYakov;1;2;3;B;0
+2022-04-27;Week. (B);Asgard Cup #68;Brat_OK;Shameless;2;1;3;B;1
+2022-04-25;Week. (B);ESL Open Cup #120 Europe;Brat_OK;uThermal;0;2;3;B;0
+2022-04-20;Week. (C);Asgard Cup #67;Brat_OK;ART;3;0;5;C;1
+2022-04-20;Week. (C);Asgard Cup #67;Brat_OK;Nicoract;2;0;3;C;1
+2025-08-23;B-Tier;Road to Moscow 3;Fallenger;Brat_OK;1;0;1;B;1
+2025-08-23;B-Tier;Road to Moscow 3;Wayne;Brat_OK;2;1;3;B;1
+2025-08-16;A-Tier;SEL Season 2 Championship - Group A;MagicTurtle;Brat_OK;2;1;3;A;1
+2025-08-16;A-Tier;SEL Season 2 Championship - Group A;threepoint;Brat_OK;2;1;3;A;1
+2025-08-09;Biw. (B);StarCraft Evolution League #15;TaeJa;Brat_OK;2;0;3;B;1
+2025-08-09;Biw. (B);StarCraft Evolution League #15;HonMonO;Brat_OK;0;2;3;B;0
+2025-07-26;Qual. (B);Road to Moscow 3: Qualifiers - Bracket;EastToss;Brat_OK;0;2;3;B;0
+2025-07-26;Qual. (B);Road to Moscow 3: Qualifiers - Bracket;Astra;Brat_OK;0;1;1;B;0
+2025-07-26;Qual. (B);Road to Moscow 3: Qualifiers - Bracket;bogdanios;Brat_OK;0;1;1;B;0
+2025-07-26;Qual. (B);Road to Moscow 3: Qualifiers - Bracket;Wayne;Brat_OK;2;1;3;B;1
+2025-06-21;Biw. (B);StarCraft Evolution League #14;threepoint;Brat_OK;3;2;5;B;1
+2025-06-21;Biw. (B);StarCraft Evolution League #14;prome;Brat_OK;2;3;5;B;0
+2025-06-21;Biw. (B);StarCraft Evolution League #14;LunaSea;Brat_OK;0;2;3;B;0
+2025-06-21;Biw. (B);StarCraft Evolution League #14;MANGRUSL;Brat_OK;1;2;3;B;0
+2025-06-07;Biw. (B);StarCraft Evolution League #13;threepoint;Brat_OK;2;0;3;B;1
+2025-06-07;Biw. (B);StarCraft Evolution League #13;ZaRDieNT;Brat_OK;0;2;3;B;0
+2025-05-24;Biw. (B);StarCraft Evolution League #12;MANGRUSL;Brat_OK;0;2;3;B;0
+2025-04-26;Biw. (B);StarCraft Evolution League #10;TOP;Brat_OK;2;0;3;B;1
+2025-04-26;Biw. (B);StarCraft Evolution League #10;Shameless;Brat_OK;0;1;1;B;0
+2025-04-23;Week. (B);Kung Fu Cup 2025 Weekly #9: SC:EVO;Firefly;Brat_OK;2;0;3;B;1
+2025-04-09;B-Tier;Kung Fu Cup 2025 Weekly #7: SC:EVO;threepoint;Brat_OK;2;1;3;B;1
+2025-04-09;B-Tier;Kung Fu Cup 2025 Weekly #7: SC:EVO;YoungYakov;Brat_OK;0;2;3;B;0
+2025-04-05;Biw. (B);StarCraft Evolution League #9;SHIN;Brat_OK;2;0;3;B;1
+2025-04-05;Biw. (B);StarCraft Evolution League #9;HonMonO;Brat_OK;0;2;3;B;0
+2025-03-26;B-Tier;Kung Fu Cup 2025 Weekly #5: SC:EVO;Dark;Brat_OK;2;0;3;B;1
+2025-03-19;B-Tier;Kung Fu Cup 2025 Weekly #4: SC:EVO;Spirit;Brat_OK;2;0;3;B;1
+2025-03-19;B-Tier;Kung Fu Cup 2025 Weekly #4: SC:EVO;ByuN;Brat_OK;0;2;3;B;0
+2025-03-01;Mon. (B);StarCraft Evolution League #8;SKillous;Brat_OK;2;1;3;B;1
+2025-03-01;Mon. (B);StarCraft Evolution League #8;QuanTa;Brat_OK;1;2;3;B;0
+2025-03-01;Mon. (B);StarCraft Evolution League #8;Wayne;Brat_OK;2;0;3;B;1
+2025-03-01;Mon. (B);StarCraft Evolution League #8;threepoint;Brat_OK;0;2;3;B;0
+2025-03-01;Mon. (B);StarCraft Evolution League #8;Michnek;Brat_OK;0;2;3;B;0
+2025-01-20;Week. (B);Monday Night Weeklies #1;Fjant;Brat_OK;1;0;1;B;1
+2025-01-20;Week. (B);Monday Night Weeklies #1;Gerald;Brat_OK;2;0;3;B;1
+2024-12-31;B-Tier;New Year Cup 2025;Gerald;Brat_OK;2;0;3;B;1
+2024-12-31;B-Tier;New Year Cup 2025;UltraMarine;Brat_OK;1;2;3;B;0
+2023-04-10;Week. (B);ESL Open Cup #170 Europe;SKillous;Brat_OK;2;0;3;B;1
+2023-04-06;Week. (C);PassionCraft Thursday Showdown #33;DIMAGA;Brat_OK;2;0;3;C;1
+2023-04-03;Week. (B);ESL Open Cup #169 Europe;Harstem;Brat_OK;2;0;3;B;1
+2023-03-27;Week. (B);ESL Open Cup #168 Europe;trigger;Brat_OK;2;0;3;B;1
+2023-03-23;Week. (C);PassionCraft Thursday Showdown #31;Ziomek;Brat_OK;2;0;3;C;1
+2023-03-16;Week. (C);PassionCraft Thursday Showdown #30;Nikich;Brat_OK;2;1;3;C;1
+2023-03-13;Week. (B);ESL Open Cup #166 Europe;trigger;Brat_OK;2;0;3;B;1
+2023-03-11;A-Tier;#PassionCraft Knockout - GS Group B;Kas;Brat_OK;2;1;3;A;1
+2023-03-11;A-Tier;#PassionCraft Knockout - GS Group B;Nice;Brat_OK;2;0;3;A;1
+2023-03-06;Week. (B);ESL Open Cup #165 Europe;Spirit;Brat_OK;2;0;3;B;1
+2023-03-05;Mon. (B);3D!King of the Hill #2;PPower;Brat_OK;1;0;1;B;1
+2023-03-02;Week. (C);PassionCraft Thursday Showdown #28;MindelVK;Brat_OK;2;0;3;C;1
+2023-03-02;Week. (C);PassionCraft Thursday Showdown #28;NightPhoenix;Brat_OK;1;2;3;C;0
+2023-03-02;Week. (C);PassionCraft Thursday Showdown #28;Bioice;Brat_OK;0;2;3;C;0
+2023-02-27;Week. (B);ESL Open Cup #164 Europe;Clem;Brat_OK;2;0;3;B;1
+2023-02-27;Week. (B);ESL Open Cup #164 Europe;Order;Brat_OK;0;2;3;B;0
+2023-02-27;Week. (B);ESL Open Cup #164 Europe;ShaDoWn;Brat_OK;1;2;3;B;0
+2023-02-23;Week. (C);PassionCraft Thursday Showdown #27;Gerald;Brat_OK;1;2;3;C;0
+2023-02-23;Week. (C);PassionCraft Thursday Showdown #27;YoungYakov;Brat_OK;1;2;3;C;0
+2023-02-23;Week. (C);PassionCraft Thursday Showdown #27;Krystianer;Brat_OK;1;2;3;C;0
+2023-02-23;Week. (C);PassionCraft Thursday Showdown #27;HHQuanTa;Brat_OK;0;2;3;C;0
+2023-02-20;Week. (B);ESL Open Cup #163 Europe;Ruiyichi;Brat_OK;2;0;3;B;1
+2023-02-18;Week. (C);CSO Cup #55;NightPhoenix;Brat_OK;3;1;5;C;1
+2023-02-18;Week. (C);CSO Cup #55;Trifax;Brat_OK;1;2;3;C;0
+2023-02-18;Week. (C);CSO Cup #55;Daryl;Brat_OK;0;2;3;C;0
+2023-02-13;Week. (B);ESL Open Cup #162 Europe;MaxPax;Brat_OK;2;0;3;B;1
+2023-02-13;Week. (B);ESL Open Cup #162 Europe;uThermal;Brat_OK;0;2;3;B;0
+2023-02-13;Week. (B);ESL Open Cup #162 Europe;Zargrash;Brat_OK;1;2;3;B;0
+2023-02-06;Week. (B);ESL Open Cup #161 Europe;DisK;Brat_OK;2;1;3;B;1
+2023-02-02;Week. (C);PassionCraft Thursday Showdown #25;Krystianer;Brat_OK;2;0;3;C;1
+2023-01-30;Week. (B);ESL Open Cup #160 Europe;trigger;Brat_OK;2;1;3;B;1
+2023-01-26;Week. (C);PassionCraft Thursday Showdown #24;Mixu;Brat_OK;2;0;3;C;1
+2023-01-23;Week. (B);ESL Open Cup #159 Europe;Firefly;Brat_OK;2;1;3;B;1
+2023-01-21;Week. (C);CSO Cup #53;Mixu;Brat_OK;0;2;3;C;0
+2023-01-21;Week. (C);CSO Cup #53;Nicoract;Brat_OK;2;1;3;C;1
+2023-01-16;Week. (B);ESL Open Cup #158 Europe;Kelazhur;Brat_OK;2;0;3;B;1
+2023-01-09;Week. (B);ESL Open Cup #157 Europe;MaNa;Brat_OK;2;0;3;B;1
+2022-12-26;Week. (B);ESL Open Cup #155 Europe;MaxPax;Brat_OK;2;0;3;B;1
+2022-12-26;Week. (B);ESL Open Cup #155 Europe;Astra;Brat_OK;1;2;3;B;0
+2022-12-19;Week. (B);ESL Open Cup #154 Europe;MaxPax;Brat_OK;2;0;3;B;1
+2022-12-19;Week. (B);ESL Open Cup #154 Europe;Exostriker;Brat_OK;0;2;3;B;0
+2022-12-15;Week. (C);PassionCraft Thursday Showdown #22;Mixu;Brat_OK;2;0;3;C;1
+2022-12-15;Week. (C);PassionCraft Thursday Showdown #22;Kinpach;Brat_OK;0;2;3;C;0
+2022-12-12;Week. (B);ESL Open Cup #153 Europe;SKillous;Brat_OK;2;0;3;B;1
+2022-12-12;Week. (B);ESL Open Cup #153 Europe;SunSet;Brat_OK;0;2;3;B;0
+2022-12-08;Week. (C);PassionCraft Thursday Showdown #21;Krystianer;Brat_OK;3;0;5;C;1
+2022-12-08;Week. (C);PassionCraft Thursday Showdown #21;Nicoract;Brat_OK;1;2;3;C;0
+2022-12-08;Week. (C);PassionCraft Thursday Showdown #21;Mixu;Brat_OK;0;2;3;C;0
+2022-12-08;Week. (C);PassionCraft Thursday Showdown #21;AeiS;Brat_OK;0;2;3;C;0
+2022-12-01;Week. (C);PassionCraft Thursday Showdown #20;MindelVK;Brat_OK;2;0;3;C;1
+2022-11-28;Week. (B);ESL Open Cup #151 Europe;Cham;Brat_OK;2;0;3;B;1
+2022-11-24;Week. (C);PassionCraft Thursday Showdown #19;Rattata;Brat_OK;2;1;3;C;1
+2022-11-24;Week. (C);PassionCraft Thursday Showdown #19;Templar;Brat_OK;0;2;3;C;0
+2022-11-22;Week. (B);Infested Factory Weekly #4;SKillous;Brat_OK;2;0;3;B;1
+2022-11-21;Week. (B);ESL Open Cup #150 Europe;Rattata;Brat_OK;2;0;3;B;1
+2022-11-21;Week. (B);ESL Open Cup #150 Europe;Anticore;Brat_OK;0;2;3;B;0
+2022-11-17;Week. (C);PassionCraft Thursday Showdown #18;Krystianer;Brat_OK;2;1;3;C;1
+2022-11-17;Week. (C);PassionCraft Thursday Showdown #18;AZTEX;Brat_OK;0;2;3;C;0
+2022-11-15;Week. (B);Infested Factory Weekly #3;Gerald;Brat_OK;2;0;3;B;1
+2022-11-15;Week. (B);Infested Factory Weekly #3;NaJi;Brat_OK;0;2;3;B;0
+2022-11-14;Week. (B);ESL Open Cup #149 Europe;ShaDoWn;Brat_OK;2;0;3;B;1
+2022-11-10;Week. (C);PassionCraft Thursday Showdown #17;CuKu;Brat_OK;2;0;3;C;1
+2022-11-03;Week. (C);PassionCraft Thursday Showdown #16;Gerald;Brat_OK;2;0;3;C;1
+2022-11-03;Week. (C);PassionCraft Thursday Showdown #16;Nicoract;Brat_OK;0;2;3;C;0
+2022-11-03;Week. (C);PassionCraft Thursday Showdown #16;Ziomek;Brat_OK;0;2;3;C;0
+2022-11-01;Week. (B);Infested Factory Weekly #1;Kas;Brat_OK;2;0;3;B;1
+2022-10-27;Week. (C);PassionCraft Thursday Showdown #15;Nicoract;Brat_OK;2;0;3;C;1
+2022-10-24;Week. (B);ESL Open Cup #146 Europe;Clem;Brat_OK;2;0;3;B;1
+2022-10-24;Week. (B);ESL Open Cup #146 Europe;Gerald;Brat_OK;1;2;3;B;0
+2022-10-24;Week. (B);ESL Open Cup #146 Europe;Dephy;Brat_OK;0;2;3;B;0
+2022-10-20;Week. (C);PassionCraft Thursday Showdown #14;Krystianer;Brat_OK;2;0;3;C;1
+2022-10-17;Week. (B);ESL Open Cup #145 Europe;Kelazhur;Brat_OK;2;1;3;B;1
+2022-10-13;Week. (C);PassionCraft Thursday Showdown #13;Nicoract;Brat_OK;2;1;3;C;1
+2022-10-13;Week. (C);PassionCraft Thursday Showdown #13;Ashbringer;Brat_OK;1;2;3;C;0
+2022-10-10;Week. (B);ESL Open Cup #144 Americas;Cure;Brat_OK;2;0;3;B;1
+2022-10-10;Week. (B);ESL Open Cup #144 Europe;BattleB;Brat_OK;2;0;3;B;1
+2022-10-10;Week. (B);ESL Open Cup #144 Americas;ProbeiusCorp;Brat_OK;0;2;3;B;0
+2022-10-03;Week. (B);ESL Open Cup #143 Europe;SKillous;Brat_OK;2;0;3;B;1
+2022-10-03;Week. (B);ESL Open Cup #143 Europe;Gerald;Brat_OK;1;2;3;B;0
+2022-09-26;Week. (B);ESL Open Cup #142 Europe;HeRoMaRinE;Brat_OK;2;0;3;B;1
+2022-09-22;Week. (C);PassionCraft Thursday Showdown #10;CuKu;Brat_OK;3;0;5;C;1
+2022-09-22;Week. (C);PassionCraft Thursday Showdown #10;Ziomek;Brat_OK;0;2;3;C;0
+2022-09-22;Week. (C);PassionCraft Thursday Showdown #10;Krystianer;Brat_OK;0;1;1;C;0
+2022-09-22;Week. (C);PassionCraft Thursday Showdown #10;Gref;Brat_OK;0;2;3;C;0
+2022-09-19;Week. (B);ESL Open Cup #141 Europe;ShoWTimE;Brat_OK;2;0;3;B;1
+2022-09-14;Qual. (S);DHM Atlanta: EU Qualifiers - Bracket;Ziomek;Brat_OK;2;1;3;S;1
+2022-09-12;Week. (B);ESL Open Cup #140 Europe;SKillous;Brat_OK;2;0;3;B;1
+2022-09-12;Week. (B);ESL Open Cup #140 Europe;Gerald;Brat_OK;1;2;3;B;0
+2022-09-08;Qual. (B);WardiTV EU League Q2;Kas;Brat_OK;1;0;1;B;1
+2022-09-08;Week. (C);PassionCraft Thursday Showdown #8;Mixu;Brat_OK;2;1;3;C;1
+2022-09-05;Week. (B);ESL Open Cup #139 Americas;trigger;Brat_OK;2;0;3;B;1
+2022-09-05;Week. (B);ESL Open Cup #139 Americas;Gerald;Brat_OK;0;2;3;B;0
+2022-09-05;Week. (B);ESL Open Cup #139 Americas;Maplez;Brat_OK;1;2;3;B;0
+2022-09-05;Week. (B);ESL Open Cup #139 Americas;FoxeR;Brat_OK;0;2;3;B;0
+2022-08-29;Week. (B);ESL Open Cup #138 Europe;KingCobra;Brat_OK;2;0;3;B;1
+2022-08-22;Week. (B);ESL Open Cup #137 Europe;Gerald;Brat_OK;1;0;1;B;1
+2022-08-11;Week. (C);PassionCraft Thursday Showdown #4;Tiger;Brat_OK;2;1;3;C;1
+2022-08-11;Week. (C);PassionCraft Thursday Showdown #4;Nikich;Brat_OK;0;2;3;C;0
+2022-08-08;Week. (B);ESL Open Cup #135 Europe;MaxPax;Brat_OK;2;0;3;B;1
+2022-08-08;Week. (B);ESL Open Cup #135 Europe;MaNa;Brat_OK;0;2;3;B;0
+2022-08-04;Week. (C);PassionCraft Thursday Showdown #3;YoungYakov;Brat_OK;2;0;3;C;1
+2022-08-01;Week. (B);ESL Open Cup #134 Europe;Neeb;Brat_OK;2;0;3;B;1
+2022-07-27;Qual. (A);WardiTV Summer EU Q2;ShoWTimE;Brat_OK;2;0;3;A;1
+2022-07-26;Qual. (A);WardiTV Summer EU Q1;BabyMarine;Brat_OK;2;0;3;A;1
+2022-07-25;Week. (B);ESL Open Cup #133 Europe;DisK;Brat_OK;2;0;3;B;1
+2022-07-18;Week. (B);ESL Open Cup #132 Europe;Astrea;Brat_OK;2;0;3;B;1
+2022-07-15;Qual. (S);TSL 9: Europe Qualifier;Krystianer;Brat_OK;2;1;3;S;1
+2022-07-15;Qual. (S);TSL 9: Europe Qualifier;Botvinnik;Brat_OK;1;2;3;S;0
+2022-07-15;Qual. (S);TSL 9: Europe Qualifier;Cyan;Brat_OK;0;1;1;S;0
+2022-07-15;Qual. (S);TSL 9: Europe Qualifier;SKillous;Brat_OK;2;0;3;S;1
+2022-07-13;Qual. (S);TSL 9: Europe Q3;ArT;Brat_OK;2;1;3;S;1
+2022-07-11;Week. (B);ESL Open Cup #131 Europe;Clem;Brat_OK;2;0;3;B;1
+2022-07-10;Qual. (S);TSL 9: Europe Q2;Harstem;Brat_OK;2;0;3;S;1
+2022-07-08;Qual. (S);TSL 9: Europe Q1;Gerald;Brat_OK;2;1;3;S;1
+2022-06-27;Week. (B);ESL Open Cup #129 Americas;herO;Brat_OK;2;0;3;B;1
+2022-06-27;Week. (B);ESL Open Cup #129 Americas;Eiger;Brat_OK;1;2;3;B;0
+2022-06-27;Week. (B);ESL Open Cup #129 Europe;Lambo;Brat_OK;2;0;3;B;1
+2022-06-21;Qual. (S);HSC XXI: Europe Q3;ArT;Brat_OK;2;1;3;S;1
+2022-06-14;Qual. (S);HSC XXI: Europe Q2;ArT;Brat_OK;2;1;3;S;1
+2022-06-06;Week. (B);ESL Open Cup #126 Europe;ShaDoWn;Brat_OK;2;0;3;B;1
+2022-06-01;Week. (B);Sparkling Tuna Cup #15;KeeN;Brat_OK;2;0;3;B;1
+2022-06-01;Week. (B);Sparkling Tuna Cup #15;Bistork;Brat_OK;0;2;3;B;0
+2022-06-01;Week. (B);Sparkling Tuna Cup #15;Azura;Brat_OK;1;2;3;B;0
+2022-05-30;Week. (B);ESL Open Cup #125 Europe;HeRoMaRinE;Brat_OK;2;0;3;B;1
+2022-05-30;Week. (B);ESL Open Cup #125 Europe;Sonic;Brat_OK;0;2;3;B;0
+2022-05-23;Week. (B);ESL Open Cup #124 Europe;ForJumy;Brat_OK;2;0;3;B;1
+2022-05-19;Week. (C);Cock of the Walk #97;NightPhoenix;Brat_OK;2;1;3;C;1
+2022-05-16;Week. (B);ESL Open Cup #123 Europe;Coffee;Brat_OK;2;1;3;B;1
+2022-05-09;Week. (B);ESL Open Cup #122 Europe;DisK;Brat_OK;2;0;3;B;1
+2022-05-06;Qual. (S);DHM Valencia: EU Qualifiers - Bracket;Botvinnik;Brat_OK;3;1;5;S;1
+2022-05-06;Qual. (S);DHM Valencia: EU Qualifiers - Bracket;Molten;Brat_OK;0;2;3;S;0
+2022-05-02;A-Tier;Championship of Russia 2022 - Playoffs;MindelVK;Brat_OK;3;2;5;A;1
+2022-05-02;A-Tier;Championship of Russia 2022 - Playoffs;AllHailLulu!;Brat_OK;0;3;5;A;0
+2022-05-02;A-Tier;Championship of Russia 2022 - Playoffs;Shiny_Ray;Brat_OK;0;3;5;A;0
+2022-05-02;Week. (B);ESL Open Cup #121 Americas;Solar;Brat_OK;2;0;3;B;1
+2022-05-02;Week. (B);ESL Open Cup #121 Americas;Maplez;Brat_OK;0;1;1;B;0
+2022-04-28;B-Tier;WardiTV Spring Fling #3;goblin;Brat_OK;2;0;3;B;1
+2022-04-27;Week. (B);Sparkling Tuna Cup #13;MeomaikA;Brat_OK;2;1;3;B;1
+2022-04-27;Week. (B);Sparkling Tuna Cup #13;KenoSua;Brat_OK;0;2;3;B;0
+2022-04-27;Week. (B);Asgard Cup #68;Nicoract;Brat_OK;0;1;1;B;0
+2022-04-27;B-Tier;WardiTV Spring Fling #2;trigger;Brat_OK;2;0;3;B;1
+2022-04-27;Week. (B);Asgard Cup #68;YoungYakov;Brat_OK;2;1;3;B;1
+2022-04-27;Week. (B);Asgard Cup #68;Shameless;Brat_OK;1;2;3;B;0
+2022-04-25;Week. (B);ESL Open Cup #120 Europe;uThermal;Brat_OK;2;0;3;B;1
+2022-04-20;Week. (C);Asgard Cup #67;ART;Brat_OK;0;3;5;C;0
+2022-04-20;Week. (C);Asgard Cup #67;Nicoract;Brat_OK;0;2;3;C;0
