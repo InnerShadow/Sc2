@@ -1,0 +1,463 @@
+date;match;tournament;player;oponent;player_wins;oponent_wins;best_of;tournament_tier;target
+2025-06-29;B-Tier;AusCraft Winter 2025 - Playoffs;Oreo;NXZ;0;2;3;B;0
+2025-06-29;B-Tier;AusCraft Winter 2025 - Playoffs;Oreo;Seiko;2;0;3;B;1
+2025-06-29;B-Tier;AusCraft Winter 2025 - Playoffs;Oreo;Rize;0;2;3;B;0
+2025-06-29;B-Tier;AusCraft Winter 2025 - Playoffs;Oreo;Karleb;2;0;3;B;1
+2025-06-28;B-Tier;AusCraft Winter 2025 - Group B;Oreo;NXZ;2;1;3;B;1
+2025-06-28;B-Tier;AusCraft Winter 2025 - Group B;Oreo;Barwu;2;0;3;B;1
+2025-06-28;B-Tier;AusCraft Winter 2025 - Group B;Oreo;TheWoK;2;0;3;B;1
+2025-06-28;B-Tier;AusCraft Winter 2025 - Group B;Oreo;Azure;2;0;3;B;1
+2025-06-28;B-Tier;AusCraft Winter 2025 - Group B;Oreo;Karleb;2;0;3;B;1
+2025-04-13;Week. (B);Sparkling Tuna Cup #88;Oreo;Krystianer;0;2;3;B;0
+2024-04-06;Qual. (A);ESL Spring: Asia Qualifiers - Bracket;Oreo;Lemon;0;2;3;A;0
+2024-03-31;Week. (C);Sparkling Tuna Cup #45;Oreo;Nicoract;0;2;3;C;0
+2023-09-30;Biw. (C);Grand Platypus Open #96;Oreo;GogojOey;0;1;1;C;0
+2023-09-30;Biw. (C);Grand Platypus Open #96;Oreo;Demi;1;2;3;C;0
+2023-09-16;Biw. (C);Grand Platypus Open #95;Oreo;EnDerr;0;1;1;C;0
+2023-09-16;Biw. (C);Grand Platypus Open #95;Oreo;Demi;1;0;1;C;1
+2023-09-16;Biw. (C);Grand Platypus Open #95;Oreo;DaSh;1;2;3;C;0
+2023-08-05;Biw. (C);Grand Platypus Open #92;Oreo;GogojOey;0;1;1;C;0
+2023-08-05;Biw. (C);Grand Platypus Open #92;Oreo;Nice;0;2;3;C;0
+2023-07-22;Biw. (C);Grand Platypus Open #91;Oreo;MeomaikA;2;3;5;C;0
+2023-07-22;Biw. (C);Grand Platypus Open #91;Oreo;MeomaikA;2;0;3;C;1
+2023-07-22;Biw. (C);Grand Platypus Open #91;Oreo;Demi;2;1;3;C;1
+2023-07-22;Biw. (C);Grand Platypus Open #91;Oreo;HonMonO;2;1;3;C;1
+2023-07-08;B-Tier;BrisVegas Autumn 2023 - Playoffs;Oreo;Peppy;0;2;3;B;0
+2023-07-08;B-Tier;BrisVegas Autumn 2023 - Playoffs;Oreo;Probe;0;2;3;B;0
+2023-07-08;B-Tier;BrisVegas Autumn 2023 - Playoffs;Oreo;Chappy;2;1;3;B;1
+2023-07-08;B-Tier;BrisVegas Autumn 2023 - Playoffs;Oreo;BigRedFred;2;0;3;B;1
+2023-07-08;B-Tier;BrisVegas Autumn 2023 - Group B;Oreo;E.T.;2;0;3;B;1
+2023-07-08;B-Tier;BrisVegas Autumn 2023 - Group B;Oreo;Barwu;2;0;3;B;1
+2023-07-08;B-Tier;BrisVegas Autumn 2023 - Group B;Oreo;Pezz;1;2;3;B;0
+2023-07-08;B-Tier;BrisVegas Autumn 2023 - Group B;Oreo;Azure;2;0;3;B;1
+2023-07-08;B-Tier;BrisVegas Autumn 2023 - Group B;Oreo;Peppy;1;2;3;B;0
+2023-07-08;B-Tier;BrisVegas Autumn 2023 - Group B;Oreo;HOTBIGTIT;2;0;3;B;1
+2022-12-17;B-Tier;BrisVegas Summer 2022 - Playoffs;Oreo;Chappy;0;2;3;B;0
+2022-12-17;B-Tier;BrisVegas Summer 2022 - Playoffs;Oreo;Pezz;0;2;3;B;0
+2022-12-17;B-Tier;BrisVegas Summer 2022 - Group Stage;Oreo;Pezz;2;0;3;B;1
+2022-12-17;B-Tier;BrisVegas Summer 2022 - Group Stage;Oreo;Probe;0;2;3;B;0
+2022-12-17;B-Tier;BrisVegas Summer 2022 - Group Stage;Oreo;You;2;0;3;B;1
+2022-12-17;B-Tier;BrisVegas Summer 2022 - Group Stage;Oreo;Azure;2;1;3;B;1
+2022-12-17;B-Tier;BrisVegas Summer 2022 - Group Stage;Oreo;Chappy;2;0;3;B;1
+2022-11-28;Qual. (S);HSC XXII: OC;Oreo;Demi;1;2;3;S;0
+2022-10-02;Qual. (B);PAX Arena SCII - Bracket;Oreo;Seither;0;3;5;B;0
+2022-10-02;Qual. (B);PAX Arena SCII - Bracket;Oreo;StarDuck;2;1;3;B;1
+2022-10-02;Qual. (B);PAX Arena SCII - Bracket;Oreo;Peppy;0;2;3;B;0
+2022-10-02;Qual. (B);PAX Arena SCII - Bracket;Oreo;StoicWilly;2;0;3;B;1
+2022-10-01;Qual. (B);PAX Arena SCII - Bracket;Oreo;Azure;1;3;5;B;0
+2022-10-01;Qual. (B);PAX Arena SCII - Bracket;Oreo;piglet;2;3;5;B;0
+2022-10-01;Qual. (B);PAX Arena SCII - Bracket;Oreo;Seither;2;0;3;B;1
+2022-10-01;Qual. (B);PAX Arena SCII - Bracket;Oreo;RunaMoK;2;0;3;B;1
+2022-09-17;Qual. (A);DHM Atlanta: OC Qualifiers - Bracket;Oreo;NXZ;2;3;5;A;0
+2022-09-17;Qual. (A);DHM Atlanta: OC Qualifiers - Bracket;Oreo;Demi;2;0;3;A;1
+2022-09-17;Qual. (A);DHM Atlanta: OC Qualifiers - Bracket;Oreo;Pezz;2;0;3;A;1
+2022-09-16;Qual. (A);DHM Atlanta: OC Qualifiers - Bracket;Oreo;Zain;0;2;3;A;0
+2100-01-01;B-Tier;ESL ANZ Champs 2022 S1 - GS Group A;Oreo;Probe;0;2;3;B;0
+2100-01-01;B-Tier;ESL ANZ Champs 2022 S1 - GS Group A;Oreo;StarDuck;2;0;3;B;1
+2022-05-14;B-Tier;ESL ANZ Champs 2022 S1 - GS Group A;Oreo;Probe;0;2;3;B;0
+2022-05-07;Qual. (A);DHM Valencia: OC Qualifiers - Bracket;Oreo;Nuks;0;2;3;A;0
+2022-05-07;Qual. (A);DHM Valencia: OC Qualifiers - Bracket;Oreo;aconcises;2;0;3;A;1
+2022-05-06;Qual. (A);DHM Valencia: OC Qualifiers - Bracket;Oreo;EnDerr;1;2;3;A;0
+2022-05-06;Qual. (A);DHM Valencia: OC Qualifiers - Bracket;Oreo;Chappy;2;0;3;A;1
+2022-04-23;Qual. (A);ESL ANZ 2022 S1 Qualifier;Oreo;Peppy;3;0;5;A;1
+2022-04-23;Qual. (A);ESL ANZ 2022 S1 Qualifier;Oreo;Rize;3;0;5;A;1
+2022-04-23;Qual. (A);ESL ANZ 2022 S1 Qualifier;Oreo;Chappy;1;0;1;A;1
+2022-04-23;Qual. (A);ESL ANZ 2022 S1 Qualifier;Oreo;AusProtoss;2;0;3;A;1
+2022-04-20;Week. (B);Sparkling Tuna Cup #12;Oreo;ArT;1;2;3;B;0
+2022-04-20;Week. (B);Sparkling Tuna Cup #12;Oreo;StarDuck;2;0;3;B;1
+2022-03-26;B-Tier;Ascension Cup #1;Oreo;Nice;0;2;3;B;0
+2022-02-22;Week. (B);Sparkling Tuna Cup #4;Oreo;ReBellioN;0;2;3;B;0
+2022-02-20;Week. (B);ESL Open Cup #111 Korea;Oreo;SpeCial;0;2;3;B;0
+2022-02-13;Week. (B);ESL Open Cup #110 Korea;Oreo;Astrea;0;2;3;B;0
+2022-02-09;Week. (B);Sparkling Tuna Cup #2;Oreo;Ranger;1;2;3;B;0
+2022-02-09;Week. (B);Sparkling Tuna Cup #2;Oreo;MeomaikA;2;0;3;B;1
+2022-02-02;Week. (B);Sparkling Tuna Cup #1;Oreo;TRUE;0;2;3;B;0
+2022-02-02;Week. (B);Sparkling Tuna Cup #1;Oreo;Bistork;2;1;3;B;1
+2022-02-02;Week. (B);Sparkling Tuna Cup #1;Oreo;Pleiades;2;0;3;B;1
+2022-01-23;Week. (B);ESL Open Cup #107 Korea;Oreo;ByuN;0;2;3;B;0
+2022-01-16;Week. (B);ESL Open Cup #106 Korea;Oreo;Demi;1;2;3;B;0
+2022-01-09;Week. (B);ESL Open Cup #105 Korea;Oreo;Nice;0;2;3;B;0
+2022-01-07;Showm. (B);Duckling Showdown 2021;Oreo;Erik;0;3;5;B;0
+2022-01-07;Showm. (B);Duckling Showdown 2021;Oreo;StarDuck;2;3;5;B;0
+2022-01-07;Showm. (B);Duckling Showdown 2021;Oreo;Erik;3;1;5;B;1
+2100-01-01;A-Tier;ESL ANZ Champs 2021 S2 - Playoffs;Oreo;Probe;2;3;5;A;0
+2021-11-24;Week. (C);Grand Platypus Open #82;Oreo;StarDuck;0;1;1;C;0
+2021-11-24;Week. (C);Grand Platypus Open #82;Oreo;ErebusBlack;1;0;1;C;1
+2021-11-24;Week. (C);Grand Platypus Open #82;Oreo;Bistork;0;2;3;C;0
+2100-01-01;A-Tier;ESL ANZ Champs 2021 S2 - Playoffs;Oreo;piglet;0;3;5;A;0
+2021-11-10;Week. (C);Grand Platypus Open #81;Oreo;MeomaikA;1;2;3;C;0
+2021-11-10;Week. (C);Grand Platypus Open #81;Oreo;EnDerr;0;2;3;C;0
+2021-11-10;Week. (C);Grand Platypus Open #81;Oreo;GogojOey;2;1;3;C;1
+2021-11-10;Week. (C);Grand Platypus Open #81;Oreo;Bistork;2;1;3;C;1
+2100-01-01;A-Tier;ESL ANZ Champs 2021 S2 - Playoffs;Oreo;StarDuck;3;0;5;A;1
+2100-01-01;A-Tier;ESL ANZ Champs 2021 S2 - Group A;Oreo;MightyKiwi;2;0;3;A;1
+2100-01-01;A-Tier;ESL ANZ Champs 2021 S2 - Group A;Oreo;Seither;1;2;3;A;0
+2100-01-01;A-Tier;ESL ANZ Champs 2021 S2 - Group A;Oreo;Chappy;1;0;1;A;1
+2021-10-20;Week. (C);Grand Platypus Open #78;Oreo;Bistork;1;2;3;C;0
+2021-10-20;Week. (C);Grand Platypus Open #78;Oreo;GogojOey;2;0;3;C;1
+2021-10-20;Week. (C);Grand Platypus Open #78;Oreo;Shy;2;0;3;C;1
+2021-10-09;C-Tier;The Demi Australian Open #2;Oreo;Azure;3;0;5;C;1
+2021-10-09;C-Tier;The Demi Australian Open #2;Oreo;Azure;2;1;3;C;1
+2021-10-09;C-Tier;The Demi Australian Open #2;Oreo;Vivid;2;0;3;C;1
+2021-10-03;Week. (B);ESL Open Cup #91 Korea;Oreo;Ryung;0;2;3;B;0
+2021-09-25;Qual. (A);DHM Winter: OC Qualifiers - Bracket;Oreo;piglet;1;2;3;A;0
+2021-09-24;Qual. (A);DHM Winter: OC Qualifiers - Bracket;Oreo;Quantel;1;2;3;A;0
+2021-09-24;Qual. (A);DHM Winter: OC Qualifiers - Bracket;Oreo;Aires;2;0;3;A;1
+2021-09-19;Week. (B);ESL Open Cup #89 Korea;Oreo;Nice;1;2;3;B;0
+2100-01-01;A-Tier;ESL ANZ Champs 2021 S2 - Group A;Oreo;Frustration;0;2;3;A;0
+2100-01-01;A-Tier;ESL ANZ Champs 2021 S2 - Group A;Oreo;Chase;2;0;3;A;1
+2100-01-01;A-Tier;ESL ANZ Champs 2021 S2 - Group A;Oreo;Azure;2;0;3;A;1
+2100-01-01;A-Tier;ESL ANZ Champs 2021 S2 - Group A;Oreo;RunaMoK;2;0;3;A;1
+2021-09-02;Week. (C);Grand Platypus Open #75;Oreo;Bistork;0;1;1;C;0
+2021-09-02;Week. (C);Grand Platypus Open #75;Oreo;Demi;1;0;1;C;1
+2021-09-02;Week. (C);Grand Platypus Open #75;Oreo;Bistork;0;2;3;C;0
+2021-08-28;Qual. (A);ESL ANZ Champs 2021 - Season 2: Qualifiers - Bracket;Oreo;Chappy;3;1;5;A;1
+2021-08-28;Qual. (A);ESL ANZ Champs 2021 - Season 2: Qualifiers - Bracket;Oreo;Rossi;3;0;5;A;1
+2021-08-28;Qual. (A);ESL ANZ Champs 2021 - Season 2: Qualifiers - Bracket;Oreo;DirtyQuack;2;0;3;A;1
+2021-08-26;Week. (C);Grand Platypus Open #74;Oreo;Bistork;0;1;1;C;0
+2021-08-26;Week. (C);Grand Platypus Open #74;Oreo;GogojOey;0;2;3;C;0
+2021-08-26;Week. (C);Grand Platypus Open #74;Oreo;StarDuck;2;1;3;C;1
+2021-08-19;Week. (C);Grand Platypus Open #73;Oreo;Demi;0;1;1;C;0
+2021-08-19;Week. (C);Grand Platypus Open #73;Oreo;Ranger;1;0;1;C;1
+2021-08-19;Week. (C);Grand Platypus Open #73;Oreo;GogojOey;0;2;3;C;0
+2021-08-19;Week. (C);Grand Platypus Open #73;Oreo;DarKVoiD;2;0;3;C;1
+2021-07-24;Qual. (A);DHM Fall: OC Qualifiers - Bracket;Oreo;Quantel;0;2;3;A;0
+2021-07-24;Qual. (A);DHM Fall: OC Qualifiers - Bracket;Oreo;Vivid;2;0;3;A;1
+2021-07-23;Qual. (A);DHM Fall: OC Qualifiers - Bracket;Oreo;Crimson;1;2;3;A;0
+2021-07-10;C-Tier;The Demi Australian Open #1;Oreo;Azure;0;2;3;C;0
+2021-07-10;C-Tier;The Demi Australian Open #1;Oreo;Vivid;2;0;3;C;1
+2021-07-10;C-Tier;The Demi Australian Open #1;Oreo;StarDuck;1;2;3;C;0
+2100-01-01;A-Tier;ESL ANZ Champs 2021 - Season 1 - Group B;Oreo;Chappy;2;0;3;A;1
+2100-01-01;A-Tier;ESL ANZ Champs 2021 - Season 1 - Group B;Oreo;Crimson;1;2;3;A;0
+2100-01-01;A-Tier;ESL ANZ Champs 2021 - Season 1 - Group B;Oreo;aconcises;2;0;3;A;1
+2100-01-01;A-Tier;ESL ANZ Champs 2021 - Season 1 - Group B;Oreo;Seither;0;2;3;A;0
+2100-01-01;A-Tier;ESL ANZ Champs 2021 - Season 1 - Group B;Oreo;MightyKiwi;0;2;3;A;0
+2021-06-12;A-Tier;ESL ANZ Champs 2021 - Season 1 - Group B;Oreo;Azure;2;1;3;A;1
+2021-06-12;A-Tier;ESL ANZ Champs 2021 - Season 1 - Group B;Oreo;Chase;1;2;3;A;0
+2021-06-10;Week. (C);Grand Platypus Open #67;Oreo;Ranger;0;2;3;C;0
+2021-06-10;Week. (C);Grand Platypus Open #67;Oreo;SeleiXi;1;0;1;C;1
+2021-06-09;Week. (C);SDC Cup #19;Oreo;Lero;0;2;3;C;0
+2021-06-09;Week. (C);SDC Cup #19;Oreo;Bistork;2;0;3;C;1
+2021-06-02;Week. (C);Grand Platypus Open #66;Oreo;GogojOey;0;2;3;C;0
+2021-05-23;Week. (B);ESL Open Cup #72 Korea;Oreo;Cure;0;2;3;B;0
+2021-05-15;Qual. (A);DHM Summer: OC Qualifiers - Bracket;Oreo;Saiko;1;2;3;A;0
+2021-05-14;Qual. (A);DHM Summer: OC Qualifiers - Bracket;Oreo;ZAiN;1;3;5;A;0
+2021-05-14;Qual. (A);DHM Summer: OC Qualifiers - Bracket;Oreo;RunaMoK;2;1;3;A;1
+2021-05-14;Qual. (A);DHM Summer: OC Qualifiers - Bracket;Oreo;Nefarious;2;1;3;A;1
+2021-05-09;Week. (C);Demi SEA Weekly #22;Oreo;Bistork;0;1;1;C;0
+2021-05-09;Week. (C);Demi SEA Weekly #22;Oreo;BYE;1;0;1;C;1
+2021-05-09;Week. (C);Demi SEA Weekly #22;Oreo;GogojOey;1;2;3;C;0
+2021-05-02;Week. (C);Demi SEA Weekly #21;Oreo;GogojOey;1;2;3;C;0
+2021-05-02;Week. (C);Demi SEA Weekly #21;Oreo;Bistork;1;0;1;C;1
+2021-05-02;Week. (C);Demi SEA Weekly #21;Oreo;DaSh;1;0;1;C;1
+2021-05-02;Week. (C);Demi SEA Weekly #21;Oreo;MeomaikA;0;2;3;C;0
+2021-05-02;Week. (C);Demi SEA Weekly #21;Oreo;Vivid;2;0;3;C;1
+2021-05-01;Qual. (A);ESL ANZ Champs 2021 - Season 1: Qualifiers - Bracket;Oreo;Crimson;1;0;1;A;1
+2021-05-01;Qual. (A);ESL ANZ Champs 2021 - Season 1: Qualifiers - Bracket;Oreo;StarDuck;2;0;3;A;1
+2021-05-01;Qual. (A);ESL ANZ Champs 2021 - Season 1: Qualifiers - Bracket;Oreo;Vivid;3;1;5;A;1
+2021-04-10;Week. (C);Grand Platypus Open #62;Oreo;StarDuck;0;1;1;C;0
+2021-04-10;Week. (C);Grand Platypus Open #62;Oreo;Bistork;1;2;3;C;0
+2021-04-10;Week. (C);Grand Platypus Open #62;Oreo;LongTz;1;0;1;C;1
+2021-03-28;Qual. (B);Pink Drip Pylon: OSC SEA Qualifier;Oreo;MeomaikA;0;2;3;B;0
+2021-03-28;Qual. (B);Pink Drip Pylon: OSC SEA Qualifier;Oreo;EnDerr;2;3;5;B;0
+2021-03-28;Qual. (B);Pink Drip Pylon: OSC SEA Qualifier;Oreo;piglet;2;1;3;B;1
+2021-03-28;Qual. (B);Pink Drip Pylon: OSC SEA Qualifier;Oreo;StarDuck;2;0;3;B;1
+2021-03-27;Week. (C);Grand Platypus Open #60;Oreo;Bistork;0;1;1;C;0
+2021-03-27;Week. (C);Grand Platypus Open #60;Oreo;StarDuck;1;0;1;C;1
+2021-03-27;Week. (C);Grand Platypus Open #60;Oreo;MeomaikA;0;2;3;C;0
+2021-03-27;Week. (C);Grand Platypus Open #60;Oreo;BYE;1;0;1;C;1
+2021-03-27;Week. (C);Grand Platypus Open #60;Oreo;Nefarious;2;0;3;C;1
+2021-03-24;Week. (C);SDC Cup #11;Oreo;Rex;0;2;3;C;0
+2021-03-24;Week. (C);SDC Cup #11;Oreo;MeomaikA;2;1;3;C;1
+2021-03-20;Week. (C);Grand Platypus Open #59;Oreo;GogojOey;0;2;3;C;0
+2021-03-20;Week. (C);Grand Platypus Open #59;Oreo;Artanis;2;0;3;C;1
+2021-03-06;Week. (C);Grand Platypus Open #57;Oreo;DaSh;0;1;1;C;0
+2021-03-06;Week. (C);Grand Platypus Open #57;Oreo;GogojOey;0;2;3;C;0
+2021-03-06;Week. (C);Grand Platypus Open #57;Oreo;EnDerr;2;1;3;C;1
+2021-03-06;Week. (C);Grand Platypus Open #57;Oreo;BYE;1;0;1;C;1
+2021-03-01;Week. (B);ESL Open Cup #60 Korea;Oreo;Nice;0;2;3;B;0
+2021-02-24;Week. (C);SDC Cup #7;Oreo;MeomaikA;0;2;3;C;0
+2021-02-22;Week. (B);ESL Open Cup #59 Korea;Oreo;goblin;0;1;1;B;0
+2021-02-20;Week. (C);Grand Platypus Open #55;Oreo;GogojOey;0;2;3;C;0
+2021-02-20;Week. (C);Grand Platypus Open #55;Oreo;StarDuck;1;0;1;C;1
+2021-02-20;Week. (C);Grand Platypus Open #55;Oreo;Bistork;1;0;1;C;1
+2021-02-20;Week. (C);Grand Platypus Open #55;Oreo;GogojOey;0;2;3;C;0
+2021-02-20;Week. (C);Grand Platypus Open #55;Oreo;StarDuck;2;1;3;C;1
+2020-11-07;Week. (C);Grand Platypus Open #45;Oreo;Azure;0;1;1;C;0
+2020-11-07;Week. (C);Grand Platypus Open #45;Oreo;StarDuck;1;0;1;C;1
+2020-11-07;Week. (C);Ao Dai Weekly #59;Oreo;Bistork;0;2;3;C;0
+2020-11-07;Week. (C);Grand Platypus Open #45;Oreo;MeomaikA;1;2;3;C;0
+2020-11-07;Week. (C);Ao Dai Weekly #59;Oreo;JusticeSimon;1;0;1;C;1
+2020-11-07;Week. (C);Ao Dai Weekly #59;Oreo;Hiro;1;0;1;C;1
+2020-11-07;Week. (C);Ao Dai Weekly #59;Oreo;Azure;0;2;3;C;0
+2020-11-07;Week. (C);Grand Platypus Open #45;Oreo;OrcoTMM;1;0;1;C;1
+2020-11-07;Week. (C);Ao Dai Weekly #59;Oreo;JusticeSimon;2;0;3;C;1
+2020-11-01;Biw. (B);Demi SEA Weekly #3;Oreo;ThuocLao;1;2;3;B;0
+2020-11-01;Biw. (B);Demi SEA Weekly #3;Oreo;Nux;2;0;3;B;1
+2100-01-01;Qual. (B);ESL ANZ Champs Winter: Qualifiers - Bracket;Oreo;Ranger;2;3;5;B;0
+2020-10-11;Qual. (B);ESL ANZ Champs Winter: Qualifiers - Bracket;Oreo;Azure;0;2;3;B;0
+2020-10-11;Qual. (B);ESL ANZ Champs Winter: Qualifiers - Bracket;Oreo;Darkvoid;2;0;3;B;1
+2020-10-11;Qual. (B);ESL ANZ Champs Winter: Qualifiers - Bracket;Oreo;Azure;2;1;3;B;1
+2020-10-10;Week. (C);Ao Dai Weekly #55;Oreo;Bistork;1;2;3;C;0
+2020-10-03;Week. (C);Grand Platypus Open #43;Oreo;GogojOey;0;2;3;C;0
+2020-10-03;Week. (C);Grand Platypus Open #43;Oreo;Submission;2;0;3;C;1
+2020-09-27;Biw. (B);Demi SEA Weekly #1;Oreo;MeomaikA;1;2;3;B;0
+2020-09-05;Week. (C);Grand Platypus Open #39;Oreo;Bistork;0;2;3;C;0
+2020-09-05;Week. (C);Grand Platypus Open #39;Oreo;Nux;1;0;1;C;1
+2020-09-05;Week. (C);Grand Platypus Open #39;Oreo;JusticeSimon;1;0;1;C;1
+2020-09-05;Week. (C);Grand Platypus Open #39;Oreo;Uply;1;0;1;C;1
+2020-09-05;Week. (C);Grand Platypus Open #39;Oreo;Bistork;1;2;3;C;0
+2020-09-05;Week. (C);Grand Platypus Open #39;Oreo;BYE;1;0;1;C;1
+2020-09-05;Week. (C);Grand Platypus Open #39;Oreo;StarDuck;2;0;3;C;1
+2020-08-09;Qual. (B);ESL ANZ Champs Fall: Qualifiers - Bracket;Oreo;piglet;1;3;5;B;0
+2020-08-09;Qual. (B);ESL ANZ Champs Fall: Qualifiers - Bracket;Oreo;NUKS;2;1;3;B;1
+2020-08-09;Qual. (B);ESL ANZ Champs Fall: Qualifiers - Bracket;Oreo;Saiko;2;3;5;B;0
+2020-08-09;Qual. (B);ESL ANZ Champs Fall: Qualifiers - Bracket;Oreo;MightyKiwi;2;0;3;B;1
+2020-08-04;Week. (C);ESL Open Cup #19 OCE;Oreo;JusticeSimon;1;2;3;C;0
+2020-08-04;Week. (C);ESL Open Cup #19 OCE;Oreo;MilkyMan;2;0;3;C;1
+2020-08-01;Week. (C);Grand Platypus Open #38;Oreo;GogojOey;0;2;3;C;0
+2020-08-01;Week. (C);Grand Platypus Open #38;Oreo;Bistork;1;0;1;C;1
+2020-08-01;Week. (C);Grand Platypus Open #38;Oreo;StarDuck;1;0;1;C;1
+2020-08-01;Week. (C);Grand Platypus Open #38;Oreo;GogojOey;0;2;3;C;0
+2020-08-01;Week. (C);Grand Platypus Open #38;Oreo;JusticeSimon;2;0;3;C;1
+2020-08-01;Week. (C);Ao Dai Weekly #45;Oreo;JusticeSimon;0;2;3;C;0
+2020-08-01;Week. (C);Grand Platypus Open #38;Oreo;BYE;1;0;1;C;1
+2020-07-28;Week. (C);ESL Open Cup #18 OCE;Oreo;Demi;0;2;3;C;0
+2020-07-28;Week. (C);ESL Open Cup #18 OCE;Oreo;Fourby;2;0;3;C;1
+2020-07-21;Week. (C);ESL Open Cup #17 OCE;Oreo;Azure;0;2;3;C;0
+2020-07-21;Week. (C);ESL Open Cup #17 OCE;Oreo;Fourby;2;0;3;C;1
+2020-07-21;Week. (C);ESL Open Cup #17 OCE;Oreo;RunaMoK;2;1;3;C;1
+2020-07-18;Week. (C);Grand Platypus Open #36;Oreo;GogojOey;0;1;1;C;0
+2020-07-18;Week. (C);Grand Platypus Open #36;Oreo;Azure;1;0;1;C;1
+2020-07-18;Week. (C);Grand Platypus Open #36;Oreo;Demi;1;2;3;C;0
+2025-06-29;B-Tier;AusCraft Winter 2025 - Playoffs;NXZ;Oreo;2;0;3;B;1
+2025-06-29;B-Tier;AusCraft Winter 2025 - Playoffs;Seiko;Oreo;0;2;3;B;0
+2025-06-29;B-Tier;AusCraft Winter 2025 - Playoffs;Rize;Oreo;2;0;3;B;1
+2025-06-29;B-Tier;AusCraft Winter 2025 - Playoffs;Karleb;Oreo;0;2;3;B;0
+2025-06-28;B-Tier;AusCraft Winter 2025 - Group B;NXZ;Oreo;1;2;3;B;0
+2025-06-28;B-Tier;AusCraft Winter 2025 - Group B;Barwu;Oreo;0;2;3;B;0
+2025-06-28;B-Tier;AusCraft Winter 2025 - Group B;TheWoK;Oreo;0;2;3;B;0
+2025-06-28;B-Tier;AusCraft Winter 2025 - Group B;Azure;Oreo;0;2;3;B;0
+2025-06-28;B-Tier;AusCraft Winter 2025 - Group B;Karleb;Oreo;0;2;3;B;0
+2025-04-13;Week. (B);Sparkling Tuna Cup #88;Krystianer;Oreo;2;0;3;B;1
+2024-04-06;Qual. (A);ESL Spring: Asia Qualifiers - Bracket;Lemon;Oreo;2;0;3;A;1
+2024-03-31;Week. (C);Sparkling Tuna Cup #45;Nicoract;Oreo;2;0;3;C;1
+2023-09-30;Biw. (C);Grand Platypus Open #96;GogojOey;Oreo;1;0;1;C;1
+2023-09-30;Biw. (C);Grand Platypus Open #96;Demi;Oreo;2;1;3;C;1
+2023-09-16;Biw. (C);Grand Platypus Open #95;EnDerr;Oreo;1;0;1;C;1
+2023-09-16;Biw. (C);Grand Platypus Open #95;Demi;Oreo;0;1;1;C;0
+2023-09-16;Biw. (C);Grand Platypus Open #95;DaSh;Oreo;2;1;3;C;1
+2023-08-05;Biw. (C);Grand Platypus Open #92;GogojOey;Oreo;1;0;1;C;1
+2023-08-05;Biw. (C);Grand Platypus Open #92;Nice;Oreo;2;0;3;C;1
+2023-07-22;Biw. (C);Grand Platypus Open #91;MeomaikA;Oreo;3;2;5;C;1
+2023-07-22;Biw. (C);Grand Platypus Open #91;MeomaikA;Oreo;0;2;3;C;0
+2023-07-22;Biw. (C);Grand Platypus Open #91;Demi;Oreo;1;2;3;C;0
+2023-07-22;Biw. (C);Grand Platypus Open #91;HonMonO;Oreo;1;2;3;C;0
+2023-07-08;B-Tier;BrisVegas Autumn 2023 - Playoffs;Peppy;Oreo;2;0;3;B;1
+2023-07-08;B-Tier;BrisVegas Autumn 2023 - Playoffs;Probe;Oreo;2;0;3;B;1
+2023-07-08;B-Tier;BrisVegas Autumn 2023 - Playoffs;Chappy;Oreo;1;2;3;B;0
+2023-07-08;B-Tier;BrisVegas Autumn 2023 - Playoffs;BigRedFred;Oreo;0;2;3;B;0
+2023-07-08;B-Tier;BrisVegas Autumn 2023 - Group B;E.T.;Oreo;0;2;3;B;0
+2023-07-08;B-Tier;BrisVegas Autumn 2023 - Group B;Barwu;Oreo;0;2;3;B;0
+2023-07-08;B-Tier;BrisVegas Autumn 2023 - Group B;Pezz;Oreo;2;1;3;B;1
+2023-07-08;B-Tier;BrisVegas Autumn 2023 - Group B;Azure;Oreo;0;2;3;B;0
+2023-07-08;B-Tier;BrisVegas Autumn 2023 - Group B;Peppy;Oreo;2;1;3;B;1
+2023-07-08;B-Tier;BrisVegas Autumn 2023 - Group B;HOTBIGTIT;Oreo;0;2;3;B;0
+2022-12-17;B-Tier;BrisVegas Summer 2022 - Playoffs;Chappy;Oreo;2;0;3;B;1
+2022-12-17;B-Tier;BrisVegas Summer 2022 - Playoffs;Pezz;Oreo;2;0;3;B;1
+2022-12-17;B-Tier;BrisVegas Summer 2022 - Group Stage;Pezz;Oreo;0;2;3;B;0
+2022-12-17;B-Tier;BrisVegas Summer 2022 - Group Stage;Probe;Oreo;2;0;3;B;1
+2022-12-17;B-Tier;BrisVegas Summer 2022 - Group Stage;You;Oreo;0;2;3;B;0
+2022-12-17;B-Tier;BrisVegas Summer 2022 - Group Stage;Azure;Oreo;1;2;3;B;0
+2022-12-17;B-Tier;BrisVegas Summer 2022 - Group Stage;Chappy;Oreo;0;2;3;B;0
+2022-11-28;Qual. (S);HSC XXII: OC;Demi;Oreo;2;1;3;S;1
+2022-10-02;Qual. (B);PAX Arena SCII - Bracket;Seither;Oreo;3;0;5;B;1
+2022-10-02;Qual. (B);PAX Arena SCII - Bracket;StarDuck;Oreo;1;2;3;B;0
+2022-10-02;Qual. (B);PAX Arena SCII - Bracket;Peppy;Oreo;2;0;3;B;1
+2022-10-02;Qual. (B);PAX Arena SCII - Bracket;StoicWilly;Oreo;0;2;3;B;0
+2022-10-01;Qual. (B);PAX Arena SCII - Bracket;Azure;Oreo;3;1;5;B;1
+2022-10-01;Qual. (B);PAX Arena SCII - Bracket;piglet;Oreo;3;2;5;B;1
+2022-10-01;Qual. (B);PAX Arena SCII - Bracket;Seither;Oreo;0;2;3;B;0
+2022-10-01;Qual. (B);PAX Arena SCII - Bracket;RunaMoK;Oreo;0;2;3;B;0
+2022-09-17;Qual. (A);DHM Atlanta: OC Qualifiers - Bracket;NXZ;Oreo;3;2;5;A;1
+2022-09-17;Qual. (A);DHM Atlanta: OC Qualifiers - Bracket;Demi;Oreo;0;2;3;A;0
+2022-09-17;Qual. (A);DHM Atlanta: OC Qualifiers - Bracket;Pezz;Oreo;0;2;3;A;0
+2022-09-16;Qual. (A);DHM Atlanta: OC Qualifiers - Bracket;Zain;Oreo;2;0;3;A;1
+2100-01-01;B-Tier;ESL ANZ Champs 2022 S1 - GS Group A;Probe;Oreo;2;0;3;B;1
+2100-01-01;B-Tier;ESL ANZ Champs 2022 S1 - GS Group A;StarDuck;Oreo;0;2;3;B;0
+2022-05-14;B-Tier;ESL ANZ Champs 2022 S1 - GS Group A;Probe;Oreo;2;0;3;B;1
+2022-05-07;Qual. (A);DHM Valencia: OC Qualifiers - Bracket;Nuks;Oreo;2;0;3;A;1
+2022-05-07;Qual. (A);DHM Valencia: OC Qualifiers - Bracket;aconcises;Oreo;0;2;3;A;0
+2022-05-06;Qual. (A);DHM Valencia: OC Qualifiers - Bracket;EnDerr;Oreo;2;1;3;A;1
+2022-05-06;Qual. (A);DHM Valencia: OC Qualifiers - Bracket;Chappy;Oreo;0;2;3;A;0
+2022-04-23;Qual. (A);ESL ANZ 2022 S1 Qualifier;Peppy;Oreo;0;3;5;A;0
+2022-04-23;Qual. (A);ESL ANZ 2022 S1 Qualifier;Rize;Oreo;0;3;5;A;0
+2022-04-23;Qual. (A);ESL ANZ 2022 S1 Qualifier;Chappy;Oreo;0;1;1;A;0
+2022-04-23;Qual. (A);ESL ANZ 2022 S1 Qualifier;AusProtoss;Oreo;0;2;3;A;0
+2022-04-20;Week. (B);Sparkling Tuna Cup #12;ArT;Oreo;2;1;3;B;1
+2022-04-20;Week. (B);Sparkling Tuna Cup #12;StarDuck;Oreo;0;2;3;B;0
+2022-03-26;B-Tier;Ascension Cup #1;Nice;Oreo;2;0;3;B;1
+2022-02-22;Week. (B);Sparkling Tuna Cup #4;ReBellioN;Oreo;2;0;3;B;1
+2022-02-20;Week. (B);ESL Open Cup #111 Korea;SpeCial;Oreo;2;0;3;B;1
+2022-02-13;Week. (B);ESL Open Cup #110 Korea;Astrea;Oreo;2;0;3;B;1
+2022-02-09;Week. (B);Sparkling Tuna Cup #2;Ranger;Oreo;2;1;3;B;1
+2022-02-09;Week. (B);Sparkling Tuna Cup #2;MeomaikA;Oreo;0;2;3;B;0
+2022-02-02;Week. (B);Sparkling Tuna Cup #1;TRUE;Oreo;2;0;3;B;1
+2022-02-02;Week. (B);Sparkling Tuna Cup #1;Bistork;Oreo;1;2;3;B;0
+2022-02-02;Week. (B);Sparkling Tuna Cup #1;Pleiades;Oreo;0;2;3;B;0
+2022-01-23;Week. (B);ESL Open Cup #107 Korea;ByuN;Oreo;2;0;3;B;1
+2022-01-16;Week. (B);ESL Open Cup #106 Korea;Demi;Oreo;2;1;3;B;1
+2022-01-09;Week. (B);ESL Open Cup #105 Korea;Nice;Oreo;2;0;3;B;1
+2022-01-07;Showm. (B);Duckling Showdown 2021;Erik;Oreo;3;0;5;B;1
+2022-01-07;Showm. (B);Duckling Showdown 2021;StarDuck;Oreo;3;2;5;B;1
+2022-01-07;Showm. (B);Duckling Showdown 2021;Erik;Oreo;1;3;5;B;0
+2100-01-01;A-Tier;ESL ANZ Champs 2021 S2 - Playoffs;Probe;Oreo;3;2;5;A;1
+2021-11-24;Week. (C);Grand Platypus Open #82;StarDuck;Oreo;1;0;1;C;1
+2021-11-24;Week. (C);Grand Platypus Open #82;ErebusBlack;Oreo;0;1;1;C;0
+2021-11-24;Week. (C);Grand Platypus Open #82;Bistork;Oreo;2;0;3;C;1
+2100-01-01;A-Tier;ESL ANZ Champs 2021 S2 - Playoffs;piglet;Oreo;3;0;5;A;1
+2021-11-10;Week. (C);Grand Platypus Open #81;MeomaikA;Oreo;2;1;3;C;1
+2021-11-10;Week. (C);Grand Platypus Open #81;EnDerr;Oreo;2;0;3;C;1
+2021-11-10;Week. (C);Grand Platypus Open #81;GogojOey;Oreo;1;2;3;C;0
+2021-11-10;Week. (C);Grand Platypus Open #81;Bistork;Oreo;1;2;3;C;0
+2100-01-01;A-Tier;ESL ANZ Champs 2021 S2 - Playoffs;StarDuck;Oreo;0;3;5;A;0
+2100-01-01;A-Tier;ESL ANZ Champs 2021 S2 - Group A;MightyKiwi;Oreo;0;2;3;A;0
+2100-01-01;A-Tier;ESL ANZ Champs 2021 S2 - Group A;Seither;Oreo;2;1;3;A;1
+2100-01-01;A-Tier;ESL ANZ Champs 2021 S2 - Group A;Chappy;Oreo;0;1;1;A;0
+2021-10-20;Week. (C);Grand Platypus Open #78;Bistork;Oreo;2;1;3;C;1
+2021-10-20;Week. (C);Grand Platypus Open #78;GogojOey;Oreo;0;2;3;C;0
+2021-10-20;Week. (C);Grand Platypus Open #78;Shy;Oreo;0;2;3;C;0
+2021-10-09;C-Tier;The Demi Australian Open #2;Azure;Oreo;0;3;5;C;0
+2021-10-09;C-Tier;The Demi Australian Open #2;Azure;Oreo;1;2;3;C;0
+2021-10-09;C-Tier;The Demi Australian Open #2;Vivid;Oreo;0;2;3;C;0
+2021-10-03;Week. (B);ESL Open Cup #91 Korea;Ryung;Oreo;2;0;3;B;1
+2021-09-25;Qual. (A);DHM Winter: OC Qualifiers - Bracket;piglet;Oreo;2;1;3;A;1
+2021-09-24;Qual. (A);DHM Winter: OC Qualifiers - Bracket;Quantel;Oreo;2;1;3;A;1
+2021-09-24;Qual. (A);DHM Winter: OC Qualifiers - Bracket;Aires;Oreo;0;2;3;A;0
+2021-09-19;Week. (B);ESL Open Cup #89 Korea;Nice;Oreo;2;1;3;B;1
+2100-01-01;A-Tier;ESL ANZ Champs 2021 S2 - Group A;Frustration;Oreo;2;0;3;A;1
+2100-01-01;A-Tier;ESL ANZ Champs 2021 S2 - Group A;Chase;Oreo;0;2;3;A;0
+2100-01-01;A-Tier;ESL ANZ Champs 2021 S2 - Group A;Azure;Oreo;0;2;3;A;0
+2100-01-01;A-Tier;ESL ANZ Champs 2021 S2 - Group A;RunaMoK;Oreo;0;2;3;A;0
+2021-09-02;Week. (C);Grand Platypus Open #75;Bistork;Oreo;1;0;1;C;1
+2021-09-02;Week. (C);Grand Platypus Open #75;Demi;Oreo;0;1;1;C;0
+2021-09-02;Week. (C);Grand Platypus Open #75;Bistork;Oreo;2;0;3;C;1
+2021-08-28;Qual. (A);ESL ANZ Champs 2021 - Season 2: Qualifiers - Bracket;Chappy;Oreo;1;3;5;A;0
+2021-08-28;Qual. (A);ESL ANZ Champs 2021 - Season 2: Qualifiers - Bracket;Rossi;Oreo;0;3;5;A;0
+2021-08-28;Qual. (A);ESL ANZ Champs 2021 - Season 2: Qualifiers - Bracket;DirtyQuack;Oreo;0;2;3;A;0
+2021-08-26;Week. (C);Grand Platypus Open #74;Bistork;Oreo;1;0;1;C;1
+2021-08-26;Week. (C);Grand Platypus Open #74;GogojOey;Oreo;2;0;3;C;1
+2021-08-26;Week. (C);Grand Platypus Open #74;StarDuck;Oreo;1;2;3;C;0
+2021-08-19;Week. (C);Grand Platypus Open #73;Demi;Oreo;1;0;1;C;1
+2021-08-19;Week. (C);Grand Platypus Open #73;Ranger;Oreo;0;1;1;C;0
+2021-08-19;Week. (C);Grand Platypus Open #73;GogojOey;Oreo;2;0;3;C;1
+2021-08-19;Week. (C);Grand Platypus Open #73;DarKVoiD;Oreo;0;2;3;C;0
+2021-07-24;Qual. (A);DHM Fall: OC Qualifiers - Bracket;Quantel;Oreo;2;0;3;A;1
+2021-07-24;Qual. (A);DHM Fall: OC Qualifiers - Bracket;Vivid;Oreo;0;2;3;A;0
+2021-07-23;Qual. (A);DHM Fall: OC Qualifiers - Bracket;Crimson;Oreo;2;1;3;A;1
+2021-07-10;C-Tier;The Demi Australian Open #1;Azure;Oreo;2;0;3;C;1
+2021-07-10;C-Tier;The Demi Australian Open #1;Vivid;Oreo;0;2;3;C;0
+2021-07-10;C-Tier;The Demi Australian Open #1;StarDuck;Oreo;2;1;3;C;1
+2100-01-01;A-Tier;ESL ANZ Champs 2021 - Season 1 - Group B;Chappy;Oreo;0;2;3;A;0
+2100-01-01;A-Tier;ESL ANZ Champs 2021 - Season 1 - Group B;Crimson;Oreo;2;1;3;A;1
+2100-01-01;A-Tier;ESL ANZ Champs 2021 - Season 1 - Group B;aconcises;Oreo;0;2;3;A;0
+2100-01-01;A-Tier;ESL ANZ Champs 2021 - Season 1 - Group B;Seither;Oreo;2;0;3;A;1
+2100-01-01;A-Tier;ESL ANZ Champs 2021 - Season 1 - Group B;MightyKiwi;Oreo;2;0;3;A;1
+2021-06-12;A-Tier;ESL ANZ Champs 2021 - Season 1 - Group B;Azure;Oreo;1;2;3;A;0
+2021-06-12;A-Tier;ESL ANZ Champs 2021 - Season 1 - Group B;Chase;Oreo;2;1;3;A;1
+2021-06-10;Week. (C);Grand Platypus Open #67;Ranger;Oreo;2;0;3;C;1
+2021-06-10;Week. (C);Grand Platypus Open #67;SeleiXi;Oreo;0;1;1;C;0
+2021-06-09;Week. (C);SDC Cup #19;Lero;Oreo;2;0;3;C;1
+2021-06-09;Week. (C);SDC Cup #19;Bistork;Oreo;0;2;3;C;0
+2021-06-02;Week. (C);Grand Platypus Open #66;GogojOey;Oreo;2;0;3;C;1
+2021-05-23;Week. (B);ESL Open Cup #72 Korea;Cure;Oreo;2;0;3;B;1
+2021-05-15;Qual. (A);DHM Summer: OC Qualifiers - Bracket;Saiko;Oreo;2;1;3;A;1
+2021-05-14;Qual. (A);DHM Summer: OC Qualifiers - Bracket;ZAiN;Oreo;3;1;5;A;1
+2021-05-14;Qual. (A);DHM Summer: OC Qualifiers - Bracket;RunaMoK;Oreo;1;2;3;A;0
+2021-05-14;Qual. (A);DHM Summer: OC Qualifiers - Bracket;Nefarious;Oreo;1;2;3;A;0
+2021-05-09;Week. (C);Demi SEA Weekly #22;Bistork;Oreo;1;0;1;C;1
+2021-05-09;Week. (C);Demi SEA Weekly #22;BYE;Oreo;0;1;1;C;0
+2021-05-09;Week. (C);Demi SEA Weekly #22;GogojOey;Oreo;2;1;3;C;1
+2021-05-02;Week. (C);Demi SEA Weekly #21;GogojOey;Oreo;2;1;3;C;1
+2021-05-02;Week. (C);Demi SEA Weekly #21;Bistork;Oreo;0;1;1;C;0
+2021-05-02;Week. (C);Demi SEA Weekly #21;DaSh;Oreo;0;1;1;C;0
+2021-05-02;Week. (C);Demi SEA Weekly #21;MeomaikA;Oreo;2;0;3;C;1
+2021-05-02;Week. (C);Demi SEA Weekly #21;Vivid;Oreo;0;2;3;C;0
+2021-05-01;Qual. (A);ESL ANZ Champs 2021 - Season 1: Qualifiers - Bracket;Crimson;Oreo;0;1;1;A;0
+2021-05-01;Qual. (A);ESL ANZ Champs 2021 - Season 1: Qualifiers - Bracket;StarDuck;Oreo;0;2;3;A;0
+2021-05-01;Qual. (A);ESL ANZ Champs 2021 - Season 1: Qualifiers - Bracket;Vivid;Oreo;1;3;5;A;0
+2021-04-10;Week. (C);Grand Platypus Open #62;StarDuck;Oreo;1;0;1;C;1
+2021-04-10;Week. (C);Grand Platypus Open #62;Bistork;Oreo;2;1;3;C;1
+2021-04-10;Week. (C);Grand Platypus Open #62;LongTz;Oreo;0;1;1;C;0
+2021-03-28;Qual. (B);Pink Drip Pylon: OSC SEA Qualifier;MeomaikA;Oreo;2;0;3;B;1
+2021-03-28;Qual. (B);Pink Drip Pylon: OSC SEA Qualifier;EnDerr;Oreo;3;2;5;B;1
+2021-03-28;Qual. (B);Pink Drip Pylon: OSC SEA Qualifier;piglet;Oreo;1;2;3;B;0
+2021-03-28;Qual. (B);Pink Drip Pylon: OSC SEA Qualifier;StarDuck;Oreo;0;2;3;B;0
+2021-03-27;Week. (C);Grand Platypus Open #60;Bistork;Oreo;1;0;1;C;1
+2021-03-27;Week. (C);Grand Platypus Open #60;StarDuck;Oreo;0;1;1;C;0
+2021-03-27;Week. (C);Grand Platypus Open #60;MeomaikA;Oreo;2;0;3;C;1
+2021-03-27;Week. (C);Grand Platypus Open #60;BYE;Oreo;0;1;1;C;0
+2021-03-27;Week. (C);Grand Platypus Open #60;Nefarious;Oreo;0;2;3;C;0
+2021-03-24;Week. (C);SDC Cup #11;Rex;Oreo;2;0;3;C;1
+2021-03-24;Week. (C);SDC Cup #11;MeomaikA;Oreo;1;2;3;C;0
+2021-03-20;Week. (C);Grand Platypus Open #59;GogojOey;Oreo;2;0;3;C;1
+2021-03-20;Week. (C);Grand Platypus Open #59;Artanis;Oreo;0;2;3;C;0
+2021-03-06;Week. (C);Grand Platypus Open #57;DaSh;Oreo;1;0;1;C;1
+2021-03-06;Week. (C);Grand Platypus Open #57;GogojOey;Oreo;2;0;3;C;1
+2021-03-06;Week. (C);Grand Platypus Open #57;EnDerr;Oreo;1;2;3;C;0
+2021-03-06;Week. (C);Grand Platypus Open #57;BYE;Oreo;0;1;1;C;0
+2021-03-01;Week. (B);ESL Open Cup #60 Korea;Nice;Oreo;2;0;3;B;1
+2021-02-24;Week. (C);SDC Cup #7;MeomaikA;Oreo;2;0;3;C;1
+2021-02-22;Week. (B);ESL Open Cup #59 Korea;goblin;Oreo;1;0;1;B;1
+2021-02-20;Week. (C);Grand Platypus Open #55;GogojOey;Oreo;2;0;3;C;1
+2021-02-20;Week. (C);Grand Platypus Open #55;StarDuck;Oreo;0;1;1;C;0
+2021-02-20;Week. (C);Grand Platypus Open #55;Bistork;Oreo;0;1;1;C;0
+2021-02-20;Week. (C);Grand Platypus Open #55;GogojOey;Oreo;2;0;3;C;1
+2021-02-20;Week. (C);Grand Platypus Open #55;StarDuck;Oreo;1;2;3;C;0
+2020-11-07;Week. (C);Grand Platypus Open #45;Azure;Oreo;1;0;1;C;1
+2020-11-07;Week. (C);Grand Platypus Open #45;StarDuck;Oreo;0;1;1;C;0
+2020-11-07;Week. (C);Ao Dai Weekly #59;Bistork;Oreo;2;0;3;C;1
+2020-11-07;Week. (C);Grand Platypus Open #45;MeomaikA;Oreo;2;1;3;C;1
+2020-11-07;Week. (C);Ao Dai Weekly #59;JusticeSimon;Oreo;0;1;1;C;0
+2020-11-07;Week. (C);Ao Dai Weekly #59;Hiro;Oreo;0;1;1;C;0
+2020-11-07;Week. (C);Ao Dai Weekly #59;Azure;Oreo;2;0;3;C;1
+2020-11-07;Week. (C);Grand Platypus Open #45;OrcoTMM;Oreo;0;1;1;C;0
+2020-11-07;Week. (C);Ao Dai Weekly #59;JusticeSimon;Oreo;0;2;3;C;0
+2020-11-01;Biw. (B);Demi SEA Weekly #3;ThuocLao;Oreo;2;1;3;B;1
+2020-11-01;Biw. (B);Demi SEA Weekly #3;Nux;Oreo;0;2;3;B;0
+2100-01-01;Qual. (B);ESL ANZ Champs Winter: Qualifiers - Bracket;Ranger;Oreo;3;2;5;B;1
+2020-10-11;Qual. (B);ESL ANZ Champs Winter: Qualifiers - Bracket;Azure;Oreo;2;0;3;B;1
+2020-10-11;Qual. (B);ESL ANZ Champs Winter: Qualifiers - Bracket;Darkvoid;Oreo;0;2;3;B;0
+2020-10-11;Qual. (B);ESL ANZ Champs Winter: Qualifiers - Bracket;Azure;Oreo;1;2;3;B;0
+2020-10-10;Week. (C);Ao Dai Weekly #55;Bistork;Oreo;2;1;3;C;1
+2020-10-03;Week. (C);Grand Platypus Open #43;GogojOey;Oreo;2;0;3;C;1
+2020-10-03;Week. (C);Grand Platypus Open #43;Submission;Oreo;0;2;3;C;0
+2020-09-27;Biw. (B);Demi SEA Weekly #1;MeomaikA;Oreo;2;1;3;B;1
+2020-09-05;Week. (C);Grand Platypus Open #39;Bistork;Oreo;2;0;3;C;1
+2020-09-05;Week. (C);Grand Platypus Open #39;Nux;Oreo;0;1;1;C;0
+2020-09-05;Week. (C);Grand Platypus Open #39;JusticeSimon;Oreo;0;1;1;C;0
+2020-09-05;Week. (C);Grand Platypus Open #39;Uply;Oreo;0;1;1;C;0
+2020-09-05;Week. (C);Grand Platypus Open #39;Bistork;Oreo;2;1;3;C;1
+2020-09-05;Week. (C);Grand Platypus Open #39;BYE;Oreo;0;1;1;C;0
+2020-09-05;Week. (C);Grand Platypus Open #39;StarDuck;Oreo;0;2;3;C;0
+2020-08-09;Qual. (B);ESL ANZ Champs Fall: Qualifiers - Bracket;piglet;Oreo;3;1;5;B;1
+2020-08-09;Qual. (B);ESL ANZ Champs Fall: Qualifiers - Bracket;NUKS;Oreo;1;2;3;B;0
+2020-08-09;Qual. (B);ESL ANZ Champs Fall: Qualifiers - Bracket;Saiko;Oreo;3;2;5;B;1
+2020-08-09;Qual. (B);ESL ANZ Champs Fall: Qualifiers - Bracket;MightyKiwi;Oreo;0;2;3;B;0
+2020-08-04;Week. (C);ESL Open Cup #19 OCE;JusticeSimon;Oreo;2;1;3;C;1
+2020-08-04;Week. (C);ESL Open Cup #19 OCE;MilkyMan;Oreo;0;2;3;C;0
+2020-08-01;Week. (C);Grand Platypus Open #38;GogojOey;Oreo;2;0;3;C;1
+2020-08-01;Week. (C);Grand Platypus Open #38;Bistork;Oreo;0;1;1;C;0
+2020-08-01;Week. (C);Grand Platypus Open #38;StarDuck;Oreo;0;1;1;C;0
+2020-08-01;Week. (C);Grand Platypus Open #38;GogojOey;Oreo;2;0;3;C;1
+2020-08-01;Week. (C);Grand Platypus Open #38;JusticeSimon;Oreo;0;2;3;C;0
+2020-08-01;Week. (C);Ao Dai Weekly #45;JusticeSimon;Oreo;2;0;3;C;1
+2020-08-01;Week. (C);Grand Platypus Open #38;BYE;Oreo;0;1;1;C;0
+2020-07-28;Week. (C);ESL Open Cup #18 OCE;Demi;Oreo;2;0;3;C;1
+2020-07-28;Week. (C);ESL Open Cup #18 OCE;Fourby;Oreo;0;2;3;C;0
+2020-07-21;Week. (C);ESL Open Cup #17 OCE;Azure;Oreo;2;0;3;C;1
+2020-07-21;Week. (C);ESL Open Cup #17 OCE;Fourby;Oreo;0;2;3;C;0
+2020-07-21;Week. (C);ESL Open Cup #17 OCE;RunaMoK;Oreo;1;2;3;C;0
+2020-07-18;Week. (C);Grand Platypus Open #36;GogojOey;Oreo;1;0;1;C;1
+2020-07-18;Week. (C);Grand Platypus Open #36;Azure;Oreo;0;1;1;C;0
+2020-07-18;Week. (C);Grand Platypus Open #36;Demi;Oreo;2;1;3;C;1

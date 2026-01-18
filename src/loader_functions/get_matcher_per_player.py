@@ -16,7 +16,7 @@ def get_matcher_per_player(player_name : str):
     print(f'load: {player_url}', f'get : {len(pd.DataFrame(all_matches))}')
     time.sleep(np.random.uniform(30, 60))
 
-    resp = requests.get(player_url, headers=HEADERS)
+    resp = requests.get(player_url, headers=HEADERS, timeout = 60)
     time.sleep(np.random.uniform(30, 60))
     soup = BeautifulSoup(resp.text, "html.parser")
     links = soup.find_all("a")

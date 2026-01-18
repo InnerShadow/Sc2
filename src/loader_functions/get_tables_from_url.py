@@ -6,7 +6,7 @@ import time
 from src.config import HEADERS
 
 def get_tables_from_url(url : str, trys : int = 0, need_retry : bool = False):
-    resp = requests.get(url, headers = HEADERS)
+    resp = requests.get(url, headers = HEADERS, timeout = 60)
     soup = BeautifulSoup(resp.text, "html.parser")
     tables = soup.find_all("table", class_="wikitable")
     print(f'{url} : {resp.status_code} ===== {resp if resp.status_code > 300 else ""}')

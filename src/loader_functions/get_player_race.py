@@ -5,7 +5,7 @@ from src.config import HEADERS, BASE_URL, GAME
 
 def get_player_race(player : str):
     player_url = f"{BASE_URL}/{GAME}/{player}"
-    resp = requests.get(player_url, headers = HEADERS)
+    resp = requests.get(player_url, headers = HEADERS, timeout = 60)
     soup = BeautifulSoup(resp.text, "html.parser")
 
     for div in soup.select("div.infobox-cell-2.infobox-description"):
