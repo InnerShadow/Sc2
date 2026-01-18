@@ -1,0 +1,43 @@
+date;match;tournament;player;oponent;player_wins;oponent_wins;best_of;tournament_tier;target
+2020-08-25;B-Tier;La Espira: Desafiantes - Fall 2020;Universe;eGGz;1;2;3;B;0
+2020-08-25;B-Tier;La Espira: Desafiantes - Fall 2020;Universe;kaozfate;2;1;3;B;1
+2020-08-23;Qual. (A);DH SC2 Masters 2020 Fall: Latin America Qualifiers - Bracket;Universe;DarkUnnamed;1;2;3;A;0
+2020-08-23;Qual. (A);DH SC2 Masters 2020 Fall: Latin America Qualifiers - Bracket;Universe;Jarppi;2;1;3;A;1
+2020-08-23;Qual. (A);DH SC2 Masters 2020 Fall: Latin America Qualifiers - Bracket;Universe;JimRising;2;0;3;A;1
+2020-08-23;Qual. (A);DH SC2 Masters 2020 Fall: Latin America Qualifiers - Bracket;Universe;XionS;2;1;3;A;1
+2020-08-23;Qual. (A);DH SC2 Masters 2020 Fall: Latin America Qualifiers - Bracket;Universe;TerraN;0;2;3;A;0
+2020-08-21;Qual. (A);DH SC2 Masters 2020 Fall: Latin America Qualifiers - Bracket;Universe;TheZergLord;1;3;5;A;0
+2020-07-03;Biw. (C);Sentimiento Latino #88;Universe;Sagan;2;1;3;C;1
+2020-07-03;Biw. (C);Sentimiento Latino #88;Universe;eGGz;0;2;3;C;0
+2020-07-03;Biw. (C);Sentimiento Latino #88;Universe;Darkness;2;0;3;C;1
+2020-07-03;Biw. (C);Sentimiento Latino #88;Universe;Shalko;1;0;1;C;1
+2020-06-21;Qual. (A);DH SC2 Masters 2020 Summer: Latin America Qualifiers - Bracket;Universe;Ryu;1;2;3;A;0
+2020-05-22;Biw. (C);Sentimiento Latino #85;Universe;Pacomike;1;0;1;C;1
+2020-05-22;Biw. (C);Sentimiento Latino #85;Universe;Ryu;0;2;3;C;0
+2020-05-22;Biw. (C);Sentimiento Latino #85;Universe;eGGz;2;1;3;C;1
+2020-05-22;Biw. (C);Sentimiento Latino #85;Universe;Caiobex;2;0;3;C;1
+2020-04-25;Week. (C);Battle of the Americas #13;Universe;starkiller;0;2;3;C;0
+2020-03-22;Week. (C);SC2 ONLINE Community Open #136;Universe;Cham;0;2;3;C;0
+2020-03-18;Qual. (B);Taco Cup 5 - Qualifier;Universe;eGGz;0;2;3;B;0
+2020-03-15;Week. (B);ESL Open Cup #10 Americas;Universe;Future;1;2;3;B;0
+2020-08-25;B-Tier;La Espira: Desafiantes - Fall 2020;eGGz;Universe;2;1;3;B;1
+2020-08-25;B-Tier;La Espira: Desafiantes - Fall 2020;kaozfate;Universe;1;2;3;B;0
+2020-08-23;Qual. (A);DH SC2 Masters 2020 Fall: Latin America Qualifiers - Bracket;DarkUnnamed;Universe;2;1;3;A;1
+2020-08-23;Qual. (A);DH SC2 Masters 2020 Fall: Latin America Qualifiers - Bracket;Jarppi;Universe;1;2;3;A;0
+2020-08-23;Qual. (A);DH SC2 Masters 2020 Fall: Latin America Qualifiers - Bracket;JimRising;Universe;0;2;3;A;0
+2020-08-23;Qual. (A);DH SC2 Masters 2020 Fall: Latin America Qualifiers - Bracket;XionS;Universe;1;2;3;A;0
+2020-08-23;Qual. (A);DH SC2 Masters 2020 Fall: Latin America Qualifiers - Bracket;TerraN;Universe;2;0;3;A;1
+2020-08-21;Qual. (A);DH SC2 Masters 2020 Fall: Latin America Qualifiers - Bracket;TheZergLord;Universe;3;1;5;A;1
+2020-07-03;Biw. (C);Sentimiento Latino #88;Sagan;Universe;1;2;3;C;0
+2020-07-03;Biw. (C);Sentimiento Latino #88;eGGz;Universe;2;0;3;C;1
+2020-07-03;Biw. (C);Sentimiento Latino #88;Darkness;Universe;0;2;3;C;0
+2020-07-03;Biw. (C);Sentimiento Latino #88;Shalko;Universe;0;1;1;C;0
+2020-06-21;Qual. (A);DH SC2 Masters 2020 Summer: Latin America Qualifiers - Bracket;Ryu;Universe;2;1;3;A;1
+2020-05-22;Biw. (C);Sentimiento Latino #85;Pacomike;Universe;0;1;1;C;0
+2020-05-22;Biw. (C);Sentimiento Latino #85;Ryu;Universe;2;0;3;C;1
+2020-05-22;Biw. (C);Sentimiento Latino #85;eGGz;Universe;1;2;3;C;0
+2020-05-22;Biw. (C);Sentimiento Latino #85;Caiobex;Universe;0;2;3;C;0
+2020-04-25;Week. (C);Battle of the Americas #13;starkiller;Universe;2;0;3;C;1
+2020-03-22;Week. (C);SC2 ONLINE Community Open #136;Cham;Universe;2;0;3;C;1
+2020-03-18;Qual. (B);Taco Cup 5 - Qualifier;eGGz;Universe;2;0;3;B;1
+2020-03-15;Week. (B);ESL Open Cup #10 Americas;Future;Universe;2;1;3;B;1
