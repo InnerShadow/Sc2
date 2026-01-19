@@ -1,61 +1,57 @@
-import pandas as pd
-import time
-import numpy as np
+from tqdm import tqdm
 import os
+import time
 
-from src.loader_functions.get_matcher_per_player import get_matcher_per_player
-from src.loader_functions.get_player_race import get_player_race
+import pandas as pd
+import numpy as np
 
-from src.config import PATH_TO_PLAYERS
+from src.loader_functions.get_liquipedia_tournaments import get_liquipedia_tournaments
+from src.loader_functions.get_liquipedia_tornament_info import get_liquipedia_tornament_info
+from src.loader_functions.get_aligulac_matches import get_aligulac_matches
 
-def _load_players() -> pd.DataFrame:
-    df = pd.read_csv(PATH_TO_PLAYERS, sep = ';')
-    return df
-# end def
+from src.config import LIQUIPEDIA_URLS, SAVE_PATH
 
-def load_data(idx : int):
-    np.random.seed(os.getpid())
-    time.sleep(np.random.uniform(10, 150))
-    while True:
-        df_players = _load_players()
-        df_players_filtered = df_players[df_players['is_loaded'] != 1].reset_index(drop = True)
+def load_data():
 
-        if df_players_filtered.empty:
-            print("All players are loaded. Exit.")
-            break
-        # end if
+    if os.path.exists(SAVE_PATH):
+        df = pd.read_csv(SAVE_PATH, sep = ';')
+    else:
+        df = pd.DataFrame(
+            columns = [
+                'date',
+                'player',
+                'player_race',
+                'player_score',
+                'player_id',
+                'opponent',
+                'opponent_race',
+                'opponent_score',
+                'opponent_id',
+                'score_match',
+                'tier',
+                'url'
+            ]
+            )
+    # end if
 
-        cur_player = df_players_filtered.iloc[idx]['player']
-        print(f'Total players : {len(df_players)} | left {len(df_players_filtered)} | Now: {cur_player} | PRC : {1 - (len(df_players_filtered) / len(df_players)):.4f}')
+    for url in LIQUIPEDIA_URLS:
+        print(f'start : {url}')
+        tournaments = get_liquipedia_tournaments(url)
+        time.sleep(60 + np.random.uniform(10, 30))
+        for tournament in tqdm(tournaments):
+            if tournament not in df['url'].tolist():
+                tier, aligulac_url = get_liquipedia_tornament_info(tournament)
+                if aligulac_url is not None and aligulac_url not in df['url'].unique():
+                    aligulac_data = get_aligulac_matches(aligulac_url)
+                    time.sleep(60 + np.random.uniform(10, 30))
 
-        time.sleep(np.random.uniform(10, 60))
-        df_curr = get_matcher_per_player(cur_player)
-        race = get_player_race(cur_player)
+                    aligulac_data['tier'] = tier
+                    aligulac_data['url'] = aligulac_url
 
-        csv_path = f'./data/{cur_player}.csv'
-        df_curr.to_csv(csv_path, index = False, sep = ';')
-
-        df_players = _load_players()
-        existing_players = set(df_players['player'])
-
-        found_players = set(df_curr['player'])
-        new_players = found_players - existing_players
-
-        mask = df_players['player'] == cur_player
-        df_players.loc[mask, 'is_loaded'] = 1
-        df_players.loc[mask, 'path'] = csv_path
-        df_players.loc[mask, 'race'] = race
-
-        if new_players:
-            df_new = pd.DataFrame({
-                'player': list(new_players),
-                'is_loaded': 0,
-                'path': None,
-                'race': None
-            })
-            df_players = pd.concat([df_players, df_new], ignore_index=True)
-        # end if
-
-        df_players.to_csv(PATH_TO_PLAYERS, sep = ';', index = False)
-    # end while
+                    df = pd.concat([df, aligulac_data]).reset_index(drop = True)
+                    df.to_csv(SAVE_PATH, sep = ';', index = False)
+                # end if
+            # end if
+        # end for
+    # end for
 # end def
