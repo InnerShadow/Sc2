@@ -42,23 +42,21 @@ def load_data():
         tournaments = get_liquipedia_tournaments(url)
         time.sleep(60 + np.random.uniform(10, 30))
         for tournament in tqdm(tournaments):
-            if tournament not in df['url'].tolist():
-                if tournament in processed_tournaments:
-                    continue
-                # end if
-                aligulac_url = get_liquipedia_tornament_info(tournament)
-                # print(f'{aligulac_url} FROM {tournament}')
-                time.sleep(60 + np.random.uniform(10, 30))
-                if aligulac_url is not None and aligulac_url not in df['url'].unique():
-                    aligulac_data = get_aligulac_matches(aligulac_url)
+            if tournament in processed_tournaments:
+                continue
+            # end if
+            aligulac_url = get_liquipedia_tornament_info(tournament)
+            # print(f'{aligulac_url} FROM {tournament}')
+            time.sleep(60 + np.random.uniform(10, 30))
+            if aligulac_url is not None and aligulac_url not in df['url'].unique():
+                aligulac_data = get_aligulac_matches(aligulac_url)
 
-                    aligulac_data['tier'] = tier
-                    aligulac_data['url'] = aligulac_url
-                    aligulac_data['tournament'] = tournament
+                aligulac_data['tier'] = tier
+                aligulac_data['url'] = aligulac_url
+                aligulac_data['tournament'] = tournament
 
-                    df = pd.concat([df, aligulac_data]).reset_index(drop = True)
-                    df.to_csv(SAVE_PATH, sep = ';', index = False)
-                # end if
+                df = pd.concat([df, aligulac_data]).reset_index(drop = True)
+                df.to_csv(SAVE_PATH, sep = ';', index = False)
             # end if
             processed_tournaments.add(tournament)
             save_processed_tournaments(SAVE_PATH_TOURNAMENTS, processed_tournaments)
