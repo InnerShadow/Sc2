@@ -13,12 +13,16 @@ def get_liquipedia_tournaments(url : str) -> List[str]:
     tournament_links = []
 
     for cell in soup.select('div.gridCell.Tournament.Header'):
-        a = cell.find('a', href=True)
-        if a:
-            tournament_links.append(
-                urljoin(BASE_URL, a['href'])
-            )
+        links = cell.find_all('a', href=True)
+        if not links:
+            continue
         # end if
+
+        a = links[-1]
+
+        tournament_links.append(
+            urljoin(BASE_URL, a['href'])
+        )
     # end for
 
     return tournament_links
