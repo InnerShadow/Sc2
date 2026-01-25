@@ -40,14 +40,14 @@ def load_data():
     for url, tier in LIQUIPEDIA_URLS.items():
         print(f'start : {url}')
         tournaments = get_liquipedia_tournaments(url)
-        time.sleep(60 + np.random.uniform(10, 30))
+        time.sleep(30 + np.random.uniform(10, 30))
         for tournament in tqdm(tournaments):
             if tournament in processed_tournaments:
                 continue
             # end if
             aligulac_url = get_liquipedia_tornament_info(tournament)
             # print(f'{aligulac_url} FROM {tournament}')
-            time.sleep(60 + np.random.uniform(10, 30))
+            time.sleep(30 + np.random.uniform(10, 30))
             if aligulac_url is not None and aligulac_url not in df['url'].unique():
                 aligulac_data = get_aligulac_matches(aligulac_url)
 
