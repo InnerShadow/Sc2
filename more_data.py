@@ -39,13 +39,12 @@ if __name__ == '__main__':
 
     for tournament, tier in tqdm(zip(['https://liquipedia.net/starcraft2/Thunderfire_SC2_Allstar/2025',
                                       'https://liquipedia.net/starcraft2/OSC_Championship_13',
-                                      'https://liquipedia.net/starcraft2/Rising_Star_Cup/1'
+                                      'https://liquipedia.net/starcraft2/Rising_Star_Cup/1',
                                       'https://liquipedia.net/starcraft2/Chicken_King_Cup/8',
                                       'https://liquipedia.net/starcraft2/OSC_King_of_the_Hill_Weekly/235',
                                       'https://liquipedia.net/starcraft2/The_Berry_Patch_Open',
                                       'https://liquipedia.net/starcraft2/Basilisk_Big_Brain_Bouts/104',
                                       'https://liquipedia.net/starcraft2/PiGosaur_Cup/65',
-                                      'https://liquipedia.net/starcraft2/Thunderfire_SC2_Allstar/2025',
                                       'https://liquipedia.net/starcraft2/Monday_Night_Weeklies/37',
                                       'https://liquipedia.net/starcraft2/WardiTV_Mondays/71',
                                       'https://liquipedia.net/starcraft2/The_5.4k_Patch_Clash/12',
