@@ -25,5 +25,11 @@ LIQUIPEDIA_URLS = {
     # 'https://liquipedia.net/starcraft2/C-Tier_Tournaments/2020' : 'C'
 }
 
+LIQUIPEDIA_URLS_ACTUAL = {
+    'https://liquipedia.net/starcraft2/S-Tier_Tournaments' : 'S',
+    'https://liquipedia.net/starcraft2/A-Tier_Tournaments' : 'A',
+    'https://liquipedia.net/starcraft2/B-Tier_Tournaments' : 'B'
+}
+
 SAVE_PATH = os.path.join('.', 'data', 'dataset.csv')
 SAVE_PATH_TOURNAMENTS = os.path.join('.', 'data', 'tournaments.json')
